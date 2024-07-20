@@ -382,14 +382,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/JkM3OTEl/physics-mod-3.0.14-mc-1.20.1-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "0fa84aa968b75936fc24b170a061925a3ad244ddfc64826e1ae8b02c93fed8da2bfd9a6863d5be6c4ee900a86541822f6db9adb721ca88cfa421a8d11b482aff"
-                },
-                "name": "Physics Mod",
-                "serverSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/RXM1nxge/versions/UJN4LCL0/inv_view_forge-1.3.0-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "3a7059947179a8e32b77732170fcfc86d2227d6d03ac057ac13260319bd1f028a1326b397bd25387382ea2200b6509ca5da477fc41b8f3cc679aca2a4d2290cc"
