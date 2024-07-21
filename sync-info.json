@@ -663,13 +663,6 @@
                 "name": "Weapon Throw"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kWjNGDUH/versions/xAmOQHml/witherstormmod-1.20.1-4.1-all.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "efb1501677900e4aa246da9489c4e5085478da36122b15a657d21870589e0cbde68c6c869548aacab102ab1a6f208e5c6f0d85d058019aa99affa5f4ab92984e"
-                },
-                "name": "Cracker's Wither Storm Mod"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/B7ndPMxE/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar",
                 "fileIntegrityInfo": {
                     "sha512": "6ab26e1d12a167feb9f70aacbf8acf31cadd0c67a19403bc9e8e0a32c162431a84fade26b55c1fd56affe4b3546a216462903217a66a05256f55e8db661e58b6"
