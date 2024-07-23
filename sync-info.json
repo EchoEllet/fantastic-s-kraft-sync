@@ -656,6 +656,13 @@
         "name": "Lionfish-API"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/VHSdL301/versions/Lf0FctN4/KeepSomeInventory-v1.3.3.jar",
+        "fileIntegrityInfo": {
+            "sha512": "ef0dadfc5b89d060b2327e6b89f9b47ff21bef8e4f283d8af3a078a70b3d7c9f5a4adab3cc8ca67eae089dc4eed36462b8d7aac444d2270d56dd5b35af8ae724"
+        },
+        "name": "Keep Some Inventory"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/WyhvCQj3/balm-forge-1.20.1-7.3.6-all.jar",
         "fileIntegrityInfo": {
             "sha512": "a96571228ad9087866f67cf7891f0b0c132ac43796fb4112efa6307685257ddbe60ff251f227ccdda276311bbad0d73db58c8560e0aa127fd6c513a36ab70cf5"
