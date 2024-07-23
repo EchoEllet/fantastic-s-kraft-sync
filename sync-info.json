@@ -153,6 +153,14 @@
         "name": "True Herobrine"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/pN5KK2w4/versions/Tcaw5lTX/keepxp-1.0.0.jar",
+        "fileIntegrityInfo": {
+            "sha512": "b98e50ec87b9416b685b87efdf931bd262b4acbb84581fece7a007dec174b0b01bba050cf3011a0c7af3d7ecd6ae0a5c669edb4ad7881cb320b0537744f48c35"
+        },
+        "name": "Keep Xp",
+        "clientSupport": "unsupported"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/ANlAmoYX/versions/D1hn6PSz/double-doors-dp-1.1.jar",
         "fileIntegrityInfo": {
             "sha512": "75b0e96fb2689d2e1f1a9ebb907bd0711e5283b4e2f3a082e95b8ae107f99c4ed92fde522dc53d30a0a6e3f50b0d81c8b51e1a53789e1bad97711fa69935d18b"
@@ -168,9 +176,9 @@
         "name": "More Dragon Eggs"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/4PHvK72M/collective-1.20.1-7.71.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/luRG8yDn/collective-1.20.1-7.73.jar",
         "fileIntegrityInfo": {
-            "sha512": "5eacb832d8e26dc7a2a21b5e1f2460bd4aedb8d9888aaa7c1751e1f302d53eecab556f2b2928fcd80dda51e35105cd38227aba1b83ddea72c999d06d272c35d9"
+            "sha512": "5b0ce583a6b5bf991003ab1f3038a3d70333cbaf58b60303d108c62d2118157613253168a0edeff57ad1e6c954f2c53eced140bab4ccf3512bd47cb777dfbcc5"
         },
         "name": "Collective"
     },
@@ -403,6 +411,14 @@
         "name": "Not Enough Crashes"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/23MovWyi/versions/WLDXXSk7/improvedmobs-1.20.1-1.12.4-forge.jar",
+        "fileIntegrityInfo": {
+            "sha512": "09a91466a5eeeeabdb8ce65cd16c996b8ebc9872b9b7c076971544444fdc85412a1e1208761684eae971695ca22d7ec49814ba2989c624469937ef7e7e7c6a7b"
+        },
+        "name": "Improved Mobs",
+        "clientSupport": "unsupported"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/7mLhyqIY/versions/flkS2tex/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar",
         "fileIntegrityInfo": {
             "sha512": "d9ef8d5035954e9193d7ce29fbf49671dc302fc84ecfa1966f35dbef7c08ba128dc6e4a5d7ec2c8b04073231f88858e9d2c9a095f0ce92a912e1f2551c3dd2a0"
@@ -519,9 +535,9 @@
         "name": "Gliders"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/LipKJRFX/DynamicTrees-1.20.1-1.3.0-BETA11.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/po6VTN46/DynamicTrees-1.20.1-1.3.0-BETA12.jar",
         "fileIntegrityInfo": {
-            "sha512": "11840a19c505fd5ee2d3400458076f6c8b9121a7033ae9de357259e887b1ee57e42c2df3733ccb576ccfbeb44d91d9047d3f07be561038aa0c8b4aebf07a1c65"
+            "sha512": "4c99a0043c5cdc71f5506f3ef39473d6eed00265635af3154fb56388066e4e1e9aa01067600fd41a5171e1789ec23837addb106d1f579ddbefb9aa01818dba72"
         },
         "name": "Dynamic Trees"
     },
@@ -647,13 +663,6 @@
             "sha512": "035a2c3f8239a130eb24ad880566aecf19737c56c3e428d026ef19af409618b750dfd24d4e8eea8dac69cc20f13150056d43f60f3d85ea64c371633e44fab918"
         },
         "name": "Lionfish-API"
-    },
-    {
-        "downloadUrl": "https://cdn.modrinth.com/data/VHSdL301/versions/Lf0FctN4/KeepSomeInventory-v1.3.3.jar",
-        "fileIntegrityInfo": {
-            "sha512": "ef0dadfc5b89d060b2327e6b89f9b47ff21bef8e4f283d8af3a078a70b3d7c9f5a4adab3cc8ca67eae089dc4eed36462b8d7aac444d2270d56dd5b35af8ae724"
-        },
-        "name": "Keep Some Inventory"
     },
     {
         "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/WyhvCQj3/balm-forge-1.20.1-7.3.6-all.jar",
