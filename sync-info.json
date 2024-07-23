@@ -1,7 +1,4 @@
-{
-    "modSyncInfo": {
-        "syncOnlyModsForCurrentEnv": false,
-        "mods": [
+[
     {
         "downloadUrl": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar",
         "fileIntegrityInfo": {
@@ -498,13 +495,6 @@
         "name": "YUNG's API"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
-        "fileIntegrityInfo": {
-            "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
-        },
-        "name": "spark"
-    },
-    {
         "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/MLYKnVCk/Jade-1.20.1-forge-11.9.4.jar",
         "fileIntegrityInfo": {
             "sha512": "94e27580ebc0dd4ee186b200a0c07582a828b4c125728308256c7182ca3fd24363c6214029508e510f1698dd5ef3685efa2640bbe0ec21764548b58b022cf072"
@@ -927,22 +917,3 @@
         "serverSupport": "unsupported"
     }
 ]
-    },
-    "resourcePackSyncInfo": {
-        "applyResourcePacks": true,
-        "resourcePacks": [
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/FreshAnimations_v1.9.2.zip"
-            },
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/TZP_1.20.1_2.7.zip"
-            },
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/Fast%20Better%20Grass%20(1).zip"
-            },
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/%5B1.4.1%5D%20Enhanced%20Boss%20Bars.zip"
-            }
-        ]
-    }
-}
