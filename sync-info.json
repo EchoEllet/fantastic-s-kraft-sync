@@ -1,5 +1,6 @@
 {
     "modSyncInfo": {
+        "allowUsingOthers": true,
         "syncOnlyModsForCurrentEnv": false,
         "mods": [
     {
