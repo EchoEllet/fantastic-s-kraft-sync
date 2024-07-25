@@ -236,13 +236,6 @@
         "name": "Architectury API"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
-        "fileIntegrityInfo": {
-            "sha512": "2b4715538b2e78bd86fbd05ebd07b7da2c7fa00d6e9653f6fcfad7f1fc59edb495f54164a8e2a48ed97b1722388b11729221775d798c8de9e92fb73e07f01e14"
-        },
-        "name": "Easy Anvils"
-    },
-    {
         "downloadUrl": "https://cdn.modrinth.com/data/ZORMkttv/versions/WjB6PpPT/guicompass-1.20.1-4.6.jar",
         "fileIntegrityInfo": {
             "sha512": "714e238717ae3ae322f56e466655d58b1446e3b42f499b80a147b862dac42f81607a73681c8816bd7f19b48ccc53f7d46d5f6289e6953dc416c5aec08bd7cbba"
