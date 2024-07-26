@@ -472,13 +472,6 @@
         "name": "dragonfight mod"
     },
     {
-        "downloadUrl": "https://edge.forgecdn.net/files/5549/878/rpgz-0.6.0-forge.jar",
-        "fileIntegrityInfo": {
-            "sha1": "8c5b354eaf92f699b5779d8e82fc64c654a389e8"
-        },
-        "name": "RpgZ"
-    },
-    {
         "downloadUrl": "https://edge.forgecdn.net/files/5015/286/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
         "fileIntegrityInfo": {
             "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512"
@@ -602,9 +595,9 @@
         "name": "Shoulder Surfing Reloaded"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jxRLLZbl/jei-1.20.1-forge-15.8.0.19.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Cusxujd8/jei-1.20.1-forge-15.8.2.23.jar",
         "fileIntegrityInfo": {
-            "sha512": "9828a19fa1d0ef81767e23420a1b2a8111a0ddd9bcb50e0154463f173c0c03bfac5736fd1b0330144fb107e5e52abf13fa0a6d420ebc072aa26d6bbe184e83bb"
+            "sha512": "02a56d561f6b9634ca62c64b643af283a43725e53e1011a33462f65565a3195c3706815d8aedb24fc54a65789738df515ae21a1e9a838c6aa6fcf5c5e4ffd728"
         },
         "name": "Just Enough Items"
     },
@@ -616,11 +609,11 @@
         "name": "Cloth Config API"
     },
     {
-        "downloadUrl": "https://edge.forgecdn.net/files/4576/4/eatinganimation-1.20-5.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5567/578/eatinganimation-1.20.1-5.1.0.jar",
         "fileIntegrityInfo": {
-            "sha1": "936b9a4b514af18d4f56ac99fcb3c96d9887d279"
+            "sha1": "d80502ca23195814f245bb8a4bffcb778ea4c02a"
         },
-        "name": "Eating Animation [Forge]"
+        "name": "Eating Animation"
     },
     {
         "downloadUrl": "https://cdn.modrinth.com/data/9hx3AbJM/versions/W2xPEG9I/EasyMagic-v8.0.1-1.20.1-Forge.jar",
@@ -673,9 +666,9 @@
         "name": "Balm"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/6l0P4h6I/CreativeCore_FORGE_v2.11.32_mc1.20.1.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/GhnBaKkx/CreativeCore_FORGE_v2.11.33_mc1.20.1.jar",
         "fileIntegrityInfo": {
-            "sha512": "8d42d2761eb6af7d1049a3c12be351f24a90607b6d53f49effdf7b4b8bcfdfb0ea6ffb998ff6ef870e5aef88eaa3f91885362c45af7099398d6d67db48749e43"
+            "sha512": "155df00b52fab115e807078649121d580d01bb47a665761c56901ee1e65d5dad2269e5f49ab456b589387903f8f25ad5ad0f954cb659fd46f7ec2537900a5668"
         },
         "name": "CreativeCore"
     },
