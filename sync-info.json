@@ -301,9 +301,9 @@
         "clientSupport": "unsupported"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/sk9rgfiA/versions/ylN2s7IP/embeddium-0.3.27%2Bmc1.20.1.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/sk9rgfiA/versions/lopZqfMw/embeddium-0.3.28%2Bmc1.20.1.jar",
         "fileIntegrityInfo": {
-            "sha512": "d8d18440da8a4615f9c1ca83efbeb00ae9b4eba8027ec6af84ce653b007f454a3e484bd22427914ba8aa66e11eb30e801072a7199fb1aabe8c3a2afc48c66ebf"
+            "sha512": "7dea141e886090a463e4f28c65cffa4a2252985197214fcf48795ffc5c3e42c9cbad44dfa3c975ef1ffa63448f155ba787f95ca30231b404fc737808f5bba866"
         },
         "name": "Embeddium"
     },
@@ -602,9 +602,9 @@
         "name": "Shoulder Surfing Reloaded"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/W59qO0OE/jei-1.20.1-forge-15.8.0.18.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jxRLLZbl/jei-1.20.1-forge-15.8.0.19.jar",
         "fileIntegrityInfo": {
-            "sha512": "d285d7a95aa871dbac230f6589984a61b356564297501fbaa5f35294b1a5e455f8aaa2f8333ca2c5efc80c9921b3e60791c02638b66af9e709bac9b97726299e"
+            "sha512": "9828a19fa1d0ef81767e23420a1b2a8111a0ddd9bcb50e0154463f173c0c03bfac5736fd1b0330144fb107e5e52abf13fa0a6d420ebc072aa26d6bbe184e83bb"
         },
         "name": "Just Enough Items"
     },
