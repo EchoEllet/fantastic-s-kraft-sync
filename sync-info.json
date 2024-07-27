@@ -98,13 +98,6 @@
         "name": "iChunUtil"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar",
-        "fileIntegrityInfo": {
-            "sha512": "f68f8c2bcbab3db5ce78e5d2fdaca60d1352c9d3b7a4af5bd69009795dd10551d527f566323fd28e3e5ba6691545680cf5501524ec58ae948ab7a1034019f88d"
-        },
-        "name": "Distant Horizons"
-    },
-    {
         "downloadUrl": "https://cdn.modrinth.com/data/G3EPcczP/versions/NVLJuxL1/dragonmounts-1.20.1-1.2.3-beta.jar",
         "fileIntegrityInfo": {
             "sha512": "09f8239c467abc583788e1eea340f0a6d764fe577d3d411873137deff518529aa28ce7179e4eab61d8e7cdd5ac871479c691d20a376005e3842cae96928eff9a"
@@ -257,9 +250,9 @@
         "name": "Advancement Plaques"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/j5VhGcov/modernfix-forge-5.18.10%2Bmc1.20.1.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/MKrkLMqg/modernfix-forge-5.19.0%2Bmc1.20.1.jar",
         "fileIntegrityInfo": {
-            "sha512": "109a9f38d1f17c5aa99d163375ae91101b9b749c0c7e192c80168ce1c4c6e6f9768b7dc2cce995996c8f34912e386829499f799d8a26afca200557f737758aa3"
+            "sha512": "0e30f2ed6fa163b900cbc64fed760c3a2fa10fb07097f988de6d49dd8ef3e073541a0a24d5a06497597a3ac7794ee17d74760f4962f8d2ce3f49eb87dea7ba7c"
         },
         "name": "ModernFix"
     },
