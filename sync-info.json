@@ -156,9 +156,9 @@
         "name": "More Dragon Eggs"
     },
     {
-        "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/CACoN3MX/collective-1.20.1-7.74.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/8H8qNCfg/collective-1.20.1-7.78.jar",
         "fileIntegrityInfo": {
-            "sha512": "8ed15ebf36324adb487cfdbd20b0b8eece4bf25210960f1a5cc5ef55d876587e60ef32f8677fcae10ab5a5e5f05a2d4a3ffb3b97778341140b382c49c9d2266d"
+            "sha512": "6196ddd24398c6572676ebf26b0af601b341b3843729287befdbc92f1170901e5a8a06f2f9ed81948f1213b8313c0dfa4ad65c0075e328f04ccd440fff6a5e69"
         },
         "name": "Collective"
     },
