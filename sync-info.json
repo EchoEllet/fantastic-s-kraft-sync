@@ -644,6 +644,14 @@
         "name": "What Are They Up To (Watut)"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar",
+        "fileIntegrityInfo": {
+            "sha512": "d83a154745f206d5837d703196ed664132c91cdbf865ebd8981d0315162683cdbf033e82dbe68eaf4dee48b8ea93e5586f0c918a453e6fd1a4c34dad27ff6605"
+        },
+        "name": "Loot Beams: Relooted!",
+        "serverSupport": "unsupported"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/B7ndPMxE/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar",
         "fileIntegrityInfo": {
             "sha512": "6ab26e1d12a167feb9f70aacbf8acf31cadd0c67a19403bc9e8e0a32c162431a84fade26b55c1fd56affe4b3546a216462903217a66a05256f55e8db661e58b6"
@@ -685,6 +693,14 @@
             "sha512": "07f3890ac55345eb4c7091af03ca7523ee5eb6a7db0a651479096d1a85ebbdfccc6c5e81de6546fcb2e5a9953c89cdacdc98e2ffd6aa020da3d72d8f295f8fa3"
         },
         "name": "ObsidianUI",
+        "serverSupport": "unsupported"
+    },
+    {
+        "downloadUrl": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+        "fileIntegrityInfo": {
+            "sha512": "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257"
+        },
+        "name": "Legendary Tooltips",
         "serverSupport": "unsupported"
     },
     {
@@ -833,6 +849,14 @@
             "sha512": "18a42210f4897b77391acce700236c01435a8ab56d2928b151da0fab4a074c42755b4f63f457d93b04f23dc07919e7f6f206622907b5ee3bb1df9f68f7b1fb1c"
         },
         "name": "ESSENTIAL Mod"
+    },
+    {
+        "downloadUrl": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+        "fileIntegrityInfo": {
+            "sha512": "b73de6bf581f5f28d86baa3eeb8ac0ff30aa9a35280da7fa528547bbb9e0aff5f931b434e143a4dfc4d11ae03ce52bc1cfa359beb8b656880e75bf1aa8d91b81"
+        },
+        "name": "Prism",
+        "serverSupport": "unsupported"
     },
     {
         "downloadUrl": "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
