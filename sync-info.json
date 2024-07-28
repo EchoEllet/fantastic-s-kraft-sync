@@ -156,6 +156,13 @@
         "name": "More Dragon Eggs"
     },
     {
+        "downloadUrl": "https://edge.forgecdn.net/files/5195/633/WeaponsOfMiracles-20.1.7.40.jar",
+        "fileIntegrityInfo": {
+            "sha1": "56ee2aa0cd0632746fd7195b91650166a63eb4c2"
+        },
+        "name": "Weapons of Miracles - epic fight"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/mLJbbJPj/collective-1.20.1-7.80.jar",
         "fileIntegrityInfo": {
             "sha512": "4a29de4834168e059e5219be12bec869378de1d322069d2426a2709e3ef3c594fd9d8cdab989a26a2d82cead431a3237a7386d36d7f753260e34a56b4f07c82a"
