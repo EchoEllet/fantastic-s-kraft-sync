@@ -529,6 +529,14 @@
         "name": "Radium"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/r0camchr/versions/7rq1rEoz/explosiveenhancement-1.0.0.jar",
+        "fileIntegrityInfo": {
+            "sha512": "b7ff3a87d9348d3ce7766264bc63387685515bf05cc723ba73afaeebf84be11138902146d6321ccbb28e2c7a8496bf5b5059b1076d63877eb013086ab52eb893"
+        },
+        "name": "Explosive Enhancement (Forge)",
+        "serverSupport": "unsupported"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/g1yXisD2/versions/8RUwIhiy/guiclock-1.20.1-4.6.jar",
         "fileIntegrityInfo": {
             "sha512": "239b46747d712551f0fb26c9f3ea1ed3326c8808bf837d4530b4082a5aa7fa5edf1a3e2fb3075876530512234d1be691158ed462af869276a85b507906edce26"
@@ -949,6 +957,9 @@
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/TZP_1.20.1_2.7.zip"
+            },
+            {
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/LowOnFire_1.20.1.zip"  
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/main/Fast%20Better%20Grass%20(1).zip"
