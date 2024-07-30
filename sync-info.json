@@ -323,13 +323,6 @@
         "serverSupport": "unsupported"
     },
     {
-        "downloadUrl": "https://edge.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.2508-universal.jar",
-        "fileIntegrityInfo": {
-            "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
-        },
-        "name": "The Twilight Forest"
-    },
-    {
         "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/VzqvqFHV/entity_texture_features_forge_1.20.1-6.1.3.jar",
         "fileIntegrityInfo": {
             "sha512": "39cd199155ed792497ff01150bd2a7c0b7e7ff34a098d8b68704b1a4b59c86a7628b62c9f920f0c64b8c61c1967400fc1da15eb4d1f081c1a258550d63d7a1ac"
@@ -534,6 +527,13 @@
             "sha512": "d6b952904a65a8bdb64796edcccea5bfc0c6cc4da7d5332e089cc7cf9b22969be42296b7e1fe435e8f8f289dba85fc1e8ae7f289adab9eb4efbad04501f860b4"
         },
         "name": "Radium"
+    },
+    {
+        "downloadUrl": "https://edge.forgecdn.net/files/5473/433/ebs_wildfire-2.0.0-forge-1.20.1.jar",
+        "fileIntegrityInfo": {
+            "sha1": "82dab9a94ee94301199e7c84c48c57145932dc08"
+        },
+        "name": "EB's Wildfire"
     },
     {
         "downloadUrl": "https://cdn.modrinth.com/data/r0camchr/versions/7rq1rEoz/explosiveenhancement-1.0.0.jar",
