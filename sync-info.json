@@ -587,6 +587,13 @@
         "clientSupport": "unsupported"
     },
     {
+        "downloadUrl": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/JS0ehUbr/ExplorersCompass-1.20.1-1.3.3-forge.jar",
+        "fileIntegrityInfo": {
+            "sha512": "a36e1de88eded95222ed6c0d938d52218f3177d9893cbf5fc8059f3ee9b2880700dab96727c26a9bd954341e7541a6a9292a3febf2867fbdce005b44a059c6c6"
+        },
+        "name": "Explorer's Compass"
+    },
+    {
         "downloadUrl": "https://cdn.modrinth.com/data/ZcR9weSm/versions/U4QPyiFl/dynamiccrosshair-7.4.4%2B1.20-forge.jar",
         "fileIntegrityInfo": {
             "sha512": "65cf0f0f08ca0006a5cadfeeca6bc0bfe7c6fa6e7bafaa9ba35e64b266432bd691c780ba97458cbc419fb10c6bf4ccfa007224741e4a898eba601a6bf9835ff0"
