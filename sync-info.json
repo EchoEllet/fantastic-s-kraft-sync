@@ -411,14 +411,6 @@
                 "name": "Not Enough Crashes"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/23MovWyi/versions/WLDXXSk7/improvedmobs-1.20.1-1.12.4-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "09a91466a5eeeeabdb8ce65cd16c996b8ebc9872b9b7c076971544444fdc85412a1e1208761684eae971695ca22d7ec49814ba2989c624469937ef7e7e7c6a7b"
-                },
-                "name": "Improved Mobs",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/7mLhyqIY/versions/flkS2tex/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar",
                 "fileIntegrityInfo": {
                     "sha512": "d9ef8d5035954e9193d7ce29fbf49671dc302fc84ecfa1966f35dbef7c08ba128dc6e4a5d7ec2c8b04073231f88858e9d2c9a095f0ce92a912e1f2551c3dd2a0"
@@ -446,14 +438,6 @@
                     "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867"
                 },
                 "name": "Cupboard utilities"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/P2rffivS/versions/5elJ9ZTS/tenshilib-1.20.1-1.7.6-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "492f11b0a999af306f07b363d8edfad9849ce7294e2609755eee906d1502b00feebd4304c6cd9bfe1a85ffbda0de5b6224a37693c4eb4b42ae664d61a23d8666"
-                },
-                "name": "TenshiLib",
-                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/moWmAnjY/curios-forge-5.9.1%2B1.20.1.jar",
@@ -508,13 +492,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
-                },
-                "name": "spark"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/MLYKnVCk/Jade-1.20.1-forge-11.9.4.jar",
                 "fileIntegrityInfo": {
                     "sha512": "94e27580ebc0dd4ee186b200a0c07582a828b4c125728308256c7182ca3fd24363c6214029508e510f1698dd5ef3685efa2640bbe0ec21764548b58b022cf072"
@@ -534,6 +511,14 @@
                     "sha512": "369791d4feddd2b14542a100c31fe62226bab961a2f023057c3353a09be7841da1478effed8274e854d4abc3df65dc5d4cdc37293ef1fb4cfe419160f5f4135a"
                 },
                 "name": "Corpse"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "ae854893f17c3e42825e88119f4bd6be8948612494780194cb1c1cd5d65d571c91e7222c286cb734b3af363f927a6be8ad05347cd2c3fec6e1874b4aaac14c7b"
+                },
+                "name": "Better Third Person",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/2gvRmQXx/versions/NhMILNAm/radium-mc1.20.1-0.12.3%2Bgit.50c5c33.jar",
@@ -629,13 +614,6 @@
                     "sha512": "72c2c0f181600a58f99f7d48a257098a80f3c4932c3e3162a3847bf8c01eaa58819575705d808057d72bdc639f2a3684cf14e02131ea926a40563a65ad72f064"
                 },
                 "name": "Resourcify"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/nzztmdB1/ShoulderSurfing-Forge-1.20.1-4.2.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "2e3b37105e302a2fa98fb5a7c92b9e9c904aafe2da765b62fc706b01124c0fd3a8b38c840db595d8823d0a15182e937c044b504520e0238d5ac967c7e64fa768"
-                },
-                "name": "Shoulder Surfing Reloaded"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/C7nTY0fi/jei-1.20.1-forge-15.8.2.25.jar",
@@ -761,9 +739,9 @@
                 "name": "Epic Fight"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/dtWC90iB/versions/c1fzczFD/mcw-furniture-3.2.2-mc1.20.1forge.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/dtWC90iB/versions/jQcvCX79/mcw-furniture-3.3.0-mc1.20.1forge.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "a2a846eb9bfb9ae7feafe98e1cfb404ede521887fc1e90ab489fa510581e42b16bee7149598fe9fbfbd94ac4734a39052e60ccb71147ac5a30305d1b656aaa97"
+                    "sha512": "aeb7537b9bb41615418e32d8383d6a0ea8b337554593752aa39ed955d50e1faa025c35a1d4bdb66fe49f9930a33d3becb8c897ee438c353da44d5fc8b7dfbdb8"
                 },
                 "name": "Macaw's Furniture"
             },
@@ -908,14 +886,6 @@
                     "sha1": "24964f25c75eea1108ec9ff921087c618515017e"
                 },
                 "name": "Shifu - Craftable Epic Fight Skill Books"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/8DgZF23T/versions/P58WBovf/Craftable Saddles %5B1.20 All%5D-1.4.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c3f48a8995faea7abf34e37d36de43f06df1870558b882ee2fe03f4a82b7fe1ad901c6213fd723776e10fde7d1eca2809db088be7bc17182ef664616b9cf5554"
-                },
-                "name": "Craftable Saddles",
-                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/3t3qLyne/XaerosWorldMap_1.38.8_Forge_1.20.jar",
