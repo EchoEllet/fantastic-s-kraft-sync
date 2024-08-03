@@ -374,11 +374,11 @@
                 "name": "EnchantmentDescriptions"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/AdyaTuHw/JadeAddons-1.20.1-forge-5.2.2.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/vSfJX8UF/JadeAddons-1.20.1-Forge-5.3.0.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "e10fd945f24af9e738726e8155c70a084de09800984d7fee2c4c1097158c73f8aee9b8e363fc9968b5a43c421daad721648b4c23188a235c0ffc19e6d067808c"
+                    "sha512": "8a12f1e0d99532023f8d72038a935fc7658d4cdd7e75a6200ef2223bef2b3dd4903c3ad9025a5f661d1fc13e0480af2b902f509d8607a2716689b988712cbc4c"
                 },
-                "name": "Jade Addons (Forge)"
+                "name": "Jade Addons"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/rlloIFEV/versions/FDqFhZfz/travelersbackpack-forge-1.20.1-9.1.15.jar",
@@ -650,11 +650,11 @@
                 "name": "Let Sleeping Dogs Lie"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/VAZtNTND/watut-forge-1.20.1-1.1.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/6hLRqDaW/watut-forge-1.20.1-1.1.2.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "3f7d6146ce537c68a05247d467302f4ca488f1bc066b7eefd5c6e383e3fe036be5411ea9767152bd7b286ca135df932766c50931abc668ed15117f7de20ecf71"
+                    "sha512": "af8c36765c3144e0e4c58816af6a54042e0d7588723524848b6006b6cf06baeb3a4b7ced139d861091015402cbded20bf8ab6db9bb31824f5e5ab3b5ac7ab155"
                 },
-                "name": "What Are They Up To (Watut)"
+                "name": "What Are They Up To"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar",
@@ -731,9 +731,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/SrlzdvpH/EpicFight-20.7.4.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/Iazjlq5B/epicfight-forge-20.8.2-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "9d3f9cb38c95aff14de316c904b8e3335f5855fe8fac0eb93ca3e6bd4b378e31f12dd11f57b48b2359885a3de37cd5996d5f19bda3a122c98912c541f8f63233"
+                    "sha512": "1eae00a73155f08891faaf7881e66fc04cbf223c2f322ac25608520928ded770a483fa167b9412fa979feacae67bab4f47485d61ace24b5c0319e717a6e5fe2b"
                 },
                 "name": "Epic Fight"
             },
