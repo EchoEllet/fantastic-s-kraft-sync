@@ -731,9 +731,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/Iazjlq5B/epicfight-forge-20.8.2-1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/SrlzdvpH/EpicFight-20.7.4.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "1eae00a73155f08891faaf7881e66fc04cbf223c2f322ac25608520928ded770a483fa167b9412fa979feacae67bab4f47485d61ace24b5c0319e717a6e5fe2b"
+                    "sha512": "9d3f9cb38c95aff14de316c904b8e3335f5855fe8fac0eb93ca3e6bd4b378e31f12dd11f57b48b2359885a3de37cd5996d5f19bda3a122c98912c541f8f63233"
                 },
                 "name": "Epic Fight"
             },
