@@ -367,14 +367,6 @@
                 "name": "EnchantmentDescriptions"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/VaCl9OtG/versions/Yh4b40rs/WaystonesTeleportPets-1.20-1.20.1--1.2.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c4e13812dbd77a07f585b056f830412f6ebb27e47b567b7c82ac3a5e9a9c20e999972cc52638a18a4f7f0670ad16dfa5a770f86e3c13f888ca65cbbd2f8113c4"
-                },
-                "name": "Waystones Teleport Pets",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/AdyaTuHw/JadeAddons-1.20.1-forge-5.2.2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "e10fd945f24af9e738726e8155c70a084de09800984d7fee2c4c1097158c73f8aee9b8e363fc9968b5a43c421daad721648b4c23188a235c0ffc19e6d067808c"
