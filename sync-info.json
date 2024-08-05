@@ -360,9 +360,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/6sRhmeAA/WeaponsOfMiracles-20.1.8.5.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/OQ6km5m2/WeaponsOfMiracles-20.1.7.40.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "85feb18be07dcc89074a107fb6780eb6ca95d16ffd542d66f8862dc0e3dd4c0fd9426f5b9244ac70f15431954f23e4ad99e57886bdab5da4ec314e53c0a8480a"
+                    "sha512": "6f3ff8b10492c52485ee7b9040aa10d393e68011058519cce55244e3bfeaf582447a2499b4834d8b80fe71b4b755db73e73f031ecf9ed77717f870e2e7b79dc0"
                 },
                 "name": "Weapons of miracles"
             },
@@ -731,9 +731,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/1MxObV6F/epicfight-forge-20.8.3-1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/SrlzdvpH/EpicFight-20.7.4.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "41b71fe28aa79074a4f1dc1d64ac13acfefd9f682537473f36ff6db0527a4a9c051e861820562fb438f649e6689bb4d907035e26666f6aa50da310f8deb1337e"
+                    "sha512": "9d3f9cb38c95aff14de316c904b8e3335f5855fe8fac0eb93ca3e6bd4b378e31f12dd11f57b48b2359885a3de37cd5996d5f19bda3a122c98912c541f8f63233"
                 },
                 "name": "Epic Fight"
             },
