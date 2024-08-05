@@ -112,13 +112,6 @@
                 "name": "Dragon Mounts: Legacy"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/6Na0gn2c/versions/lHj2edCG/feathers-1.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "d8389fc4f78271a6b54c70b5ccbb0b32cdd07f539b78b48407d24beddbfb3d59e23188cac92222631a47bcc15aa2c3e1343a44741d1723cd395f2c8c93f4f50b"
-                },
-                "name": "Feathers"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/rF4Es4hd/geckolib-forge-1.20.1-4.4.7.jar",
                 "fileIntegrityInfo": {
                     "sha512": "c7225ae97887d3f3c3095d1d0a781883496b7cd8e2312b3ef5cb872b12c215ca35b60ddfb27f09c8e115405d2bfa101d3b7b98f10fd27695bf4ee68bc3f4a121"
@@ -360,11 +353,11 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/OQ6km5m2/WeaponsOfMiracles-20.1.7.40.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/6sRhmeAA/WeaponsOfMiracles-20.1.8.5.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "6f3ff8b10492c52485ee7b9040aa10d393e68011058519cce55244e3bfeaf582447a2499b4834d8b80fe71b4b755db73e73f031ecf9ed77717f870e2e7b79dc0"
+                    "sha512": "85feb18be07dcc89074a107fb6780eb6ca95d16ffd542d66f8862dc0e3dd4c0fd9426f5b9244ac70f15431954f23e4ad99e57886bdab5da4ec314e53c0a8480a"
                 },
-                "name": "Weapons of miracles"
+                "name": "Weapons of Minecraft"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zzrCQ69V/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
@@ -512,19 +505,18 @@
                 "name": "Corpse"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "ae854893f17c3e42825e88119f4bd6be8948612494780194cb1c1cd5d65d571c91e7222c286cb734b3af363f927a6be8ad05347cd2c3fec6e1874b4aaac14c7b"
-                },
-                "name": "Better Third Person",
-                "serverSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/2gvRmQXx/versions/NhMILNAm/radium-mc1.20.1-0.12.3%2Bgit.50c5c33.jar",
                 "fileIntegrityInfo": {
                     "sha512": "d6b952904a65a8bdb64796edcccea5bfc0c6cc4da7d5332e089cc7cf9b22969be42296b7e1fe435e8f8f289dba85fc1e8ae7f289adab9eb4efbad04501f860b4"
                 },
                 "name": "Radium"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/EltpO5cN/versions/ZqSHctHT/lootr-forge-1.20-0.7.34.85.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "ef84c0941cb2640a469614b28b8576abc5b4a0963d45854e7711a9d214f42f8db1f1b5d543bceca6f61560dff75957cb152ecad5128f4c64e5721d7cae2d9127"
+                },
+                "name": "Lootr"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/r0camchr/versions/7rq1rEoz/explosiveenhancement-1.0.0.jar",
@@ -542,25 +534,11 @@
                 "name": "GUI Clock"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/XiC6HzoU/versions/nVCZVT0i/vc_gliders-forge-1.1.5.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "919414d8ded2025e39301a50ae9547f154bcca6f5a3af17d985724987aeab34fba0dc3c4ce4f31156a997043c41b6a0e2ba8a926a0db3a500e983c861061ca73"
-                },
-                "name": "Gliders"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/po6VTN46/DynamicTrees-1.20.1-1.3.0-BETA12.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4c99a0043c5cdc71f5506f3ef39473d6eed00265635af3154fb56388066e4e1e9aa01067600fd41a5171e1789ec23837addb106d1f579ddbefb9aa01818dba72"
                 },
                 "name": "Dynamic Trees"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/GnR2nZ9k/versions/vo7H11zC/elenaidodge2-1.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "d96a6ebb9b592a13cffd843af197023b4bbc3075a5ec07fb75091cf23b82ef106f326a45bab50ea3c0f5c73b242a5a6ecf34ff82cc66d722bd89d2040e9f1f70"
-                },
-                "name": "Elenai Dodge 2"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/YCcTxyDM/versions/ol37llym/playerladder-0.6.1-forge-1.20.1.jar",
@@ -613,6 +591,14 @@
                     "sha512": "72c2c0f181600a58f99f7d48a257098a80f3c4932c3e3162a3847bf8c01eaa58819575705d808057d72bdc639f2a3684cf14e02131ea926a40563a65ad72f064"
                 },
                 "name": "Resourcify"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/hGSfn52z/ShoulderSurfing-Forge-1.20.1-4.3.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "da70f4767d26047f28e3cfb49217a8c26a615439a0b44097d789cf9ee5b193dfc37883c4b92373e1f115c8a3327b85691f208cdb63146c3d0afd21add4a53ff8"
+                },
+                "name": "Shoulder Surfing Reloaded",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/pFjSVQjG/jei-1.20.1-forge-15.8.2.26.jar",
@@ -731,18 +717,11 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/SrlzdvpH/EpicFight-20.7.4.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/1MxObV6F/epicfight-forge-20.8.3-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "9d3f9cb38c95aff14de316c904b8e3335f5855fe8fac0eb93ca3e6bd4b378e31f12dd11f57b48b2359885a3de37cd5996d5f19bda3a122c98912c541f8f63233"
+                    "sha512": "41b71fe28aa79074a4f1dc1d64ac13acfefd9f682537473f36ff6db0527a4a9c051e861820562fb438f649e6689bb4d907035e26666f6aa50da310f8deb1337e"
                 },
                 "name": "Epic Fight"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/dtWC90iB/versions/jQcvCX79/mcw-furniture-3.3.0-mc1.20.1forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "aeb7537b9bb41615418e32d8383d6a0ea8b337554593752aa39ed955d50e1faa025c35a1d4bdb66fe49f9930a33d3becb8c897ee438c353da44d5fc8b7dfbdb8"
-                },
-                "name": "Macaw's Furniture"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/kkmrDlKT/versions/HI0iCUpi/TerraBlender-forge-1.20.1-3.0.1.7.jar",
@@ -850,13 +829,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/tJGIwFnx/versions/SBwG4Fmh/%5B1.20.1%5D More Crafting Tables 5.1.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "9950b771c7312bafb93f755dbe0372168755364273790426196aa02ea5c20b768e09ab1d5553961dc36e6526f97b9cedbc91621b69d71fb62a0addffad4082a4"
-                },
-                "name": "More Crafting Tables!"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/DANpdWey/essential_1-3-2-8_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "18a42210f4897b77391acce700236c01435a8ab56d2928b151da0fab4a074c42755b4f63f457d93b04f23dc07919e7f6f206622907b5ee3bb1df9f68f7b1fb1c"
@@ -920,13 +892,6 @@
                     "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
                 },
                 "name": "AppleSkin"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/CQ7pGNKT/versions/YxDo2BlX/exlinefurniture-forge-1.20.1-2.7.3.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "6fba0036777efd0039655b2f8b87cee5aa3265e58a4099659ac63e51c466b868026c8d06e9bb1723638332eb0e3311b0e84cf12580e79fb27ace698691ec8e0c"
-                },
-                "name": "Exline's Furniture"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
