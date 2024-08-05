@@ -163,13 +163,6 @@
                 "name": "More Dragon Eggs"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/5195/633/WeaponsOfMiracles-20.1.7.40.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "56ee2aa0cd0632746fd7195b91650166a63eb4c2"
-                },
-                "name": "Weapons of Miracles - epic fight"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/mLJbbJPj/collective-1.20.1-7.80.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4a29de4834168e059e5219be12bec869378de1d322069d2426a2709e3ef3c594fd9d8cdab989a26a2d82cead431a3237a7386d36d7f753260e34a56b4f07c82a"
@@ -365,6 +358,13 @@
                 },
                 "name": "Inv View Forge",
                 "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/6sRhmeAA/WeaponsOfMiracles-20.1.8.5.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "85feb18be07dcc89074a107fb6780eb6ca95d16ffd542d66f8862dc0e3dd4c0fd9426f5b9244ac70f15431954f23e4ad99e57886bdab5da4ec314e53c0a8480a"
+                },
+                "name": "Weapons of miracles"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zzrCQ69V/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
@@ -615,9 +615,9 @@
                 "name": "Resourcify"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/C7nTY0fi/jei-1.20.1-forge-15.8.2.25.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/pFjSVQjG/jei-1.20.1-forge-15.8.2.26.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "36b50265c9f71f49c9367078285b70cc03fd11e4e06b691064d212714ce62cf46a7c5cb7e62d7110c9d3cf087ef997e08084d6f64dbbc2053f437a14db8da85e"
+                    "sha512": "1b9b01e3e81b0a8a16f871933310238dbecc0bab29c1313d1567360de3aea8f5bbfdbd400eb0eb820db7cca0c6daa9e0894d59e61b6c77823eb82288e94d7619"
                 },
                 "name": "Just Enough Items"
             },
@@ -650,9 +650,9 @@
                 "name": "Let Sleeping Dogs Lie"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/6hLRqDaW/watut-forge-1.20.1-1.1.2.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "af8c36765c3144e0e4c58816af6a54042e0d7588723524848b6006b6cf06baeb3a4b7ced139d861091015402cbded20bf8ab6db9bb31824f5e5ab3b5ac7ab155"
+                    "sha512": "43ea1e4472f0963f768f0ddb1d8be523dc7e0fdc265029d3cc2b8df4a3d7a88ab7dcf1e053ee7813c40f97dd5dfe5afc6ad48276fb390b07a66b959b20488c25"
                 },
                 "name": "What Are They Up To"
             },
@@ -731,9 +731,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/SrlzdvpH/EpicFight-20.7.4.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/1MxObV6F/epicfight-forge-20.8.3-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "9d3f9cb38c95aff14de316c904b8e3335f5855fe8fac0eb93ca3e6bd4b378e31f12dd11f57b48b2359885a3de37cd5996d5f19bda3a122c98912c541f8f63233"
+                    "sha512": "41b71fe28aa79074a4f1dc1d64ac13acfefd9f682537473f36ff6db0527a4a9c051e861820562fb438f649e6689bb4d907035e26666f6aa50da310f8deb1337e"
                 },
                 "name": "Epic Fight"
             },
