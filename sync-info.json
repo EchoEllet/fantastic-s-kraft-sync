@@ -119,9 +119,9 @@
                 "name": "GeckoLib 4"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/ZJTGwAND/versions/KAQYIK7C/endrem_forge-5.2.3-R-1.20.X.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/ZJTGwAND/versions/SQS2aSUl/endrem_forge-5.3.3-R-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "f09066085b085fe68bd2d3d8d4895d57e3ad4e13aa5302fd6df6461ad3ab123dd178a7e15486d7bc355499dac8665a73e8ddc1229a4eaf6adf8e469255321a29"
+                    "sha512": "92aac4b5af4d69708ca2661cc628ab9a5f0f4b352601944451d3eaa1a46411b9dbfb312957a84a0b196550f9d9f1446acbc0c47e6d0a0279f1ff9df005f96438"
                 },
                 "name": "End Remastered"
             },
@@ -360,9 +360,9 @@
                 "name": "Weapons of Minecraft"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zzrCQ69V/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/n3plC8IW/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "a56820b0c637e7c3baf7d51b3769faa5466055505134adcd214e6810ab1316bb7ffdebd4c279a2d3c6787f68d863667cc8035b09d9128b695c1dd8003c3fa7b9"
+                    "sha512": "3704e620cf9e346437f3e97e163d2102c1d358a6322b416f8a23390c21e86bd6196a23a629c90c0a80299de8330a478f5867c865200c663cc93eca167d21ef3b"
                 },
                 "name": "EnchantmentDescriptions"
             },
@@ -601,9 +601,9 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/pFjSVQjG/jei-1.20.1-forge-15.8.2.26.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/4fp03w2p/jei-1.20.1-forge-15.10.0.35.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "1b9b01e3e81b0a8a16f871933310238dbecc0bab29c1313d1567360de3aea8f5bbfdbd400eb0eb820db7cca0c6daa9e0894d59e61b6c77823eb82288e94d7619"
+                    "sha512": "86127049cf73c53c86b3641cc2ea6b545c79cc1946552874c5778c6fdad81d59fdecc809cbffb887e1b5692ae0503804bfb7a324b149a1dd9d142f15a7490514"
                 },
                 "name": "Just Enough Items"
             },
@@ -717,9 +717,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/1MxObV6F/epicfight-forge-20.8.3-1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/fQQ6QDdO/epicfight-forge-20.8.5-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "41b71fe28aa79074a4f1dc1d64ac13acfefd9f682537473f36ff6db0527a4a9c051e861820562fb438f649e6689bb4d907035e26666f6aa50da310f8deb1337e"
+                    "sha512": "7dd55712853ebead126ed169d55cfbf32848c9fa896f78c57e631fefc1ab0e4669edd5a64af551b10326b3d1c1b384d779bbcade5aae83c6600b30c05ca4c91a"
                 },
                 "name": "Epic Fight"
             },
