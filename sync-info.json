@@ -534,9 +534,9 @@
                 "name": "GUI Clock"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/po6VTN46/DynamicTrees-1.20.1-1.3.0-BETA12.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/xmk3WJO4/DynamicTrees-1.20.1-1.3.0-BETA13.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "4c99a0043c5cdc71f5506f3ef39473d6eed00265635af3154fb56388066e4e1e9aa01067600fd41a5171e1789ec23837addb106d1f579ddbefb9aa01818dba72"
+                    "sha512": "607a08d12d45d1374e682d639835c9f7fceaf103126fc9027ff3c13b0f1d40013411849576c1596b5ce7752042e4b56b6e723d2b618b4431fbd832cf4fb5acd6"
                 },
                 "name": "Dynamic Trees"
             },
@@ -601,9 +601,9 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/4fp03w2p/jei-1.20.1-forge-15.10.0.35.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/dtapuWtP/jei-1.20.1-forge-15.10.0.36.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "86127049cf73c53c86b3641cc2ea6b545c79cc1946552874c5778c6fdad81d59fdecc809cbffb887e1b5692ae0503804bfb7a324b149a1dd9d142f15a7490514"
+                    "sha512": "442218a75144cccd4ddea8d4613e1e478da06dcd2570b61460bfb31ba1faaf9617447eac2507c40837aef4e09bd1c0b8daf4337498b4684dad7862c361716209"
                 },
                 "name": "Just Enough Items"
             },
@@ -649,13 +649,6 @@
                 },
                 "name": "Loot Beams: Relooted!",
                 "serverSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/B7ndPMxE/make_bubbles_pop-0.3.0-forge-mc1.19.4-1.20.4.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "6ab26e1d12a167feb9f70aacbf8acf31cadd0c67a19403bc9e8e0a32c162431a84fade26b55c1fd56affe4b3546a216462903217a66a05256f55e8db661e58b6"
-                },
-                "name": "Make Bubbles Pop"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/MCnBYP0b/versions/TO1g4SDa/tru.e-ending-v1.1.0c.jar",
