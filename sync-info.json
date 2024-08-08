@@ -791,12 +791,11 @@
                 "name": "YUNG's Better Jungle Temples"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/XgQjD9fF/ImmediatelyFast-Forge-1.2.18%2B1.20.4.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/bNDIzPW6/ImmediatelyFast-Forge-1.2.19%2B1.20.4.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "2134283239ad59301b5592d6dc3d77ef97525ff930d997f79dcbb9d13a53b0c772644feb6dd125fa12b662bb4ecdbd400f5e4797f5b9abcfc08a0dc24149aa74"
+                    "sha512": "1992e8a9ffe7f79f80ae641843b3f0d84e26a712d8df7118a12bf8dfc30bdabd810a8c0a545799dd5aa7b3659012be6b55428915362955ec0a95fc0181ca61cc"
                 },
-                "name": "ImmediatelyFast",
-                "serverSupport": "unsupported"
+                "name": "ImmediatelyFast"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar",
@@ -822,9 +821,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/tU3FiNDO/essential_1-3-3-1_forge_1-20-1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CCpv6zV4/essential_1-3-3-2_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "0e3101b33b0034692f3e1b33247bdb974ee658d3d3e541a1a7b38c428c73ac13072dde18cc921dd2b8f13a01b5805ad2f8b0b5ad9e217c799cab4868464ee392"
+                    "sha512": "b660ed2f1752b90f51691ad4ee9eb146dc298dd7fa1d335ce13f2818257c13e6dd8af890cc5b8eb86c8098ae5748a903bef27ecfd5383f442411b3c177a4b180"
                 },
                 "name": "ESSENTIAL Mod"
             },
