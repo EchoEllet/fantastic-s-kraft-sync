@@ -601,9 +601,9 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Bn3Dms32/jei-1.20.1-forge-15.10.0.38.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zDIRJq0x/jei-1.20.1-forge-15.11.0.43.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "4d220581e0a94a51c34d2e0c29a56fc218f1114f1542122bf7d988bcb8983cd1fad4ba9f57db238b9f6460089ae69079303f6987d7880f07b8271e0c8c8fc3dd"
+                    "sha512": "99aac59ab1e65f618956171ddb504c189169c5902bf6f0d39b8387dab357f6d4c526eeecb5e887c3e2eab7bd91ec92378179515f1438ae9ff4cc172e7cc86a09"
                 },
                 "name": "Just Enough Items"
             },
@@ -710,9 +710,9 @@
                 "name": "Just Hammers"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/wQLidOqf/epicfight-forge-20.8.6-1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/Kr6Ugovl/epicfight-forge-20.8.7-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "349c15d19685b3d1f852e30c2b37ef7bb67d96d5372bdaf9c9629561f366a1dbfeb9cd1d9060d46a30ebcd0e47a4a74557388efc0e636949e4c6c688ea139381"
+                    "sha512": "3509509fe974dc3d2bfba0507c95c0e8d9a7b359425938762f5389c4be2b6799aba8cf694a31cc2ac3bdf5081f4f9f9def39081aabbab54400d920394ed9b444"
                 },
                 "name": "Epic Fight"
             },
