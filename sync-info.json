@@ -822,9 +822,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/e1uKJarf/essential_1-3-3_forge_1-20-1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/tU3FiNDO/essential_1-3-3-1_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "bb07d027625559482b3efd66c8ae2048c78d6eaf54684f0e8e2ffd65e1d00529e2e0f7a4307e0ce6e3b87a9f7a80c7b61ea75fc7dbc29eab24bcb0acd00e405b"
+                    "sha512": "0e3101b33b0034692f3e1b33247bdb974ee658d3d3e541a1a7b38c428c73ac13072dde18cc921dd2b8f13a01b5805ad2f8b0b5ad9e217c799cab4868464ee392"
                 },
                 "name": "ESSENTIAL Mod"
             },
