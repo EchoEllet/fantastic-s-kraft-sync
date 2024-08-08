@@ -156,6 +156,13 @@
                 "name": "More Dragon Eggs"
             },
             {
+                "downloadUrl": "https://edge.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "c9c6b13be4fd68723545a7a93614f4583659f779"
+                },
+                "name": "Weapons of Miracles - epic fight"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/mLJbbJPj/collective-1.20.1-7.80.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4a29de4834168e059e5219be12bec869378de1d322069d2426a2709e3ef3c594fd9d8cdab989a26a2d82cead431a3237a7386d36d7f753260e34a56b4f07c82a"
@@ -351,13 +358,6 @@
                 },
                 "name": "Inv View Forge",
                 "clientSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/oWx9p4ug/versions/6sRhmeAA/WeaponsOfMiracles-20.1.8.5.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "85feb18be07dcc89074a107fb6780eb6ca95d16ffd542d66f8862dc0e3dd4c0fd9426f5b9244ac70f15431954f23e4ad99e57886bdab5da4ec314e53c0a8480a"
-                },
-                "name": "Weapons of Minecraft"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/n3plC8IW/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
@@ -822,9 +822,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/DANpdWey/essential_1-3-2-8_forge_1-20-1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/e1uKJarf/essential_1-3-3_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "18a42210f4897b77391acce700236c01435a8ab56d2928b151da0fab4a074c42755b4f63f457d93b04f23dc07919e7f6f206622907b5ee3bb1df9f68f7b1fb1c"
+                    "sha512": "bb07d027625559482b3efd66c8ae2048c78d6eaf54684f0e8e2ffd65e1d00529e2e0f7a4307e0ce6e3b87a9f7a80c7b61ea75fc7dbc29eab24bcb0acd00e405b"
                 },
                 "name": "ESSENTIAL Mod"
             },
