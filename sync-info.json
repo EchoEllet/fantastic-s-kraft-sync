@@ -163,9 +163,9 @@
                 "name": "Weapons of Miracles - epic fight"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/mLJbbJPj/collective-1.20.1-7.80.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/vddVmQmc/collective-1.20.1-7.81.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "4a29de4834168e059e5219be12bec869378de1d322069d2426a2709e3ef3c594fd9d8cdab989a26a2d82cead431a3237a7386d36d7f753260e34a56b4f07c82a"
+                    "sha512": "64270185d8aa362299e2bd399c09bf6eb64bde6c56f85ca85e0f27bce1be9cad65a2f724ff1bf03913463df0b9943236c09b5e8d0524424cdb29a79bfaa8ed4e"
                 },
                 "name": "Collective"
             },
@@ -564,13 +564,6 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/lIY3K5bS/L_Enders_Cataclysm-1.99.5 -1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c876032f12686982ce550d37434432089623296ab50c6ea52ff0bd00f1ca98b72856ad6628e0e46e0d5ddb1ed14ae7bd8060a5b86fbeae0d1d00ac181d98b184"
-                },
-                "name": "Cataclysm Mod"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/tNwsir0K/Bookshelf-Forge-1.20.1-20.2.13.jar",
                 "fileIntegrityInfo": {
                     "sha512": "1143753a001bccb3fc84c699cc93343f1941da9b7a63d3a3b8078808262b42962f8b10a2c16ed97a49c058865a6dbaa7e85a1e8842b95039d222f06ab4ee9509"
@@ -826,6 +819,13 @@
                     "sha512": "b660ed2f1752b90f51691ad4ee9eb146dc298dd7fa1d335ce13f2818257c13e6dd8af890cc5b8eb86c8098ae5748a903bef27ecfd5383f442411b3c177a4b180"
                 },
                 "name": "ESSENTIAL Mod"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/5474/791/L_Enders_Cataclysm-1.99.6-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "0063219bdc965837dd83b4e2241e659087a9c6fd"
+                },
+                "name": "L_Ender 's Cataclysm"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
