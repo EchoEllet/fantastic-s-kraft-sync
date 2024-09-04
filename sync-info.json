@@ -41,9 +41,9 @@
         "name": "Tool Belt"
       },
       {
-        "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/zk0LBc4p/entity_model_features_forge_1.20.1-2.2.2.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/YSvm2IkM/entity_model_features_forge_1.20.1-2.2.3.jar",
         "fileIntegrityInfo": {
-          "sha512": "87bb7d367cc0ec8fddf6a09c91bd5005387343ebbbab32d3a4690df57ec56cb87c7b62483dc078d95dc18fb99cd41526ff73f3ab0254ad87316ea56065abc465"
+          "sha512": "b9efdc3fc89e40be195775660e19fcc25d6b06936671f7b5169a257b7dfe7707baec7920ff1a3b04e47c7d3c078009fcd510039f6c1e5bf0dab016b23d4d4cc1"
         },
         "name": "Entity Model Features"
       },
@@ -525,9 +525,9 @@
         "name": "Jade"
       },
       {
-        "downloadUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/K1SUEjn1/Xaeros_Minimap_24.3.0_Forge_1.20.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/dvP335Jb/Xaeros_Minimap_24.4.0_Forge_1.20.jar",
         "fileIntegrityInfo": {
-          "sha512": "78da388aec14ea128d7fa755bc546f47807cbf4942f07244ea1abc365af1c82c38c69ac88f56c5e47c3dfe1338633190e6fb65e0c46e6eaede51c5cb76db799a"
+          "sha512": "3d43bb909a9e1a131df98549e157da1a2a77e47c4503b75e3c20a2bc16671c97c8cf9058edf970ad9e0716d27e25f828e330801c33c47762c8c5f597eb5e76bb"
         },
         "name": "Xaero's Minimap"
       },
@@ -584,9 +584,9 @@
         "serverSupport": "unsupported"
       },
       {
-        "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/xmk3WJO4/DynamicTrees-1.20.1-1.3.0-BETA13.jar",
+        "downloadUrl": "https://cdn.modrinth.com/data/vdjF5PL5/versions/Wv2d1pla/DynamicTrees-1.20.1-1.3.0-BETA14.jar",
         "fileIntegrityInfo": {
-          "sha512": "607a08d12d45d1374e682d639835c9f7fceaf103126fc9027ff3c13b0f1d40013411849576c1596b5ce7752042e4b56b6e723d2b618b4431fbd832cf4fb5acd6"
+          "sha512": "9adf6a6882987bc3066c32a004001f173c5fd110edccc7110d3ff7281d37606a9f7acce7ecdaf8b1ebd6e17eb5d3ca666f8a2069b8923ab826b47ffcff8cb087"
         },
         "name": "Dynamic Trees"
       },
@@ -781,13 +781,6 @@
         },
         "name": "ObsidianUI",
         "serverSupport": "unsupported"
-      },
-      {
-        "downloadUrl": "https://cdn.modrinth.com/data/upBx6tuB/versions/AfuFakPO/EFMCompat 2.0.jar",
-        "fileIntegrityInfo": {
-          "sha512": "eccac214a5ef2243f685c5fd027da67c42913c68be76958073892856bdd1b62597b50b4805fe4535828606cd9367935b8bceb2f8d0129f88f1e5ee5fbcccde56"
-        },
-        "name": "Epic Fight & Other Mods Weapons Compabilities"
       },
       {
         "downloadUrl": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
