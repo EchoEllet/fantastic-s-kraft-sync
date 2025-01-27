@@ -1,0 +1,10 @@
+version:3465
+enableVsync:false
+fullscreen:false
+darkMojangStudiosBackground:true
+renderClouds:"false"
+incompatibleResourcePacks:["file/Dramatic Skys Demo 1.5.3.25.zip"]
+soundCategory_music:0.50
+soundCategory_weather:0.35
+modelPart_cape:false
+guiScale:2

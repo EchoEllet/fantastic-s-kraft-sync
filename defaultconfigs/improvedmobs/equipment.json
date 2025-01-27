@@ -1,0 +1,452 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      10810,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      11107,
+      0.0469
+    ],
+    "cataclysm:athame": [
+      11107,
+      0.0469
+    ],
+    "cataclysm:final_fractal": [
+      14,
+      23.563541
+    ],
+    "cataclysm:khopesh": [
+      11478,
+      0.009799999
+    ],
+    "cataclysm:zweiender": [
+      14,
+      23.563541
+    ],
+    "epicfight:bokken": [
+      11449,
+      0.0127
+    ],
+    "epicfight:diamond_dagger": [
+      8879,
+      4.790248
+    ],
+    "epicfight:diamond_greatsword": [
+      8649,
+      5.2822285
+    ],
+    "epicfight:diamond_longsword": [
+      8804,
+      4.951788
+    ],
+    "epicfight:diamond_spear": [
+      8833,
+      4.889481
+    ],
+    "epicfight:diamond_tachi": [
+      8804,
+      4.951788
+    ],
+    "epicfight:glove": [
+      11129,
+      0.044699997
+    ],
+    "epicfight:golden_dagger": [
+      11517,
+      0.0058999998
+    ],
+    "epicfight:golden_greatsword": [
+      11286,
+      0.028999997
+    ],
+    "epicfight:golden_longsword": [
+      11478,
+      0.009799999
+    ],
+    "epicfight:golden_spear": [
+      11495,
+      0.0081
+    ],
+    "epicfight:golden_tachi": [
+      11478,
+      0.009799999
+    ],
+    "epicfight:iron_dagger": [
+      11124,
+      0.045199998
+    ],
+    "epicfight:iron_greatsword": [
+      10893,
+      0.670341
+    ],
+    "epicfight:iron_longsword": [
+      11061,
+      0.37663084
+    ],
+    "epicfight:iron_spear": [
+      11086,
+      0.049
+    ],
+    "epicfight:iron_tachi": [
+      11061,
+      0.37663084
+    ],
+    "epicfight:netherite_dagger": [
+      8059,
+      6.5202
+    ],
+    "epicfight:netherite_greatsword": [
+      7832,
+      6.9932466
+    ],
+    "epicfight:netherite_longsword": [
+      7972,
+      6.701589
+    ],
+    "epicfight:netherite_spear": [
+      8005,
+      6.632802
+    ],
+    "epicfight:netherite_tachi": [
+      7972,
+      6.701589
+    ],
+    "epicfight:stone_greatsword": [
+      11108,
+      0.0468
+    ],
+    "epicfight:stone_spear": [
+      11310,
+      0.026599998
+    ],
+    "epicfight:uchigatana": [
+      8724,
+      5.1228175
+    ],
+    "mca:scythe": [
+      11292,
+      0.028399998
+    ],
+    "minecraft:bow": [
+      9008,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      9302,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8771,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8833,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      9976,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      11432,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11495,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      10999,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      11086,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      10076,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      7935,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      8005,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      11026,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      10076,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      11202,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      11310,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9876,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      9076,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      11386,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      11449,
+      0.0127
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      675,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      647,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      275,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      3718,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      3156,
+      0.6972618
+    ],
+    "cataclysm:ignitium_boots": [
+      35,
+      7.1598268
+    ],
+    "minecraft:chainmail_boots": [
+      3267,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      2351,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      3333,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      3019,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      3615,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      2224,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      1579,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      2814,
+      1.173019
+    ],
+    "cataclysm:ignitium_leggings": [
+      61,
+      7.1598268
+    ],
+    "epicfight:stray_pants": [
+      3586,
+      0.0299
+    ],
+    "minecraft:chainmail_leggings": [
+      3293,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      2377,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      3359,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      3045,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      3641,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      2250,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      2603,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      2682,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      3030,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      3253,
+      0.59963983
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      1850,
+      3.0056863
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      249,
+      6.768275
+    ],
+    "cataclysm:ignitium_chestplate": [
+      61,
+      7.1598268
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      61,
+      7.1598268
+    ],
+    "epicfight:stray_robe": [
+      3586,
+      0.0299
+    ],
+    "minecraft:chainmail_chestplate": [
+      3293,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      2377,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      3359,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      3045,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      3641,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      2250,
+      1.9030677
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      3446,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      3140,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      3233,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      3131,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      3446,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      3417,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      2881,
+      1.0871058
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      249,
+      6.768275
+    ],
+    "cataclysm:ignitium_helmet": [
+      61,
+      7.1598268
+    ],
+    "cataclysm:monstrous_helm": [
+      2250,
+      1.9030677
+    ],
+    "epicfight:stray_hat": [
+      3586,
+      0.0299
+    ],
+    "minecraft:chainmail_helmet": [
+      3293,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      2377,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      3359,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      3045,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      3641,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      2250,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2989,
+      0.948558
+    ]
+  }
+}
