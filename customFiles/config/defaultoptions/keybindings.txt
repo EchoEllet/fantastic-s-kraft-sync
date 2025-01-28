@@ -197,3 +197,4 @@ key_key.ryoamiclights.dyn_light:key.keyboard.unknown:NONE
 key_key.presencefootsteps.settings:key.keyboard.f10:NONE
 key_keybind.invmove.toggleMove:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
+key_desc.seasonhud.keybind.options:key.keyboard.unknown
