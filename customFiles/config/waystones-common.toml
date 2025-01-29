@@ -45,7 +45,7 @@
 	#If enabled, only the owner of a waystone (the one who placed it) can rename it.
 	restrictRenameToOwner = false
 	#If enabled, waystones generated in worldgen are unbreakable.
-	generatedWaystonesUnbreakable = true
+	generatedWaystonesUnbreakable = false
 	#If enabled, leashed mobs will be teleported with you
 	transportLeashed = true
 	#Whether to take leashed mobs with you when teleporting between dimensions
@@ -62,7 +62,7 @@
 	#Set to true if players should be able to teleport between waystones by simply right-clicking a waystone.
 	allowWaystoneToWaystoneTeleport = true
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
-	globalWaystoneSetupRequiresCreativeMode = false
+	globalWaystoneSetupRequiresCreativeMode = true
 
 [cooldowns]
 	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
