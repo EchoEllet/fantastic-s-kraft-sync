@@ -59,7 +59,7 @@
   "interactionFatigueCooldown": 4800,
   "villagerHealthBonusPerLevel": 5,
   "useSquidwardModels": false,
-  "enableBoobs": false,
+  "enableBoobs": true,
   "burnedClothingTickLength": 3600,
   "coloredHairChance": 0.02,
   "heartsRequiredToAutoSpawnGravestone": 10,
