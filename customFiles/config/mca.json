@@ -106,7 +106,7 @@
   ],
   "enableAutoScanByDefault": false,
   "immersiveLibraryUrl": "https://mca.conczin.net",
-  "allowEveryoneToAddContentGlobally": false,
+  "allowEveryoneToAddContentGlobally": true,
   "giftDesaturationQueueLength": 16,
   "giftDesaturationFactor": 0.5,
   "giftDesaturationExponent": 0.85,
