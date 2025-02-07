@@ -156,7 +156,12 @@
     "minecraft:skeleton": 0,
     "minecraft:slime": 0,
     "mca:female_zombie_villager": 3,
-    "mca:male_zombie_villager": 3
+    "mca:male_zombie_villager": 3,
+    "shifu_epic_fight_skill_recipe:martialbandit": 4,
+    "shifu_epic_fight_skill_recipe:martialbanditnatural": 4,
+    "shifu_epic_fight_skill_recipe:bandit_captain": 4,
+    "shifu_epic_fight_skill_recipe:banditking": 4,
+    "shifu_epic_fight_skill_recipe:rogue": 4
   },
   "villagerPathfindingBlacklist": [
     "#minecraft:climbable",
