@@ -16,7 +16,7 @@ threatReevaluationCooldown = 5
 #Default: true
 onlyCountVisibleMobs = true
 #A list of mobs that should NOT be considered towards music tracks playing.
-ignoredMobs = ["minecraft:creeper", "cataclysm:ignis", "cataclysm:maledictus", "cataclysm:ancient_remnant", "cataclysm:ender_guardian", "shifu_epic_fight_skill_recipe:tung_lai", "cataclysm:ender_guardian", "cataclysm:the_leviathan", "cataclysm:the_harbinger"]
+ignoredMobs = ["minecraft:creeper", "cataclysm:ignis", "cataclysm:maledictus", "cataclysm:ancient_remnant", "cataclysm:ender_guardian", "shifu_epic_fight_skill_recipe:tung_lai", "cataclysm:ender_guardian", "cataclysm:the_leviathan", "cataclysm:the_harbinger", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:umvuthi", "mowziesmobs:frostmaw"]
 #Specifies if the ignored mob list should be used a whitelist instead of a blacklist.
 #Default: false
 whiteListMode = false
@@ -33,7 +33,7 @@ calmDownTime = 5
 [non_aggro]
 	#Specifies if the non-aggressive music track should play at all.
 	#Default: true
-	nonAggressiveTrackEnabled = true
+	nonAggressiveTrackEnabled = false
 	#The time (in seconds) for the non-aggressive music track to fade in/out.
 	#Default: 6.0
 	#Range: 0.05 ~ 60.0
