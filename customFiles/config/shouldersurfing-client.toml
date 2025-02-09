@@ -15,7 +15,7 @@
 	#Whether or not to dynamically adjust camera offsets depending on space constraints.
 	dynamically_adjust_offsets = true
 	#Whether or not to decouple the camera rotation from the player rotation.
-	decoupled_camera = true
+	decoupled_camera = false
 
 	[camera.offset]
 		#Third person camera x-offset.
