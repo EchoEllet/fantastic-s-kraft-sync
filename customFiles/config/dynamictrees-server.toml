@@ -29,13 +29,13 @@ growthFolding = 400
 	growthMultiplier = 0.5
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
-	harvestMultiplier = 1.0
+	harvestMultiplier = 4.0
 	#Maximum harvesting hardness that can be calculated. Regardless of tree thickness.
 	#Range: 1.0 ~ 200.0
-	maxTreeHardness = 20.0
+	maxTreeHardness = 5.0
 	#A multiplier of tree hardness. Higher values make trees slower to chop, lower values makes them faster to chop.
 	#Range: 0.0078125 ~ 32.0
-	treeHardnessMultiplier = 1.0
+	treeHardnessMultiplier = 0.2
 	#Do X growth cycles at once while ignoring (X-1)/X attempts.  Higher numbers can improve client side performance but too high can make trees grow wierd.
 	#Range: 1 ~ 8
 	growthFolding = 2

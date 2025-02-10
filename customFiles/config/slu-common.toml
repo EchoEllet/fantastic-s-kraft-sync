@@ -5,7 +5,7 @@
 	#Decide to drop repairstone when player kills monster.
 	"drop repairstone" = false
 	#Decide to drop healingstone when player kills monster.
-	"drop healingstone" = false
+	"drop healingstone" = true
 	#Decide to get buff when player wears souls-like armor. 
 	"armor passive" = true
 	#monster breaks boat.
