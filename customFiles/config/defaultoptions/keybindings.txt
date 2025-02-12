@@ -154,7 +154,7 @@ key_key.cataclysm.helmet_ability:key.keyboard.unknown
 key_key.cataclysm.chestplate_ability:key.keyboard.unknown
 key_key.cataclysm.boots_ability:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.mca.skin_library:key.keyboard.f12
 key_key.sethorse.desc:key.keyboard.f9
 key_key.callhorse.desc:key.keyboard.p
