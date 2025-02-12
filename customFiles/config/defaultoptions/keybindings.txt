@@ -86,8 +86,6 @@ key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.showUses2:key.mouse.right
 key_key.jei.cheatOneItem:key.keyboard.unknown
 key_key.jei.cheatItemStack:key.keyboard.unknown
-key_key.toggledpickup.toggle:key.keyboard.v
-key_key.toggledpickup.manually:key.keyboard.unknown
 key_key.shouldersurfing.adjust_camera_left:key.keyboard.left
 key_key.shouldersurfing.adjust_camera_right:key.keyboard.right
 key_key.shouldersurfing.adjust_camera_in:key.keyboard.up
