@@ -1148,13 +1148,6 @@
                 }
             },
             {
-                "filePath": "config/shouldersurfing-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/shouldersurfing-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "0bf5cb9b282bf3816b890c6c24b953e98b7eb51d1f4e66dd6be23692750ae30101fa37efc4c7775070d90b1aa90bb07a5ec895f31c4af97348b72552c23716f1"
-                }
-            },
-            {
                 "filePath": "config/iceandfire-common.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-common.toml",
                 "fileIntegrityInfo": {
@@ -1271,6 +1264,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "fileIntegrityInfo": {
                     "sha512": "61d6452a88d89b4a42259f020a535d43bad660d4fde411802878a3eba7b5a8aaf7e83280d92603022176dd077685852f92cc272940a2b23913726e009e325125"
+                }
+            },
+            {
+                "filePath": "defaultconfigs/shouldersurfing-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/defaultconfigs/shouldersurfing-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "0bf5cb9b282bf3816b890c6c24b953e98b7eb51d1f4e66dd6be23692750ae30101fa37efc4c7775070d90b1aa90bb07a5ec895f31c4af97348b72552c23716f1"
                 }
             },
             {
