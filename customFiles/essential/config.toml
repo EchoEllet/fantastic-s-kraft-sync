@@ -19,6 +19,7 @@
 		quick_action_bar = true
 
 [hidden]
+	play_emote_sounds_in_wardrobe = true
 	previously_launched_with_container = 1
 
 	[hidden.hidden]
@@ -33,6 +34,7 @@
 
 	[emotes.general]
 		disable_emotes = true
+		allow_emote_sounds = 0
 		play_emotes_in_third_person_view = false
 		emote_preview = false
 
@@ -61,6 +63,9 @@
 
 	[quality_of_life.general]
 		auto_refresh_session = true
+
+	[quality_of_life.fullscreen]
+		windowed_fullscreen = false
 
 	[quality_of_life.accessibility]
 		enlarge_chat_metadata = false
