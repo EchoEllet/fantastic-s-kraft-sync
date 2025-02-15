@@ -107,13 +107,6 @@
                 "name": "Clumps"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/NfC2TBZe/versions/adqgwua7/%5Bforge%5Dslu_360.1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "657fd7b203d1547d8ff5f7ce6f110a75977fedafd98f1be84143235afe84b00bf362d40cde437bd29862ef6c39242ae3556348a741aadde0aa89f2b2e37abadb"
-                },
-                "name": "souls-like universe: epic fight & better combat"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149"
@@ -193,14 +186,6 @@
                     "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
                 },
                 "name": "Architectury API"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/c5dOxpD8/versions/19JfFGV6/global-server-config-forge-1.18.2%2B-1.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "e44154f9c45ea2c59a5626b271704193891d0dd984c19a45aa621f02b4d973f908fdede8a2d68ea5d28e7f275e4f289356d920e3eb1453fb1f4fe38301edfc88"
-                },
-                "name": "Global Server Config",
-                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar",
