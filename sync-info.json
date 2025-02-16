@@ -643,6 +643,13 @@
                 "name": "Global Packs"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LkhH2gKX/artifacts-forge-9.5.13.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "70d4d2f64cea19171b2c6d95f0aa9281dfa21d18fae472ffb6bbadcd7ce2e29588e692ed68f2ef4b278395890d54909909d342639f411aee752bde7227817935"
+                },
+                "name": "Artifacts"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef"
