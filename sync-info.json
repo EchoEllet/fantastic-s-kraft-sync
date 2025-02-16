@@ -107,6 +107,20 @@
                 "name": "Clumps"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/QIt10I7z/versions/kAjXYon3/dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "bb6ff9ab1a033edb33b1112566858b12f6fcc06f1ceff181d70e7c1679924f1aaa53c70d61c038f0e967f03dec8944d951009cce937fde32599e37fec7ed2cee"
+                },
+                "name": "Dungeons and Taverns Pillager Outpost Overhaul"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "66008a7439fde95270350433adbff7b74944ad97e216ad165d11b3a023647a8cd18c17aa12ded2a58fa793ff29433e9bcbbd55e6ffd5a3af44f72c1ea12c1089"
+                },
+                "name": "Dungeons and Taverns"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149"
@@ -151,6 +165,14 @@
                 },
                 "name": "YUNG's Better Desert Temples",
                 "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/jawg7zT1/versions/inDklMG3/cavedust-2.0.4-1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "eda2168acb6d0bd4ee7ad8ec039e38baee76d89025e7c3515b3c9a789dc90d8e4f66ae6defdd1d48cb4081fb4725103a372fb795ef3ea7cf4b69aef7aed88c29"
+                },
+                "name": "Cave Dust",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/O13IgRhY/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
@@ -200,6 +222,14 @@
                     "sha512": "53d78a615dc0c762c8566848ddcd499729565209dd9d3198feb3e5ac4044ab3442a77fd7cd2a2466dd7845243e926735154d9c5996c1cd11fef4e985eb0a96c0"
                 },
                 "name": "Immersive Aircraft"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "20053af7b38b6d25c18c73608f5437f7298c2cf9310c0f71933c02224bf903b18ae61c9959753d834e2c9687b6b57175bfe01f3a3c96bcc599714a4f5155b492"
+                },
+                "name": "Advancement Plaques",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/4730/35/callablehorses-1.20.1-1.3.0.1.jar",
@@ -691,6 +721,13 @@
                 "name": "CreativeCore"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/ZrqMJA7K/versions/dBrAgsC4/horsescanswim-1.0.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "a8d442d31a4a753f90d0ed50095382910d36822614d8fc6a26eaa2f9d66f6c4ea73f4b2e4977510d9277a3d0dbd03b41629c372a59305209daacbc1140657b5d"
+                },
+                "name": "Horses Can Swim"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/E0L8mfJZ/versions/3UXTHiK6/ObsidianUI-forge-0.2.3%2Bmc1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "07f3890ac55345eb4c7091af03ca7523ee5eb6a7db0a651479096d1a85ebbdfccc6c5e81de6546fcb2e5a9953c89cdacdc98e2ffd6aa020da3d72d8f295f8fa3"
@@ -705,6 +742,14 @@
                 },
                 "name": "Legendary Tooltips",
                 "serverSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/EEIwvQVo/versions/aAa24NQe/tidal-towns-1.3.4.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "1992f0b4b9ec7d89a4ab9cd96b652f89171941b8c0baf8fa6d22d1d92b6fc5ca7088e04738beda8a93319f35ad5a0ea1ca9e304d0324dec28dc35e84b3592e51"
+                },
+                "name": "Tidal Towns",
+                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar",
@@ -1239,6 +1284,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "fileIntegrityInfo": {
                     "sha512": "61d6452a88d89b4a42259f020a535d43bad660d4fde411802878a3eba7b5a8aaf7e83280d92603022176dd077685852f92cc272940a2b23913726e009e325125"
+                }
+            },
+            {
+                "filePath": "mods/EFMCompat_20.2.0.1_modified.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "0135ceafe68f75bcac98cf9e44f56ac4b8eced6ce4197f47d1bc26d10ba506e9fa04c27a5a5c266562bb3ba6405f8b120ed77b616149d5ce39175d6069fef13e"
                 }
             },
             {
