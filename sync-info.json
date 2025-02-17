@@ -1049,13 +1049,20 @@
         ]
     },
     "customFileSyncInfo": {
-        "deleteRemovedFiles": false,
+        "deleteRemovedFiles": true,
         "files": [
             {
                 "filePath": "essential/config.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/essential/config.toml",
                 "fileIntegrityInfo": {
                     "sha512": "719002b0fd70715b0086ee8898bfbebc3718cb9e9922c21eb3e4fc4be1668d59a1cc8615e0d1b9ec5db72b93b63b473980e29677510b7d594bb1b4d05c554bce"
+                }
+            },
+            {
+                "filePath": "config/playerrevive.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive.json",
+                "fileIntegrityInfo": {
+                    "sha512": "950caac664ab95aaa64bd95358c67869f791946b0cb869b77ebf07f073427d7a7ba94486c98e5f1375fa60f3904a67f50d8de16ef8b3791fc3176ba80f6c99ee"
                 }
             },
             {
