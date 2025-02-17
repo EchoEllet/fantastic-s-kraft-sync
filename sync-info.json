@@ -1005,6 +1005,9 @@
         "applyResourcePacks": true,
         "resourcePacks": [
             {
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/L_Enders_Cataclysm_Boss_Music_Tweaks.zip"
+            },
+            {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/ConquestSky.zip"
             },
             {
