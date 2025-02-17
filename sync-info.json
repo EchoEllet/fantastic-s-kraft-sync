@@ -292,9 +292,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/rzU6k4w7/sophisticatedcore-1.20.1-1.2.12.872.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/hgauiW9P/sophisticatedcore-1.20.1-1.2.14.875.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "0885ea7cf0890397d515270bafe59e86504f53022f9c18725eb55c61b58e7df9ba21db02ccb3743a93e566c9dc7fccc615c8bd9d591aeaf5cbd45545460590e2"
+                    "sha512": "e216a5358e20fd1e077ed04e3f69224d37272ed32baf9a738e501f5ef3cd7ed5e9d04fe1d76001becb6fc8154799daf2e829690f3bd13bad71be031e7321e783"
                 },
                 "name": "Sophisticated Core"
             },
@@ -714,9 +714,9 @@
                 "name": "Ice and Fire"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3qfHtqyO/balm-forge-1.20.1-7.3.15-all.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Xr2dC1pl/balm-forge-1.20.1-7.3.16-all.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "32dfcc91a5bd56b2b4287e771ae340a60a06d60c828d1c45b232a899bc2f521e5e102c150730181674fceca01bf6a9df039c757b2831d64ac0ee6303f84ae717"
+                    "sha512": "293e5a20d76f40adb98da5d691f0342c06b850aa2963c45aad729c4988e9964aee7cf6c8f5e70c1adc6d04af1684e714ce65e1dbf5e7a3895baa3994a57619f9"
                 },
                 "name": "Balm"
             },
