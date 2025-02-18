@@ -714,9 +714,9 @@
                 "name": "Ice and Fire"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Xr2dC1pl/balm-forge-1.20.1-7.3.16-all.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DJNCH0k5/balm-forge-1.20.1-7.3.17-all.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "293e5a20d76f40adb98da5d691f0342c06b850aa2963c45aad729c4988e9964aee7cf6c8f5e70c1adc6d04af1684e714ce65e1dbf5e7a3895baa3994a57619f9"
+                    "sha512": "f7c4449277a3ed8f9f0e9a257f52a71b29144969c1094154cfc68716ca46a64dd52dc7c4e75baeca30415b2fc3b2d3f91f30a79f2ddf033cf40e342e498b8631"
                 },
                 "name": "Balm"
             },
@@ -1011,7 +1011,7 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/ConquestSky.zip"
             },
             {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/FantasticCombatMusicKratos.zip"
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/GodOfWarCombatMusic.zip"
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/EFM_IronsV2.0.zip"
