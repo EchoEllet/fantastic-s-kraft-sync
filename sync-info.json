@@ -1321,10 +1321,10 @@
                 }
             },
             {
-                "filePath": "mods/cataclysm_spellbooks-1.2.0-1.20.1-all.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-all.jar",
+                "filePath": "mods/cataclysm_spellbooks-1.2.0-1.20.1-1.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "7b7d3be2af21d4fcdfdbae9bda8e6ea8163ca5d79b89407754e4320efd1af2b79f9a72b2b2e2e60d8b1d195077289223679b758f28c617925e965b579cf076a5"
+                    "sha512": "9fe213e5644f5fd74eb08c9a054d37a47b39bc194f108d533f5eb7e84f598ff70f2c55f8c6cfc4e30ec7ea3d57adaff646ef3e610664c16574bbed97c78a48a1"
                 }
             },
             {
