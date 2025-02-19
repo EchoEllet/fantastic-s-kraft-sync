@@ -923,9 +923,9 @@
                 "name": "ESSENTIAL Mod"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/6196/169/L_Enders_Cataclysm-2.54-%201.20.1.jar",
+                "downloadUrl": "https://edge.forgecdn.net/files/6208/724/L_Enders_Cataclysm-2.56-%201.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha1": "0e78bb040f8c7a4809eb3dfac33fd7a3b79900a1"
+                    "sha1": "bae703425f5da25d602b441017b8c5dff7149d12"
                 },
                 "name": "Cataclysm Mod",
                 "clientSupport": "unsupported"
@@ -1318,6 +1318,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified.jar",
                 "fileIntegrityInfo": {
                     "sha512": "0135ceafe68f75bcac98cf9e44f56ac4b8eced6ce4197f47d1bc26d10ba506e9fa04c27a5a5c266562bb3ba6405f8b120ed77b616149d5ce39175d6069fef13e"
+                }
+            },
+            {
+                "filePath": "mods/cataclysm_spellbooks-1.2.0-1.20.1-all.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-all.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "437db3127f79a705ccb991aa2c59c6dbaf72af6abcdafd607d83b1a46f36243086dc688a1882f6b5c6edae4dacea6c27f954acf9b7875850ea389b2848d5ab3f"
                 }
             },
             {
