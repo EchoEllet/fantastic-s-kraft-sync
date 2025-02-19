@@ -27,6 +27,13 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/rYocd2LE/versions/XcN77mjg/dungeons-and-taverns-stronghold-rework-1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "36609101925384bc339483680fa260a7f25424b1cd6e3e9477199797a41687415d9bab1c7b2192c1b9a3216b24d98519f6ad6c5fea9f57312971546847796443"
+                },
+                "name": "Dungeons and Taverns Stronghold Overhaul"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3%2Bmc1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "e71c12b81f10b42c06fac9719a2135c6d34f298fb12d926bce9aca6af8655b76ccb31dce9561543499a019e43e93cf4036dc051fe2a97ca2a8fe112f646a99a5"
@@ -125,7 +132,7 @@
                 "fileIntegrityInfo": {
                     "sha512": "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149"
                 },
-                "name": "GeckoLib 4"
+                "name": "Geckolib"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/PvHr7Rsf/sophisticatedbackpacks-1.20.1-3.23.5.1200.jar",
@@ -215,13 +222,6 @@
                     "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
                 },
                 "name": "Architectury API"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "51158a57623562253ae2940d67a6ae172e1c558bf06f288bb61dab2f182a8945ade5a8e9e192a3c94fad686c37063158c2bcacd202f0ccb73f0c1fc57f7dcf0d"
-                },
-                "name": "Citadel"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/BuPtsmaI/immersive_aircraft-1.1.8%2B1.20.1-forge.jar",
@@ -678,13 +678,6 @@
                 "name": "Easy Magic"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/6159/423/mowziesmobs-1.7.0.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "f7447ba355b2810df590dc6b2f7e95f25e9ad03e"
-                },
-                "name": "Mowzie's Mobs"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar",
                 "fileIntegrityInfo": {
                     "sha512": "43ea1e4472f0963f768f0ddb1d8be523dc7e0fdc265029d3cc2b8df4a3d7a88ab7dcf1e053ee7813c40f97dd5dfe5afc6ad48276fb390b07a66b959b20488c25"
@@ -705,13 +698,6 @@
                     "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87"
                 },
                 "name": "Lionfish API"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "9e3559efccfb898a1f96c16910c07d26bafa730603a335db04df5a1ef511bd2e60b6bbb788c12aa80b12c8ffd8228e7eddf840f90f356577bfd0e439e24eb4f1"
-                },
-                "name": "Ice and Fire"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DJNCH0k5/balm-forge-1.20.1-7.3.17-all.jar",
@@ -766,14 +752,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "64fc99b8df17999117f3f9ef460dcac9acddc70c418d236e7a7b1d489a10ac737eaedc15c01540f0bf9e2bf51aee04f16bfb741c680370ac69f6f2ca2af24afc"
-                },
-                "name": "Tectonic",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/edU0NbZZ/versions/JafXa7hr/justhammers-forge-2.0.3%2Bmc1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "3d20301a35f96a6369e5f75ec05226cb18d3a48c64a377790d718ca24fffb20c290efbade5328cb3ebfe8a1c760c84331df6f3059a665ed1b02020bc7852c292"
@@ -794,13 +772,6 @@
                     "sha512": "9cc56587c828a02468bd74a4dd2ef2b4a628c45a86443300359a7ae4d912a51c2b338329f8cd4095de9273570fefc4aff96247c6e7a29dd28a4b66e278da88b2"
                 },
                 "name": "Epic Fight"
-            },
-            {
-                "downloadUrl": "https://edge.forgecdn.net/files/4582/190/castle_dungeons-4.0.0-1.20-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "ea43f4b081b478af183b2a98559e5cba2367acdc"
-                },
-                "name": "Castle Dungeons [Forge & Fabric]"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar",
@@ -962,33 +933,11 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/GkIc6rRo/versions/XWZQbKsr/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "757e11d6bda175025b88688becd0e70fec8f00d50ee0861537968a79f1053853c4c8845ba62bb689b8734ec7f0c8c2f1029fb1daf897152337662bbc5b47c438"
-                },
-                "name": "CERBON's API"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/hFUzfDsn/versions/2Kw4xPhp/BOMD-Forge-1.20.1-1.1.2.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "f67acaec9e34ec8b580aaf69f98c05067feff996156c7ee9c2d8372f8544dad73d9fe942a5c43db687caf47c1f0c8f3d3d318e5fb0c87bfcf702242218cf81ab"
-                },
-                "name": "Bosses of Mass Destruction Forge"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
                 },
                 "name": "AppleSkin"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "7fbb51f761ca1a514ce95e9967bcc93c09766a8929f19029390d46b18d7e876c4354d11350a5f8410dc28e485680f4eaf1019e4bd074cff34e8cfc5b232480d4"
-                },
-                "name": "YUNG's Better Strongholds",
-                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar",
