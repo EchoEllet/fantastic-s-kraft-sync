@@ -409,14 +409,6 @@
                 "name": "Spawn Animations"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/6047/153/Dungeon%20Crawl-1.20.1-2.3.15.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866"
-                },
-                "name": "Dungeon Crawl",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/yM94ont6/versions/W6W0bVtN/notenoughcrashes-4.4.7%2B1.20.1-forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "9128836e8bed4ff60f5569b0541a132eafa009275657c6816792b210d31b8cb9f83afc9469335f0018890484c0b744b4ad0be865ee4f89ad665eac05ca27cafb"
