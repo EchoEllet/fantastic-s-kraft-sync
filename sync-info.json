@@ -150,6 +150,14 @@
                 "clientSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/7cCt9Fxn/versions/1mntTorU/towering-golem-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "e163a72bf55b75018f47244c415ffde57310ab331e49a3341b8a4b333f22325e89ca80b923cc4ddb8006a627f746ce56e26a78a754cff9a129f1595dd20b6d7c"
+                },
+                "name": "Towering Golems",
+                "clientSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/ANlAmoYX/versions/D1hn6PSz/double-doors-dp-1.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "75b0e96fb2689d2e1f1a9ebb907bd0711e5283b4e2f3a082e95b8ae107f99c4ed92fde522dc53d30a0a6e3f50b0d81c8b51e1a53789e1bad97711fa69935d18b"
@@ -292,9 +300,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/hgauiW9P/sophisticatedcore-1.20.1-1.2.14.875.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/OSAsLdRk/sophisticatedcore-1.20.1-1.2.18.885.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "e216a5358e20fd1e077ed04e3f69224d37272ed32baf9a738e501f5ef3cd7ed5e9d04fe1d76001becb6fc8154799daf2e829690f3bd13bad71be031e7321e783"
+                    "sha512": "c93b854b8cf0b89d37da81785a6fb4ef433f71ecaf6457f4f9274eb53717b992e35a33ab2604bbf7885fe151081f767c216d8c8966901c2f7feeb01934620d4e"
                 },
                 "name": "Sophisticated Core"
             },
@@ -438,11 +446,19 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6NzPdjtb/curios-forge-5.11.1%2B1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/Ck06wnhs/curios-forge-5.12.0%2B1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "abb2bc59b9cbb021ff0a98e2666eee3faedad4c35fbf733e21ddcd65cc6a0932ae775b1ebb8ac7c8df882990efb387034db80ca5b1e7b8b5fe2fa6114e4abb89"
+                    "sha512": "347101c3f6a34c6b2e69c32d4ae035511f93a765a977b2585086335de206925c968575fda76f3f2733af155c2e9f1dcf8e35096200492a3b6b1b4cf3f8186f75"
                 },
                 "name": "Curios API"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/eEpWUjwq/versions/cBbVgZbj/farsighted-mobs-forge-1.1-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4e6a6cced4bc51f03703b63e11d51335fccd48cce0093cc8fa420f4b9a39e18fa1798a40fd1638e2d9e478515966c58dbd08abb9b79a29353e3c02d18d165da3"
+                },
+                "name": "Farsighted Mobs",
+                "clientSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar",
@@ -917,12 +933,11 @@
                 "name": "Shifu - Craftable Epic Fight Skill Books"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/3Wmpi0tR/XaerosWorldMap_1.39.2_Forge_1.20.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/SMViC4Yw/XaerosWorldMap_1.39.4_Forge_1.20.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "b719fba032ad51dd390a9d3906c801d17aa6dc88106b37a78f230144f3f435c35f0a0f3fc3193d199d09146800c11b64194b6aa246c7e3135b4d32c564c5cb90"
+                    "sha512": "2b1060839325fd90ced491d7e58306d0473c616fcf7ca9714b70719bac03e0a2d37fd1b9ceca1ff37167b88527ee935e7b715a07486e430a26b26f953e3bb721"
                 },
-                "name": "Xaero's World Map",
-                "serverSupport": "unsupported"
+                "name": "Xaero's World Map"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -1255,10 +1270,17 @@
                 }
             },
             {
-                "filePath": "mods/EFMCompat_20.2.0.1_modified.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified.jar",
+                "filePath": "mods/bladeofolympus-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.1-alpha.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "0135ceafe68f75bcac98cf9e44f56ac4b8eced6ce4197f47d1bc26d10ba506e9fa04c27a5a5c266562bb3ba6405f8b120ed77b616149d5ce39175d6069fef13e"
+                    "sha512": "cafa2bdd43a792ca7609ab68be4d074ffed5fa796339f30d120b4650f49249acf85e7a07b244186d3c9fd799bb66b4284020484eb4bd66a157efb3fd3fd87faf"
+                }
+            },
+            {
+                "filePath": "mods/EFMCompat_20.2.0.1_modified2.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified2.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "edfd6ce327677b623ca4c89c7fcd5af284b4544953f4b239468d9ae4815929e29c133f617cf4d82335203ec03df05310fdda3b994a6e8944daf70f3aeb1bbd12"
                 }
             },
             {
