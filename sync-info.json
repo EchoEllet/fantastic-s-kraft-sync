@@ -1,4 +1,5 @@
 {
+    "verifyAssetFilesIntegrity": false,
     "modSyncInfo": {
         "allowUsingOthers": true,
         "syncOnlyModsForCurrentEnv": false,
