@@ -1273,10 +1273,17 @@
                 }
             },
             {
-                "filePath": "mods/EFMCompat_20.2.0.1_modified2.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified2.jar",
+                "filePath": "mods/EFMCompat_20.2.0.1_modified.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "800a2e300e0d13d99c2b5e209e0cc1441e740e8778b52f298e3c5cebb7265f1ba56b6009d552a2ebbebaa3473de52200091093c389d73bd7538439eae181ac4e"
+                    "sha512": "87fe872971f7330c8d1f971684f4ebec97f3a511226cb243b5c55059c1d4f85746b6106df5efb1c28cbbd8c57a961f5382355fdadb0ee8702c02ac505cf79f42"
+                }
+            },
+            {
+                "filePath": "mods/bladeofolympus-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.1-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "b19d785afcfb2dd9baa21be9f27e733316b5abe7bf9e8e9ea565aebb362988998b123f201c6370577b78f2bf8b97094c911b57d5bacdd0a9cc666f7bf6c8ef8b"
                 }
             },
             {
@@ -1284,13 +1291,6 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "77fe104947f08b854d1a307aad5a7faafd9a51076777cc8c16f195e388117b5fb04bf69754623c9b6b52db448b3749b8197ff8430472c31129a283b1c2a35fd5"
-                }
-            },
-            {
-                "filePath": "mods/bladeofolympus-0.0.2-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.2-alpha.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "4530d20654dfd4e6decbf2db2a7bd8b33c13003d41ea47e94ee4cf42ce550b48edf4218243a728e7a548754e83e17dc3510ace400833e239418c8f042f4d115a"
                 }
             },
             {
