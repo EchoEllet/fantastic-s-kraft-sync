@@ -1273,17 +1273,10 @@
                 }
             },
             {
-                "filePath": "mods/bladeofolympus-0.0.1-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.1-alpha.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "cafa2bdd43a792ca7609ab68be4d074ffed5fa796339f30d120b4650f49249acf85e7a07b244186d3c9fd799bb66b4284020484eb4bd66a157efb3fd3fd87faf"
-                }
-            },
-            {
                 "filePath": "mods/EFMCompat_20.2.0.1_modified2.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified2.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "edfd6ce327677b623ca4c89c7fcd5af284b4544953f4b239468d9ae4815929e29c133f617cf4d82335203ec03df05310fdda3b994a6e8944daf70f3aeb1bbd12"
+                    "sha512": "800a2e300e0d13d99c2b5e209e0cc1441e740e8778b52f298e3c5cebb7265f1ba56b6009d552a2ebbebaa3473de52200091093c389d73bd7538439eae181ac4e"
                 }
             },
             {
@@ -1291,6 +1284,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "77fe104947f08b854d1a307aad5a7faafd9a51076777cc8c16f195e388117b5fb04bf69754623c9b6b52db448b3749b8197ff8430472c31129a283b1c2a35fd5"
+                }
+            },
+            {
+                "filePath": "mods/bladeofolympus-0.0.2-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.2-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4530d20654dfd4e6decbf2db2a7bd8b33c13003d41ea47e94ee4cf42ce550b48edf4218243a728e7a548754e83e17dc3510ace400833e239418c8f042f4d115a"
                 }
             },
             {
