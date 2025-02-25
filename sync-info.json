@@ -71,9 +71,9 @@
                 "name": "CoroUtil"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/AMfhjBey/waystones-forge-1.20.1-14.1.9.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/8irGDdJK/waystones-forge-1.20.1-14.1.10.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "01b157f4e8a64b842ee4bb6c6dd1b0d8d31e7505c4bd31ecd430e4c8872111f58e8efd8f36699aa138768b38afb9628f9625dac7e139aa731311ee4b759c7458"
+                    "sha512": "9df0c3d27fcad0e69cf7c6a95b8d5d0b302014fea31d6254fdc84afb9b99943bc9191f73315da54ede4f772d4be42d7e6ab90f1d7199cf24d8830157cfc3a4ba"
                 },
                 "name": "Waystones"
             },
@@ -136,9 +136,9 @@
                 "name": "Geckolib"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/PvHr7Rsf/sophisticatedbackpacks-1.20.1-3.23.5.1200.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/AomfipoN/sophisticatedbackpacks-1.20.1-3.23.5.1205.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "26ab786219c3e1ba98749fa69721b57f620e92ddd04061a4fb375e0afb1ed21ef56c4fe45fe7e5d47c445ce4fe78779dc98ccf6bb5c65795a1e50d71f6e4ca30"
+                    "sha512": "e8e06d69ffcda8806088437c60cbee6cb0a87f12d6f69453e5e552e6f4b8e5c982af43748496bf316e5a10256ad868ec19882b49d2380a8c0b0211f2f1cf192d"
                 },
                 "name": "Sophisticated Backpacks"
             },
@@ -148,14 +148,6 @@
                     "sha512": "b98e50ec87b9416b685b87efdf931bd262b4acbb84581fece7a007dec174b0b01bba050cf3011a0c7af3d7ecd6ae0a5c669edb4ad7881cb320b0537744f48c35"
                 },
                 "name": "Keep Xp",
-                "clientSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/7cCt9Fxn/versions/1mntTorU/towering-golem-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "e163a72bf55b75018f47244c415ffde57310ab331e49a3341b8a4b333f22325e89ca80b923cc4ddb8006a627f746ce56e26a78a754cff9a129f1595dd20b6d7c"
-                },
-                "name": "Towering Golems",
                 "clientSupport": "unsupported"
             },
             {
@@ -301,9 +293,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/OSAsLdRk/sophisticatedcore-1.20.1-1.2.18.885.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/a7dHSEcj/sophisticatedcore-1.20.1-1.2.20.894.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "c93b854b8cf0b89d37da81785a6fb4ef433f71ecaf6457f4f9274eb53717b992e35a33ab2604bbf7885fe151081f767c216d8c8966901c2f7feeb01934620d4e"
+                    "sha512": "deb6965e216b6ea6aa44536c884a7b11f0146b2a2d1e448093c0be0d4feb6bf3c282e7cc8a9f2c6700dc2ca71143bc6b04e6b4c32c81c53f46106cd74ac82fd1"
                 },
                 "name": "Sophisticated Core"
             },
@@ -638,9 +630,9 @@
                 "name": "Iron Chests"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/Nztpq2Tv/ShoulderSurfing-Forge-1.20.1-4.9.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/C6nRXq8V/ShoulderSurfing-Forge-1.20.1-4.9.2.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "c89710dfc3fb44d773e782173b43720133b9488a3aaad55f7060a402d9f093d84534e9e15ac0f665218755a6f9d61e78cfd78b1f7f6c5799e634732e71e6ae1f"
+                    "sha512": "df77fb09f441eba995033d806d7d972247603f4a6c8b7cb8c4ec6c4b5ce4478c65c981b6481dc40dc4ae9576590b11ed481cecd8154b981ede9c639375ea41ce"
                 },
                 "name": "Shoulder Surfing Reloaded"
             },
@@ -709,9 +701,9 @@
                 "name": "Lionfish API"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DJNCH0k5/balm-forge-1.20.1-7.3.17-all.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/za1mJSJs/balm-forge-1.20.1-7.3.18-all.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "f7c4449277a3ed8f9f0e9a257f52a71b29144969c1094154cfc68716ca46a64dd52dc7c4e75baeca30415b2fc3b2d3f91f30a79f2ddf033cf40e342e498b8631"
+                    "sha512": "0f6ce46a391e24a0237864a0d53d85b90b646900b41c003263608a11fed25ec6a93bd92f632a031e82209007b5a031b8e2484d6453bd3096787fe1f1acebb84c"
                 },
                 "name": "Balm"
             },
@@ -735,6 +727,13 @@
                     "sha512": "a8d442d31a4a753f90d0ed50095382910d36822614d8fc6a26eaa2f9d66f6c4ea73f4b2e4977510d9277a3d0dbd03b41629c372a59305209daacbc1140657b5d"
                 },
                 "name": "Horses Can Swim"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/5566/900/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6"
+                },
+                "name": "Small Ships [Fabric & Forge]"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/E0L8mfJZ/versions/3UXTHiK6/ObsidianUI-forge-0.2.3%2Bmc1.20.1.jar",
@@ -788,6 +787,13 @@
                     "sha512": "547ecae13eb982c2c43c2f107fccede69b2edd33a3005296fd880122760f569c98e42a3abb7d69526ebe79efb6846bad38ee8a1bb7e8afa62e18e5e052029647"
                 },
                 "name": "EntityCulling"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/WOg9lm4u/versions/nCj3U5EU/recruits-1.20.1-1.13.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "1c93e092975f0ec8dc79418acc128e450ab6e5b31c8ade9bab1651ef5f7fbe6dd1648c57cd072e4d0338fceb699f09b2d1c0f038e2e2a93885bd35b4edae4500"
+                },
+                "name": "Villager Recruits"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar",
@@ -1013,6 +1019,7 @@
     },
     "customFileSyncInfo": {
         "deleteRemovedFiles": true,
+        "verifyFilesIntegrity": false,
         "files": [
             {
                 "filePath": "essential/config.toml",
