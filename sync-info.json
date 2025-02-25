@@ -1127,6 +1127,13 @@
                 }
             },
             {
+                "filePath": "config/recruits-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "540781e18d1031517d183313f6545327f88af3176564f6e49438387a9fd312ccff7cad718d0abfab024b98870b3a61ca61ffa7e36369294be5768a2460f36a3c"
+                }
+            },
+            {
                 "filePath": "config/xaerominimap.txt",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/xaerominimap.txt",
                 "fileIntegrityInfo": {
