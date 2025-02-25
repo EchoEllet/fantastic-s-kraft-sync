@@ -225,9 +225,17 @@
                 "name": "Architectury API"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/BuPtsmaI/immersive_aircraft-1.1.8%2B1.20.1-forge.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/c5dOxpD8/versions/19JfFGV6/global-server-config-forge-1.18.2%2B-1.0.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "53d78a615dc0c762c8566848ddcd499729565209dd9d3198feb3e5ac4044ab3442a77fd7cd2a2466dd7845243e926735154d9c5996c1cd11fef4e985eb0a96c0"
+                    "sha512": "e44154f9c45ea2c59a5626b271704193891d0dd984c19a45aa621f02b4d973f908fdede8a2d68ea5d28e7f275e4f289356d920e3eb1453fb1f4fe38301edfc88"
+                },
+                "name": "Global Server Config",
+                "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Cq1kMfP1/immersive_aircraft-1.2.0%2B1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "2070eb021745da58a33ee903b348d7d224c7adabd3d804625815c142c6904bb092afff7926940eb417cb2a7a0cda7d571ced6b0958a2923c6160166e5ee45e69"
                 },
                 "name": "Immersive Aircraft"
             },
@@ -1096,6 +1104,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/easymagic-client.toml",
                 "fileIntegrityInfo": {
                     "sha512": "811c174d92aa46d6c2a34b4f629095dbbff3bbc37b293f7b916ae193510f97358c835dddea75a7e9f34db0fc00e74e4b5668bd7f917a5972f74111efa8d4a973"
+                }
+            },
+            {
+                "filePath": "config/recruits-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "4ac8b3e0b8405ae3bf88325fd1ac4c0c82d28f794a606e419a10fd8c9d92f87d81f4467942b4c0816e1546ad117822e9328446c6b48f6bacfedacfaae4ef2258"
                 }
             },
             {
