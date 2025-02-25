@@ -1281,6 +1281,13 @@
                 }
             },
             {
+                "filePath": "global_packs/required_data/VillagerRecruitsEpicFight.zip",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/VillagerRecruitsEpicFight.zip",
+                "fileIntegrityInfo": {
+                    "sha512": "d4dd261d67b4f582bb841890f6aef9ae1a84f36046ca6da907111b969e4185c82ae5ae256e2b777a32110ccc32f84374b5a4000d70f6fd6b2cf91317124b81a7"
+                }
+            },
+            {
                 "filePath": "mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "fileIntegrityInfo": {
