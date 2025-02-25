@@ -1019,7 +1019,7 @@
     },
     "customFileSyncInfo": {
         "deleteRemovedFiles": true,
-        "verifyFilesIntegrity": false,
+        "verifyFilesIntegrity": true,
         "files": [
             {
                 "filePath": "essential/config.toml",
@@ -1123,7 +1123,7 @@
                 "filePath": "config/epicfight-client.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/epicfight-client.toml",
                 "fileIntegrityInfo": {
-                    "sha512": "426c0519bca087d2a11c362acd0e592e64b5a6b8847a6a0846acad3dcb59ab8a97bfcd3153d7ea702c17c9a2957bc1a528000bba7515555689b2127400f9e5f0"
+                    "sha512": "e9ea225e2ada098e949774a8de065edf11d0965a263bf4ba8b96f209106cb89170d425b02752f3550c90d173d7169734096a82b26c3a2aa220b98cf631f3c65b"
                 }
             },
             {
