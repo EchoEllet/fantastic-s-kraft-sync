@@ -447,9 +447,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/Ck06wnhs/curios-forge-5.12.0%2B1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/aFw6K2Jy/curios-forge-5.12.1%2B1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "347101c3f6a34c6b2e69c32d4ae035511f93a765a977b2585086335de206925c968575fda76f3f2733af155c2e9f1dcf8e35096200492a3b6b1b4cf3f8186f75"
+                    "sha512": "3d78f4918056d91641fe50b78011b62aa1b6973fd078bd5d986e3d7411f27dce5a57c2a770f8b4dadaf8ff024d1af099b0b14e7fe6db0619349bd5e15e239df3"
                 },
                 "name": "Curios API"
             },
@@ -652,13 +652,6 @@
                 "name": "Just Enough Items"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/u8mx7daJ/global_packs-forge-1.19.4-1.16.2_forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "d8757dd1241efdbb1f419cddaa824de8e53939dec85b39c7b58a3b33e5f0003f4b85026a4b3e43ab4d8e296cb3cbbf5a5c227389089232f96425ca25fdc978e9"
-                },
-                "name": "Global Packs"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LkhH2gKX/artifacts-forge-9.5.13.jar",
                 "fileIntegrityInfo": {
                     "sha512": "70d4d2f64cea19171b2c6d95f0aa9281dfa21d18fae472ffb6bbadcd7ce2e29588e692ed68f2ef4b278395890d54909909d342639f411aee752bde7227817935"
@@ -790,9 +783,9 @@
                 "name": "Epic Fight"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yyU9Ifp0/entityculling-forge-1.7.2-mc1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/SdwRMvNg/entityculling-forge-1.7.3-mc1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "547ecae13eb982c2c43c2f107fccede69b2edd33a3005296fd880122760f569c98e42a3abb7d69526ebe79efb6846bad38ee8a1bb7e8afa62e18e5e052029647"
+                    "sha512": "2a5989064f58342b98045857113aa6e9b7889dcb92bebee2b2de3f97a29f52d26d4b29d7ce4026e6420992064e0f86397e00aeb5777a4d6a568588e42381c088"
                 },
                 "name": "EntityCulling"
             },
@@ -879,12 +872,11 @@
                 "name": "Patchouli"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/oFstJPTE/ImmediatelyFast-Forge-1.3.4%2B1.20.4.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/vY0gRu5i/ImmediatelyFast-Forge-1.3.5%2B1.20.4.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "d49bd8c7b1dc722c8370291144ce277e2e1680e3f8efc1ac3e6fcdb4758fc0e5d1858a6cfe76aa3e465a92008d82c49c72ec56b5337be83d6c21cf9dc7c79e39"
+                    "sha512": "b181e4c4f2104e60bb3e83b1bb45be356f9177b100bcc1319c9bc4412f59459dc1500cae4a1c90b23e0159b866d783486d29d87abaa86d2b368633fde4858e12"
                 },
-                "name": "ImmediatelyFast",
-                "serverSupport": "unsupported"
+                "name": "ImmediatelyFast"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar",
@@ -910,9 +902,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Yaig9z4v/essential_1-3-5-7_forge_1-20-1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CfqLL0tP/essential_1-3-5-8_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "b834125e0be85f291a9cfc75e23879331f286db6db2d4ca2ba1938ccec97b8c1e955c96a582da6152791629bc35a2257c4e96890d7fff11ad3f2b7dfb5dd0b82"
+                    "sha512": "faf41dc73d4766bff3d743e98aacaea044c366963b291c21ed998116b0f4f08708a8221bf9bb718ff0e6890f6d09cfed5da38dae78b893bef6230010b80ed691"
                 },
                 "name": "ESSENTIAL Mod"
             },
@@ -1282,27 +1274,6 @@
                 }
             },
             {
-                "filePath": "global_packs/required_data/epicfighticeandfirecompat1.20.1.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/epicfighticeandfirecompat1.20.1.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "305ec98462fd8b127ea72d6ae29bca022b708310c2d3497304c3007f733d5812c69dcf1fb0244631f13be935a8b4e8d2ba75eb98e8a2d695ddfd3dbde95025a1"
-                }
-            },
-            {
-                "filePath": "global_packs/required_data/epicfightcataclysmcompat1.20.1-1.1.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/epicfightcataclysmcompat1.20.1-1.1.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "fad68990024aa9af283fd0ab59a3b5cb17254a6e152898493d031364dccc5385cc8c71f52304acc4f4921b035709960d357834455bc9b6396cc41a2515d900c7"
-                }
-            },
-            {
-                "filePath": "global_packs/required_data/VillagerRecruitsEpicFight.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/VillagerRecruitsEpicFight.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "d9a5dda85efa2cd4a13e10105528a9ce2b30be953959060cab9e94c4780bcd925775b3456e05e07b03d4fd44887dd75df78edd9983f0ad23379614876b8f0795"
-                }
-            },
-            {
                 "filePath": "mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "fileIntegrityInfo": {
@@ -1310,17 +1281,17 @@
                 }
             },
             {
-                "filePath": "mods/EFMCompat_20.2.0.1_modified.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EFMCompat_20.2.0.1_modified.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "94e4511fd71df5b5c2cae9f15f543e3f147a250bb85138c49c94e7d248c97c76b6a6252e0e630bcb324dec8082fb8ccf2d16fa879c4d1d3cc8fd539f13113fc9"
-                }
-            },
-            {
                 "filePath": "mods/bladeofolympus-0.0.1-alpha.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.1-alpha.jar",
                 "fileIntegrityInfo": {
                     "sha512": "b19d785afcfb2dd9baa21be9f27e733316b5abe7bf9e8e9ea565aebb362988998b123f201c6370577b78f2bf8b97094c911b57d5bacdd0a9cc666f7bf6c8ef8b"
+                }
+            },
+            {
+                "filePath": "mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "f69b38112cf98c483b39cdc45c4be177b9a8fa1e760b1d5dfabc9aef8b82802d0dfb4302f147ccdbf6f09511439b327882287749e767e7708c38f3d2bbae74db"
                 }
             },
             {
