@@ -249,9 +249,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Cq1kMfP1/immersive_aircraft-1.2.0%2B1.20.1-forge.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/trwIa4wi/immersive_aircraft-1.2.1%2B1.20.1-forge.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "2070eb021745da58a33ee903b348d7d224c7adabd3d804625815c142c6904bb092afff7926940eb417cb2a7a0cda7d571ced6b0958a2923c6160166e5ee45e69"
+                    "sha512": "ea5f27f6949f36a33b5dc25d45085ac452b1e0361aaa8b0eae1b7dc2d612ed764f66acd042b0a4ff90893bf8b23f548ed9d1c6ed4fca2162dec243c3db492c15"
                 },
                 "name": "Immersive Aircraft"
             },
@@ -753,14 +753,6 @@
                 "name": "Horses Can Swim"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
-                },
-                "name": "Noisium",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/5566/900/smallships-forge-1.20.1-2.0.0-b1.4.jar",
                 "fileIntegrityInfo": {
                     "sha1": "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6"
@@ -1217,7 +1209,7 @@
                 "filePath": "config/mca.json",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mca.json",
                 "fileIntegrityInfo": {
-                    "sha512": "954ab976b8c58d1a5da0b5d80a0a8d7432524adcd0e42f023e0d9ffb6b5c91b6c711802a6cbfb93a4dd46d3b8ec2619889c045a3f5e5672bafe93abbcd4426c3"
+                    "sha512": "e335422a5d8e8df1a565a5acbe0c9b62281f454a0f295aa5d0bf6f084e798345beb486490d945008c1972573f5601b30dac6d05d89dd1d6bae7004dca994fc6e"
                 }
             },
             {
