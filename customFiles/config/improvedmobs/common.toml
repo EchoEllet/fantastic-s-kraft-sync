@@ -55,7 +55,7 @@
 	#<#minecraft:raiders|ATTRIBUTES> will add all entities in the raiders tag to everything except attributes
 	#<minecraft:sheep|ATTRIBUTES> will add sheep to everything except attributes
 	#<minecraft> disables everything for all minecraft mobs
-	"Entity Configs" = ["alexsmobs:emu", "alexsmobs:cockroach", "alexsmobs:froststalker", "alexsmobs:centipede_tail", "alexsmobs:snow_leopard", "alexsmobs:lobster", "alexsmobs:seagull", "mca:female_villager", "alexsmobs:moose", "alexsmobs:seal", "minecraft:glow_squid", "alexsmobs:shoebill", "alexsmobs:flutter", "alexsmobs:roadrunner", "alexsmobs:laviathan", "minecraft:trader_llama", "alexsmobs:terrapin", "alexsmobs:capuchin_monkey", "bosses_of_mass_destruction:lich", "alexsmobs:endergrade", "minecraft:horse", "alexsmobs:anaconda", "minecraft:polar_bear", "mca:grim_reaper", "minecraft:llama", "minecraft:pig", "minecraft:turtle", "alexsmobs:alligator_snapping_turtle", "alexsmobs:maned_wolf", "minecraft:sheep", "bosses_of_mass_destruction:gauntlet", "bosses_of_mass_destruction:obsidilith", "minecraft:tadpole", "minecraft:goat", "minecraft:dolphin", "alexsmobs:rattlesnake", "alexsmobs:gelada_monkey", "mca:male_villager", "minecraft:cod", "alexsmobs:mantis_shrimp", "alexsmobs:komodo_dragon", "alexsmobs:hammerhead_shark", "minecraft:donkey", "alexsmobs:tiger", "alexsmobs:raccoon", "alexsmobs:grizzly_bear", "alexsmobs:platypus", "minecraft:squid", "minecraft:skeleton_horse", "alexsmobs:potoo", "minecraft:cow", "alexsmobs:fly", "minecraft:bee", "alexsmobs:devils_hole_pupfish", "cataclysm:the_baby_leviathan", "alexsmobs:crocodile", "alexsmobs:blue_jay", "alexsmobs:toucan", "minecraft:salmon", "alexsmobs:sea_bear", "bosses_of_mass_destruction:void_blossom", "alexsmobs:triops", "minecraft:snow_golem", "alexsmobs:rhinoceros", "minecraft:mooshroom", "alexsmobs:frilled_shark", "alexsmobs:bison", "alexsmobs:anteater", "alexsmobs:mudskipper", "minecraft:villager", "alexsmobs:rain_frog", "alexsmobs:bald_eagle", "alexsmobs:sugar_glider", "minecraft:rabbit", "minecraft:axolotl", "alexsmobs:blobfish", "alexsmobs:gorilla", "alexsmobs:orca", "alexsmobs:tusklin", "minecraft:strider", "minecraft:parrot", "alexsmobs:leafcutter_ant", "alexsmobs:cosmic_cod", "alexsmobs:underminer", "alexsmobs:mungus", "alexsmobs:jerboa", "minecraft:bat", "minecraft:wandering_trader", "alexsmobs:caiman", "alexsmobs:spectre", "alexsmobs:cosmaw", "alexsmobs:catfish", "minecraft:frog", "minecraft:iron_golem", "alexsmobs:kangaroo", "alexsmobs:comb_jelly", "dragonmounts:dragon", "alexsmobs:banana_slug", "alexsmobs:mimic_octopus", "epicfight:wither_ghost", "alexsmobs:hummingbird", "alexsmobs:elephant", "alexsmobs:bunfungus", "alexsmobs:gazelle", "minecraft:mule", "minecraft:sniffer", "alexsmobs:skunk", "alexsmobs:crow", "minecraft:zombie_horse", "alexsmobs:sunbird", "minecraft:camel", "alexsmobs:flying_fish", "alexsmobs:tasmanian_devil", "alexsmobs:centipede_body", "minecraft:cat", "minecraft:pufferfish", "alexsmobs:stradpole", "alexsmobs:tarantula_hawk", "minecraft:fox", "alexsmobs:cachalot_whale", "minecraft:allay", "minecraft:tropical_fish", "minecraft:ocelot", "alexsmobs:warped_toad", "cataclysm:modern_remnant", "minecraft:chicken", "alexsmobs:giant_squid", "minecraft:wolf", "minecraft:panda", "iceandfire:fire_dragon", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "iceandfire:cyclops"]
+	"Entity Configs" = ["irons_spellbooks:pyromancer", "recruits:captain", "mca:female_villager", "recruits:recruit", "minecraft:glow_squid", "minecraft:strider", "minecraft:trader_llama", "minecraft:parrot", "recruits:recruit_shieldman", "irons_spellbooks:apothecarist", "irons_spellbooks:priest", "irons_spellbooks:dead_king_corpse", "recruits:crossbowman", "minecraft:horse", "geckolib:cool_kid", "recruits:patrol_leader", "minecraft:polar_bear", "minecraft:bat", "minecraft:wandering_trader", "mca:grim_reaper", "cataclysm:netherite_ministrosity", "minecraft:llama", "minecraft:pig", "recruits:scout", "minecraft:frog", "minecraft:iron_golem", "minecraft:turtle", "minecraft:sheep", "geckolib:bat", "minecraft:tadpole", "minecraft:goat", "minecraft:dolphin", "recruits:messenger", "irons_spellbooks:firefly_swarm", "geckolib:bike", "epicfight:wither_ghost", "mca:male_villager", "minecraft:cod", "irons_spellbooks:wisp", "minecraft:donkey", "recruits:horseman", "minecraft:squid", "minecraft:mule", "minecraft:skeleton_horse", "minecraft:sniffer", "minecraft:cow", "minecraft:zombie_horse", "minecraft:bee", "irons_spellbooks:summoned_polar_bear", "minecraft:cat", "minecraft:pufferfish", "cataclysm:the_baby_leviathan", "minecraft:salmon", "minecraft:fox", "geckolib:race_car", "minecraft:allay", "minecraft:tropical_fish", "minecraft:snow_golem", "geckolib:gremlin", "minecraft:mooshroom", "geckolib:mutant_zombie", "minecraft:villager", "minecraft:ocelot", "cataclysm:modern_remnant", "geckolib:fake_glass", "recruits:bowman", "minecraft:chicken", "shifu_epic_fight_skill_recipe:shifunpc", "recruits:nomad", "minecraft:wolf", "minecraft:panda", "minecraft:rabbit", "minecraft:axolotl"]
 	#Any of the following 
 	#[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, PARROT, TARGETVILLAGER, NEUTRALAGGRO, PEHKUI]
 	#added here will disable that feature completely.
@@ -94,23 +94,23 @@
 	#If true and playerEx is installed will use the level from playerEx as difficulty
 	#Allowed Values: OFF, ON, ADD
 	"Use Player EX Mod" = "ON"
+	#Scaling for playerEX integration
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"PlayerEX Scaling" = 1.0
 	#If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty
 	#Allowed Values: OFF, ON, ADD
 	"Use LevelZ Mod" = "ON"
+	#Scaling for LevelZ integration
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"LevelZ Scaling" = 1.0
 	#Using pehkui to vary the size of mobs
 	"Use pehkui Mod" = false
 	#The Max scale of mobs. Range [1.0,10], default 2.0
 	#Range: 1.0 ~ 10.0
-	"Max size Multiplier" = 1.0
+	"Max size Multiplier" = 2.0
 	#The Minimum scale of mobs. Range (0,1.0), default 0.5
 	#Range: 0.0 ~ 1.0
-	"Minimum size Multiplier" = 0.3
-	#Scaling for playerEX integration
-	#Range: 0.0 ~ 1.7976931348623157E308
-	"PlayerEX Scaling" = 1.0
-	#Scaling for LevelZ integration
-	#Range: 0.0 ~ 1.7976931348623157E308
-	"LevelZ Scaling" = 1.0
+	"Minimum size Multiplier" = 0.5
 	#Chance that a mob will be affected by size changes
 	#Range: 0.0 ~ 1.0
 	"Size Chance" = 0.5
@@ -142,6 +142,16 @@
 	"Restore delay" = 0
 	#If mobs should break blocks when not chasing a target
 	"Idle Break" = false
+	#Chance a breaker mob to ignore line of sight
+	#Range: 0.0 ~ 1.0
+	"Breaker Sight Ignore" = 0.5
+	#A modifier to the breaking speed
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Breaking Speed Base" = 1.0
+	#Addition to breaking speed modifier based on difficulty.
+	#Final modifier is base + addition * difficulty
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Breaking Speed Add" = 0.0
 	#Chance for a mob to be able to steal items from inventory blocks
 	#Range: 0.0 ~ 1.0
 	"Stealer Chance" = 0.30000001192092896
@@ -172,16 +182,6 @@
 	"Phantom Chance" = 0.5
 	#Set this to true to allow tnt thrown by mobs to destroy blocks
 	"TNT Block Destruction" = false
-	#Chance a breaker mob to ignore line of sight
-	#Range: 0.0 ~ 1.0
-	"Breaker Sight Ignore" = 0.5
-	#A modifier to the breaking speed
-	#Range: 0.0 ~ 1.7976931348623157E308
-	"Breaking Speed Base" = 1.0
-	#Addition to breaking speed modifier based on difficulty.
-	#Final modifier is base + addition * difficulty
-	#Range: 0.0 ~ 1.7976931348623157E308
-	"Breaking Speed Add" = 0.0
 	#Chance for a mob to ignore line of sight
 	#This config ONLY affects villager target, neutral aggressive and auto targeting feature
 	#Range: 0.0 ~ 1.0
@@ -212,6 +212,9 @@
 	#Adds additional x*difficulty% to base equip chance
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Equipment Addition" = 0.30000001192092896
+	#Chance for an equipment to have a random armor trim
+	#Range: 0.0 ~ 1.0
+	"Armor Trim Chance" = 0.05000000074505806
 	#Chance for mobs to have a weapon
 	#Range: 0.0 ~ 1.0
 	"Weapon Chance" = 0.5
@@ -238,27 +241,24 @@
 	"Item Chance add" = 0.20000000298023224
 	#Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
 	"Should drop equipment" = false
-	#Chance for an equipment to have a random armor trim
-	#Range: 0.0 ~ 1.0
-	"Armor Trim Chance" = 0.05000000074505806
 
 #Settings for attribute modifiers
 [attributes]
 	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Health Increase Multiplier" = 0
+	"Health Increase Multiplier" = 1.0
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Health Increase" = 2.0
+	"Max Health Increase" = 5.0
 	#Round health to the nearest x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Round HP" = 0.5
 	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Damage Increase Multiplier" = 0.5
+	"Damage Increase Multiplier" = 1.0
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Damage Increase" = 2.0
+	"Max Damage Increase" = 3.0
 	#Speed will be increased by difficulty*0.0008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Speed Increase" = 1.0
@@ -279,14 +279,15 @@
 	"Max Magic Resistance" = 0.4000000059604645
 	#Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Projectile Damage Increase" = 0.6
+	"Projectile Damage Increase" = 1.0
 	#Projectile damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Projectile Damage" = 2.0
 	#Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Explosion Damage Increase" = 0.5
+	"Explosion Damage Increase" = 1.0
 	#Explosion damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Explosion Damage" = 1.25
+	"Max Explosion Damage" = 1.75
+
 
