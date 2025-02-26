@@ -167,14 +167,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kzdWjLDh/versions/ms8DK6XV/totw_additions-1.3.1-1.20.x-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "6bbfcea76c083e4e2da9b5c01de8510bed44dee7a2ad2eb64f4137fc966a95543e30ed09b796489ac5db4b4dce797c375a8fee6f883b8c7c2b501c41e005bca0"
-                },
-                "name": "Towers of the Wild: Additions",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/5626/433/sword_soaring-forge1.20.1-20.1.11.11.jar",
                 "fileIntegrityInfo": {
                     "sha1": "34253a77d10d06acaa2af5ea5c153957db76a20f"
@@ -388,14 +380,6 @@
                     "sha512": "b5159f514677970e9dcaf49b53db05ba0b7b927ba112c13d892d1b5c580de8a3108befff65da464ac67240cadfd06ffb378361338a36b0dc337d22fafe738824"
                 },
                 "name": "InvMove"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/pAmItJ0c/versions/RDisXWTm/mobbattlemusic-1.20.1-1.1.1.2-all.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "ec87a01e32b4c6cb3ecbcf81993f82ed0e8a5f939ed09d0c76b9ff34fe9bcf70e87d28feba952aaf58688b79033ffa2f34d5e1224447bffbbbd8e567ceafb1a4"
-                },
-                "name": "Mob Battle Music",
-                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/bpmQ8lwy/versions/j3YftL5s/uchicraftana-1.0.1-forge-1.20.1.jar",
@@ -1002,9 +986,6 @@
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/ConquestSky.zip"
-            },
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/GodOfWarCombatMusic.zip"
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/EFM_IronsV2.0.zip"
