@@ -1361,5 +1361,13 @@
                 }
             }
         ]
+    },
+    "serverSyncInfo": {
+        "servers": [
+            {
+                "name": "Fantastic Kras",
+                "address": "145.223.118.210:25565"
+            }
+        ]
     }
 }
