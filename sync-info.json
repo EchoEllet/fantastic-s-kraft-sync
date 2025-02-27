@@ -115,6 +115,13 @@
                 "name": "Clumps"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/er56DwLJ/Kambrik-6.1.1%2B1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "6f19e23f0ec7f542e71d95239a322f5453cb50e6890f95c9152472cc7629b28fdcf3e4eab5a00bc768f893238fd65cd91230b5ecb8debc14b30d6721b5b0923d"
+                },
+                "name": "Kambrik"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/QIt10I7z/versions/kAjXYon3/dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "bb6ff9ab1a033edb33b1112566858b12f6fcc06f1ceff181d70e7c1679924f1aaa53c70d61c038f0e967f03dec8944d951009cce937fde32599e37fec7ed2cee"
@@ -136,9 +143,9 @@
                 "name": "Geckolib"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/AomfipoN/sophisticatedbackpacks-1.20.1-3.23.5.1205.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/fNOlLAJY/sophisticatedbackpacks-1.20.1-3.23.6.1208.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "e8e06d69ffcda8806088437c60cbee6cb0a87f12d6f69453e5e552e6f4b8e5c982af43748496bf316e5a10256ad868ec19882b49d2380a8c0b0211f2f1cf192d"
+                    "sha512": "b991a6ed44ed897347be3ee03f20cfeb0fa3e1f742ca477899ea61b706be6c3024a17a280d9ddc16e9970a24b3771f8697287faeb60868d08a45628d8ad19cc8"
                 },
                 "name": "Sophisticated Backpacks"
             },
@@ -167,11 +174,25 @@
                 "clientSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/pe7FN3d6/versions/unxodajn/takesapillage-1.0.3-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "c644af7b5d73b34a2a0a4b97dec06ae83c4ffd97f3aed66c260b9af609d00005324bc70d8f7005e85803c27d5f4ffd51d3c76f78c379aedea4467c07472f1539"
+                },
+                "name": "It Takes a Pillage"
+            },
+            {
                 "downloadUrl": "https://edge.forgecdn.net/files/5626/433/sword_soaring-forge1.20.1-20.1.11.11.jar",
                 "fileIntegrityInfo": {
                     "sha1": "34253a77d10d06acaa2af5ea5c153957db76a20f"
                 },
                 "name": "Epic Fight - Sword Soaring"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/k2Ch7TrO/collective-1.20.1-7.93.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "304d2f7c505e10d1708a7b3a960057a658a7b4a50f5f25198de1b716d7778e2d66fb2dce617f41b4f929bf27d043bdcbe250f82f6bc11a55e320b6fe4b8d132d"
+                },
+                "name": "Collective"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/wMkevcSR/versions/kaDOLZqw/tia-1.20-1.1-forge.jar",
@@ -210,6 +231,13 @@
                     "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5"
                 },
                 "name": "When Dungeons Arise - Forge!"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/BpwWFOVM/versions/EM7Su3PD/Bountiful-6.0.4%2B1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "63e460c967d4c38bad82e20eb35955f1bb22b505239fafb02aed60a43840f7417306cc99ea8da25bf7ea36d0a1c65347b3b20d0f597311dc7c4473908bd63705"
+                },
+                "name": "Bountiful"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/6055/291/duel_of_the_end-forge1.20.1-1736062540-1.1.3.jar",
@@ -443,6 +471,13 @@
                     "sha512": "d9ef8d5035954e9193d7ce29fbf49671dc302fc84ecfa1966f35dbef7c08ba128dc6e4a5d7ec2c8b04073231f88858e9d2c9a095f0ce92a912e1f2551c3dd2a0"
                 },
                 "name": "Xaero's Minimap & World Map - Waystones Compatibility"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c"
+                },
+                "name": "Kotlin for Forge"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/P2rffivS/versions/5elJ9ZTS/tenshilib-1.20.1-1.7.6-forge.jar",
@@ -778,6 +813,14 @@
                     "sha512": "1992f0b4b9ec7d89a4ab9cd96b652f89171941b8c0baf8fa6d22d1d92b6fc5ca7088e04738beda8a93319f35ad5a0ea1ca9e304d0324dec28dc35e84b3592e51"
                 },
                 "name": "Tidal Towns",
+                "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "64fc99b8df17999117f3f9ef460dcac9acddc70c418d236e7a7b1d489a10ac737eaedc15c01540f0bf9e2bf51aee04f16bfb741c680370ac69f6f2ca2af24afc"
+                },
+                "name": "Tectonic",
                 "clientSupport": "unsupported"
             },
             {
