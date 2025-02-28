@@ -143,9 +143,9 @@
                 "name": "Geckolib"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/fNOlLAJY/sophisticatedbackpacks-1.20.1-3.23.6.1208.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/85cJVlgH/sophisticatedbackpacks-1.20.1-3.23.6.1210.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "b991a6ed44ed897347be3ee03f20cfeb0fa3e1f742ca477899ea61b706be6c3024a17a280d9ddc16e9970a24b3771f8697287faeb60868d08a45628d8ad19cc8"
+                    "sha512": "4365ea30869cba4a97b7365c147778ef987276352070a4ac337bb5766bcd335bf116b2db4ff8d689f2e7986f41f0356716e774b2b98baf3ced7d50a0e16c6bb4"
                 },
                 "name": "Sophisticated Backpacks"
             },
@@ -473,6 +473,13 @@
                 "name": "Xaero's Minimap & World Map - Waystones Compatibility"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/wYO04fON/versions/4QMoZ8ZF/chunky-player-pause-1.0.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "fbdb46819cc604183cd595a4778beaa1fd339f0896d12c06f1e9babe6c82d61e49e0f19d325945f1a49f354e8184a6a2654d382b9f70614d5c6db57339943a31"
+                },
+                "name": "Chunky Player Pause"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
                 "fileIntegrityInfo": {
                     "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c"
@@ -733,6 +740,14 @@
                     "sha512": "ac4bc9cbca15e4b07361a84d90357e53edb0d9e336f16138b0644545061299c51c9b4af1554fac0e5f891021035b0bcd9e4b57c39ee9188324b6bca9d63cd90f"
                 },
                 "name": "Easy Magic"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/X8CISwXp/versions/WqBpsYBv/eatinganimation-1.20.1-5.1.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "ca94f5f4f93606da8872012b450caeb64cc1d5697f5dc758e416d62e83f2f70cbc4a81dfc3951a2b80d9a9ee0d0ecd41c3e4c837fe4d418b524216e58d2064e3"
+                },
+                "name": "Eating Animations",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar",
