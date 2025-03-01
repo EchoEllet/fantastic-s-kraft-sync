@@ -637,7 +637,7 @@
                     "sha512": "0929e33369614b98ea477066191c22b4dda58983a5291d45c8f6f339da1429b539b88431cba92e8c81e43cfbbdc0f032047afc899f422ecb01b85451e6ee161c"
                 },
                 "name": "Radiant Gear",
-                "serverSupport": "unsupported"
+                "serverSupport": "required"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/6183/769/efiscompat-2.2.4.jar",
