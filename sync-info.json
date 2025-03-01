@@ -20,6 +20,13 @@
                 "name": "Minecraft Comes Alive"
             },
             {
+                "downloadUrl": "https://edge.forgecdn.net/files/4761/874/gml-4.0.9-all.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "a751a912844f37c84e4d37d273517221964504bb"
+                },
+                "name": "GroovyModLoader (GML)"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/reCfnRvJ/versions/c2Th4NIB/RyoamicLights-forge-0.2.3%2Bmc1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "6e605b6362f12290408b12b791cf6c0b67eb82120d1bf9e290b8f50fb27fd3235df0cec44d1c88db7638e237c770d53c077454578c91d6b99d16b0eed2dd1fb1"
@@ -720,6 +727,14 @@
                 "name": "Cloth Config API"
             },
             {
+                "downloadUrl": "https://edge.forgecdn.net/files/5567/578/eatinganimation-1.20.1-5.1.0.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "d80502ca23195814f245bb8a4bffcb778ea4c02a"
+                },
+                "name": "Eating Animation [Neo/Forge]",
+                "serverSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://edge.forgecdn.net/files/5709/51/impactful-20.8.3.jar",
                 "fileIntegrityInfo": {
                     "sha1": "c8c5474a3d728ca260afa6d5336e8c7ea1b4bfed"
@@ -732,14 +747,6 @@
                     "sha512": "ac4bc9cbca15e4b07361a84d90357e53edb0d9e336f16138b0644545061299c51c9b4af1554fac0e5f891021035b0bcd9e4b57c39ee9188324b6bca9d63cd90f"
                 },
                 "name": "Easy Magic"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/X8CISwXp/versions/WqBpsYBv/eatinganimation-1.20.1-5.1.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "ca94f5f4f93606da8872012b450caeb64cc1d5697f5dc758e416d62e83f2f70cbc4a81dfc3951a2b80d9a9ee0d0ecd41c3e4c837fe4d418b524216e58d2064e3"
-                },
-                "name": "Eating Animations",
-                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar",
