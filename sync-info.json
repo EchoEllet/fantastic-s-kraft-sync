@@ -414,6 +414,14 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/pAmItJ0c/versions/RDisXWTm/mobbattlemusic-1.20.1-1.1.1.2-all.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "ec87a01e32b4c6cb3ecbcf81993f82ed0e8a5f939ed09d0c76b9ff34fe9bcf70e87d28feba952aaf58688b79033ffa2f34d5e1224447bffbbbd8e567ceafb1a4"
+                },
+                "name": "Mob Battle Music",
+                "serverSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/bpmQ8lwy/versions/j3YftL5s/uchicraftana-1.0.1-forge-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "41e6668fe4b367d8610a8104cce17fe404690160af9083c621d8a3f7a54dd6b6cf08c80009548a08b97aecdc2c3d2aed691e9856cfbedb2ad0e862fa5d61ffc3"
@@ -1025,6 +1033,9 @@
         "allowUsingOthers": true,
         "applyResourcePacks": true,
         "resourcePacks": [
+            {
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/GodOfWarCombatMusic.zip"
+            },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/L_Enders_Cataclysm_Boss_Music_Tweaks.zip"
             },
