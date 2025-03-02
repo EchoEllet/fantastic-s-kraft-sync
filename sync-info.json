@@ -1352,6 +1352,13 @@
                 }
             },
             {
+                "filePath": "mods/autochunky-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/autochunky-0.0.1-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "2f2f216d5416e98abec36bc893f702cdad9f97c6ab953629128a33128b7c03a93f29c4c27c0ca6411e1cd185f4bd5fe377063ac9fe3203981ce2076d08fd4d12"
+                }
+            },
+            {
                 "filePath": "mods/epicfight_mods_compatibility-0.0.2-alpha.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.2-alpha.jar",
                 "fileIntegrityInfo": {
