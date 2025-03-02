@@ -659,7 +659,8 @@
                 "fileIntegrityInfo": {
                     "sha512": "e0915b7a7f8cd74a7c5f2a9dcb0f7f2851e4f37fc1f66f377db67092a7cf0e8ad632a77fe48d201366b20ae117115ebe5ae1087abc472110a77913a405d0cbb4"
                 },
-                "name": "Beautiful Enchanted Books [MOD EDITION]"
+                "name": "Beautiful Enchanted Books [MOD EDITION]",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/6183/769/efiscompat-2.2.4.jar",
