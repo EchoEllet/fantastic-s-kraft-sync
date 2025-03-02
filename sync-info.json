@@ -482,13 +482,6 @@
                 "name": "Xaero's Minimap & World Map - Waystones Compatibility"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/wYO04fON/versions/4QMoZ8ZF/chunky-player-pause-1.0.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "fbdb46819cc604183cd595a4778beaa1fd339f0896d12c06f1e9babe6c82d61e49e0f19d325945f1a49f354e8184a6a2654d382b9f70614d5c6db57339943a31"
-                },
-                "name": "Chunky Player Pause"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/P2rffivS/versions/5elJ9ZTS/tenshilib-1.20.1-1.7.6-forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "492f11b0a999af306f07b363d8edfad9849ce7294e2609755eee906d1502b00feebd4304c6cd9bfe1a85ffbda0de5b6224a37693c4eb4b42ae664d61a23d8666"
@@ -734,6 +727,13 @@
                     "sha512": "c49f6f4fa86a76751fae927e93f6f6a00b955aca97edae6eecc496f2959e581f4e697f80c53e27d2c90e73374171669b3be6bd860b9446aaa521a2553569bfc1"
                 },
                 "name": "Just Enough Items"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/u8mx7daJ/global_packs-forge-1.19.4-1.16.2_forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "d8757dd1241efdbb1f419cddaa824de8e53939dec85b39c7b58a3b33e5f0003f4b85026a4b3e43ab4d8e296cb3cbbf5a5c227389089232f96425ca25fdc978e9"
+                },
+                "name": "Global Packs"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LkhH2gKX/artifacts-forge-9.5.13.jar",
@@ -1342,6 +1342,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/unrecognized.json",
                 "fileIntegrityInfo": {
                     "sha512": "a7e57e1adc3c3be440ecf7c801105bb820341ada83e6841631efda2a0bd9b7a0787f93621e001bedc65cd933b411770c45e91222982a856ef538a76c64ec5ed9"
+                }
+            },
+            {
+                "filePath": "global_packs/required_data/ChunkyPlayerPause.zip",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/ChunkyPlayerPause.zip",
+                "fileIntegrityInfo": {
+                    "sha512": "6e4940823bdaae2601f1dda6b946fc8df6e37a1566f0c677fddc3cf8dc302c098c1757545dbaba827662552c5145e0c5c8b4c442a5b4df756427ab767d8b1327"
                 }
             },
             {
