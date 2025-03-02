@@ -1345,13 +1345,6 @@
                 }
             },
             {
-                "filePath": "global_packs/required_data/ChunkyPlayerPause.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/ChunkyPlayerPause.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "6e4940823bdaae2601f1dda6b946fc8df6e37a1566f0c677fddc3cf8dc302c098c1757545dbaba827662552c5145e0c5c8b4c442a5b4df756427ab767d8b1327"
-                }
-            },
-            {
                 "filePath": "mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
                 "fileIntegrityInfo": {
