@@ -601,7 +601,7 @@
                     "sha512": "5beeefb11895f7f5eee8141e2fc71038868ceff27370af430a1a1fee6cbf134ea78ac2bd401175e85a9c703d2535fcb56a1a0af72cf480770c45faadef2d3aa7"
                 },
                 "name": "Cataclysm Weaponery",
-                "serverSupport": "unsupported"
+                "serverSupport": "optional"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
