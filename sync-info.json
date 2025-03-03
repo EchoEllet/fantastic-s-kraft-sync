@@ -1437,6 +1437,13 @@
                 }
             },
             {
+                "filePath": "config/cataclysm.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/cataclysm.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "359497bc7f5825252d366d0b7e70f53f7115aec58903f92265db512261d43e7d61b27908d7ed5f93f2a8b1ca298687c9128a7c6c798d1806ac4875461acebbc5"
+                }
+            },
+            {
                 "filePath": "config/travelersbackpack-client.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/travelersbackpack-client.toml",
                 "fileIntegrityInfo": {
