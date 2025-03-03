@@ -1049,6 +1049,9 @@
         "applyResourcePacks": true,
         "resourcePacks": [
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/dspVZXKP/versions/NjQ6roD9/Fast%20Better%20Grass.zip"
+            },
+            {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/GodOfWarCombatMusic.zip"
             },
             {
