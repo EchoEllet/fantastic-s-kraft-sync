@@ -857,6 +857,14 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/6IpcGP7T/versions/PDZBWENe/InvMoveCompats-0.4.0%2B1.20.4-Forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "9853ea49080bb0f4f889ceb79b665db863ccedd5560ec8f50f40525f9f3239e15a40fb96c0c2b0832ff6151801eb0c8ec36dde77f359024bd8183cdead2031fa"
+                },
+                "name": "InvMoveCompats",
+                "serverSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "7cafbfc39305f3e384468db674e350118950201ba4d22b66ed95516a335aaad04765ae1e693b223c6c5beba404fc7411e9f78b4f962d7d9e51407b55233375a4"
