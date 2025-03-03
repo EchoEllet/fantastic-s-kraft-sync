@@ -1220,6 +1220,13 @@
                 }
             },
             {
+                "filePath": "config/irons_spellbooks-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/irons_spellbooks-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "046f11da945b1bb6cd0a6d53473590f1974f770766631c0f24d515f6ba32837d94c30f9bb6f1bf252d76111f4290231cad2bfde1ec3af5b4990552e17a3a0388"
+                }
+            },
+            {
                 "filePath": "config/betterthirdperson-common.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/betterthirdperson-common.toml",
                 "fileIntegrityInfo": {
