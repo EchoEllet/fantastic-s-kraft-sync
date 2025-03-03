@@ -85,6 +85,13 @@
                 "name": "Waystones"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/kLoMCc4b/versions/90YOIp4K/illageandspillagerespillaged-1.2.8.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "b60abe2ee3ed2581020f76a11dc40620f57401be248e6c53820a9f04d6bbdb75704ac7cf972a31d890ebafc231c58120b851c8936cd1d6236ec9cc1d7329cea6"
+                },
+                "name": "Illage and Spillage: Respillaged"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
                 "fileIntegrityInfo": {
                     "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729"
@@ -112,6 +119,20 @@
                     "sha512": "ffd8ff2438e9f9d260d3926ccdd0cccc4772c6f99f29715690aed4f6e97a76035f3aeaa78168e2a458bc4cccf521e97ebdb6e0b61c819facb04af9ebb3638383"
                 },
                 "name": "Clumps"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/er56DwLJ/Kambrik-6.1.1%2B1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "6f19e23f0ec7f542e71d95239a322f5453cb50e6890f95c9152472cc7629b28fdcf3e4eab5a00bc768f893238fd65cd91230b5ecb8debc14b30d6721b5b0923d"
+                },
+                "name": "Kambrik"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/6jH64T6j/versions/W7d3gdr9/dragonfinder-1.20.1-1.0.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "17a247ade2df68e59167f36682665298af471bab522d1b2d7f8be80d08c22ea314a8ea552474e10524f4819bda57de02117f4446b0fa70823c2eb981067ce87b"
+                },
+                "name": "Ice and Fire: Dragon Finder"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/QIt10I7z/versions/kAjXYon3/dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
@@ -148,6 +169,13 @@
                 },
                 "name": "Towers of the Wild Modded",
                 "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/B6ZzcsOL/versions/qdUCJ6ur/iceandfireartifacts-1.0.2-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "1f7e99845041c59ac437c2844266791edbddad2e144f4e4071403f33af71733b8c42f2b4061d49143a22aafc388c14835cf48c929690d8c6be36b00f45d38fc5"
+                },
+                "name": "Ice and Fire Artifacts"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/ANlAmoYX/versions/D1hn6PSz/double-doors-dp-1.1.jar",
@@ -217,6 +245,13 @@
                 "name": "When Dungeons Arise - Forge!"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/BpwWFOVM/versions/EM7Su3PD/Bountiful-6.0.4%2B1.20.1-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "63e460c967d4c38bad82e20eb35955f1bb22b505239fafb02aed60a43840f7417306cc99ea8da25bf7ea36d0a1c65347b3b20d0f597311dc7c4473908bd63705"
+                },
+                "name": "Bountiful"
+            },
+            {
                 "downloadUrl": "https://edge.forgecdn.net/files/6055/291/duel_of_the_end-forge1.20.1-1736062540-1.1.3.jar",
                 "fileIntegrityInfo": {
                     "sha1": "4be7128db5f2354150faf6913eba0f03dffce430"
@@ -251,6 +286,20 @@
                 },
                 "name": "Global Server Config",
                 "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/rWSwwjTs/versions/ToOCUycU/mobsunscreen-forge-1.20.1-3.1.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4a7633abb6394c765968cbfba84440df098e23895e7bde2d56ea52d6987e3a05b5e4b97923ad2c9536e79221a9ca7ed8f0b4c5e0fcd33aef904848e5543309f4"
+                },
+                "name": "Mob Sunscreen"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "51158a57623562253ae2940d67a6ae172e1c558bf06f288bb61dab2f182a8945ade5a8e9e192a3c94fad686c37063158c2bcacd202f0ccb73f0c1fc57f7dcf0d"
+                },
+                "name": "Citadel"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/trwIa4wi/immersive_aircraft-1.2.1%2B1.20.1-forge.jar",
@@ -358,6 +407,13 @@
                 "clientSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/xXNP32XJ/versions/TGFN39mu/illagersweararmor-1.20.1-1.3.5.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "a6b1c774759a5ba3b107ba9315539e201170eec2be98499a7940a4c66836b7d5b78de31481a714f4d90fc5cd708e41394022b32a3a29e18c1b2553557eda516e"
+                },
+                "name": "Illagers Wear Armor"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/rGt1IuJq/entity_texture_features_forge_1.20.1-6.2.9.jar",
                 "fileIntegrityInfo": {
                     "sha512": "0d8576c785c689aa39c29f8dbee46b28c308a01a87eaa01a1d405c617b7a30be5ba1e62faeb5f212e44d50ae5a230e48815ac572adaba0c6d3a9e2df47183023"
@@ -421,6 +477,13 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/dGVX5JbJ/versions/fUAUpBku/bettervillage-forge-1.20.1-3.2.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "a52ed003d358291c65be69e376863da7807478512c2cb3b7dcad0279a0c3f57773aafb4de01e994765bd8f9eb0a9e1a5867974efb8946667dfa1f2ce94f9c420"
+                },
+                "name": "Better Villages"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/zrzYrlm0/versions/4q2qDUKg/spawnanimations-v1.10-mc1.17x-1.21x-mod.jar",
                 "fileIntegrityInfo": {
                     "sha512": "fae44203f0710cdf8a21959306e47a20b0dd6b4d64131c313969ed63fff03643a86f764a5fecededd09fecface2b5b575f6da67a16b45751bf97249b95551615"
@@ -448,6 +511,20 @@
                     "sha512": "d9ef8d5035954e9193d7ce29fbf49671dc302fc84ecfa1966f35dbef7c08ba128dc6e4a5d7ec2c8b04073231f88858e9d2c9a095f0ce92a912e1f2551c3dd2a0"
                 },
                 "name": "Xaero's Minimap & World Map - Waystones Compatibility"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/derP0ten/versions/Pp3ZK1tZ/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "5c649b288fd67c40511e2a0b37270888941462f0cd5869364fb903f14b0bbc0c57dd7bcfc7e16189a45210f65049ac37dc55cca7bb24663610327189c2325552"
+                },
+                "name": "Mutant Monsters"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c"
+                },
+                "name": "Kotlin for Forge"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/P2rffivS/versions/5elJ9ZTS/tenshilib-1.20.1-1.7.6-forge.jar",
@@ -517,6 +594,14 @@
                 },
                 "name": "YUNG's Better Nether Fortresses",
                 "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/S5OkaSK0/versions/wQGRipgG/CataclysmWeaponery2.0-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "5beeefb11895f7f5eee8141e2fc71038868ceff27370af430a1a1fee6cbf134ea78ac2bd401175e85a9c703d2535fcb56a1a0af72cf480770c45faadef2d3aa7"
+                },
+                "name": "Cataclysm Weaponery",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
@@ -630,6 +715,13 @@
                 "name": "Chunky"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/dOGM7ccu/versions/p98mV3Xm/nyfsspiders-forge-1.20.1-2.1.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "37dad4c2fcd67a99300a90fe36b725d7276516411539824fde34766a331faa255e6ab2281264df437766a08a570e36fd11d5e2c904744a9aced3cd3ac36b9fc5"
+                },
+                "name": "Nyf's Spiders"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/JS0ehUbr/ExplorersCompass-1.20.1-1.3.3-forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "a36e1de88eded95222ed6c0d938d52218f3177d9893cbf5fc8059f3ee9b2880700dab96727c26a9bd954341e7541a6a9292a3febf2867fbdce005b44a059c6c6"
@@ -642,6 +734,14 @@
                     "sha512": "44243ee1d18a67dc33a14080199a1430c6483c9bf71b5b1febcd72e04b6e7ef62b359cc69ae04b412971babd28aa62912735f538d4dda2702623b3a1c0217564"
                 },
                 "name": "Dynamic Crosshair",
+                "serverSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/Rm4OOdHd/versions/hJuIowdr/hideexperimentalwarning-1.20.1-1.2.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "d18013a57005c5ef902f656f76237edf5b92e00880b241ed22f6327a19bece3bc0ecbaa6038fc19b6559a9436d73e4bfe378d8b7b463e8676e140c48bbb715a9"
+                },
+                "name": "Hide Experimental Warning",
                 "serverSupport": "unsupported"
             },
             {
@@ -674,12 +774,11 @@
                 "name": "Iron Chests"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/C6nRXq8V/ShoulderSurfing-Forge-1.20.1-4.9.2.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/wfM9r9nN/ShoulderSurfing-Forge-1.20.1-4.10.0.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "df77fb09f441eba995033d806d7d972247603f4a6c8b7cb8c4ec6c4b5ce4478c65c981b6481dc40dc4ae9576590b11ed481cecd8154b981ede9c639375ea41ce"
+                    "sha512": "8d4177cf2bfa153cede9efd32d8468e02d2cff9f5132964c89f1157e4c4b07a172420baf5e0238e9b95a78cc08ae4ce40e8e70a8d0fa81ef6da72d1e4bc3bde7"
                 },
-                "name": "Shoulder Surfing Reloaded",
-                "serverSupport": "unsupported"
+                "name": "Shoulder Surfing Reloaded"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WTWP98yg/jei-1.20.1-forge-15.20.0.106.jar",
@@ -739,6 +838,13 @@
                 "name": "What Are They Up To (Watut)"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/aw5e7yPa/versions/yGm7ayHS/ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "731acba565a46ad5e68b3961cacd8f7c7ff7d398365748d45a0aedbe6c3155cc85e212259a4d586f3be199d7c927019122ff137782a75b3c79e8f7e66299d7be"
+                },
+                "name": "Ice and Fire: Spellbooks"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "d83a154745f206d5837d703196ed664132c91cdbf865ebd8981d0315162683cdbf033e82dbe68eaf4dee48b8ea93e5586f0c918a453e6fd1a4c34dad27ff6605"
@@ -754,11 +860,25 @@
                 "name": "Lionfish API"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "9e3559efccfb898a1f96c16910c07d26bafa730603a335db04df5a1ef511bd2e60b6bbb788c12aa80b12c8ffd8228e7eddf840f90f356577bfd0e439e24eb4f1"
+                },
+                "name": "Ice and Fire"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/za1mJSJs/balm-forge-1.20.1-7.3.18-all.jar",
                 "fileIntegrityInfo": {
                     "sha512": "0f6ce46a391e24a0237864a0d53d85b90b646900b41c003263608a11fed25ec6a93bd92f632a031e82209007b5a031b8e2484d6453bd3096787fe1f1acebb84c"
                 },
                 "name": "Balm"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/vg0wlvrM/versions/noiZf69l/cataclysmartifacts-1.0.4-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "827c8e5803ca38391b711f944c06c6072da33fc143f7b602ca52e44cdc70cdbec9cb26c51b9b736d27e80dbed1ca85f6ce0047dbf60b612b5d30f5388f17c1ee"
+                },
+                "name": "Cataclysm Artifacts"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/lKNn08fI/curiouslanterns-1.20.1-1.3.3.jar",
@@ -780,6 +900,13 @@
                     "sha512": "a8d442d31a4a753f90d0ed50095382910d36822614d8fc6a26eaa2f9d66f6c4ea73f4b2e4977510d9277a3d0dbd03b41629c372a59305209daacbc1140657b5d"
                 },
                 "name": "Horses Can Swim"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/AdgLkXjp/versions/oep1l361/glowingraidillagers-1.20-1.20.1-1.0.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "bab9f5902e245381d7bf24d3191145557dd827e515feb7c80f371b605a415e45dd421fc393fb1b78ec12f1ffe5d4891ca61ab5df3ba0e880c4ad6dcacee0ba55"
+                },
+                "name": "Glowing Illagers"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/rGWEHQrP/versions/58DKgNnY/smallships-forge-1.20.1-2.0.0-b1.4.jar",
@@ -849,6 +976,13 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/DOB2l4oJ/versions/wl68oCTb/libraryferret-forge-1.20.1-4.0.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "1495316d492186487fca2dfb6043c74f86ff424fd761bc9a3f4d97d62dbd533940fd2e7070453cf423e86a7ba98d188f0c354b34f1b67760b622ea12a8a154ef"
+                },
+                "name": "Library Ferret"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/6IpcGP7T/versions/PDZBWENe/InvMoveCompats-0.4.0%2B1.20.4-Forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "9853ea49080bb0f4f889ceb79b665db863ccedd5560ec8f50f40525f9f3239e15a40fb96c0c2b0832ff6151801eb0c8ec36dde77f359024bd8183cdead2031fa"
@@ -894,6 +1028,14 @@
                     "sha512": "662cc51f7a6c1d57808be9528ef2508793d633fcff15743c1942cbabc70cd67906258612e35c8dd9566ab1cf49519f05c2ff43479b32a4d2b0d7d1d2b5396c55"
                 },
                 "name": "StepItUp",
+                "serverSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "a3bb0272c0a1a3be9250dfee030bb8f86217fa6a32bd534be8c940fdd8c466c800c2df85874877983ced36ecfc28c8ced6c0d42107c1ab621385b4be9a7c65eb"
+                },
+                "name": "Mouse Tweaks",
                 "serverSupport": "unsupported"
             },
             {
@@ -980,6 +1122,13 @@
                 },
                 "name": "Xaero's World Map",
                 "serverSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "b50280057926d750f9ffbf6a8df36deb37529356895f6bf59f25d272ecf69afccec65ec1a5c3a8bfad24f9475c15b93c5ec4666447b1fce26a90c41445bbfb04"
+                },
+                "name": "Alex's Mobs"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -1323,6 +1472,13 @@
                 }
             },
             {
+                "filePath": "mods/epicfight_mods_compatibility-0.0.4-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.4-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "c3cd3b0b1daee5cad0aa954432d37e89e8a944e8fc508d2aafe042751b799a95789bf29920ddae18c68a14ef6f84b6a434356957b53458078715f5fe08f0500d"
+                }
+            },
+            {
                 "filePath": "mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "fileIntegrityInfo": {
@@ -1334,13 +1490,6 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.2-alpha.jar",
                 "fileIntegrityInfo": {
                     "sha512": "f0d5d225d71caa5bda6dca670c9a52beb66a262b439b36f22d035d6581aa9c00968868c49a40cb25f948ce4695d9d76ada899451d98ed10e93962a3fa282f3f2"
-                }
-            },
-            {
-                "filePath": "mods/epicfight_mods_compatibility-0.0.3-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.3-alpha.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "20aa56962c0ac93c26906c93150b730c13b82680c151652e1790a4939da4423ba8689ffb03b2b7f2f01593c545a8be7cd2df0bf83fa552b5a8611c12344d1e04"
                 }
             },
             {
