@@ -1472,13 +1472,6 @@
                 }
             },
             {
-                "filePath": "mods/corpse-forge-curios-1.20.1-1.0.12.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/corpse-forge-curios-1.20.1-1.0.12.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "61d6452a88d89b4a42259f020a535d43bad660d4fde411802878a3eba7b5a8aaf7e83280d92603022176dd077685852f92cc272940a2b23913726e009e325125"
-                }
-            },
-            {
                 "filePath": "mods/autochunky-0.0.1-alpha.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/autochunky-0.0.1-alpha.jar",
                 "fileIntegrityInfo": {
@@ -1490,6 +1483,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.4-alpha.jar",
                 "fileIntegrityInfo": {
                     "sha512": "c3cd3b0b1daee5cad0aa954432d37e89e8a944e8fc508d2aafe042751b799a95789bf29920ddae18c68a14ef6f84b6a434356957b53458078715f5fe08f0500d"
+                }
+            },
+            {
+                "filePath": "mods/curios-corpse-forge-1.20.1-1.0.20.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/curios-corpse-forge-1.20.1-1.0.20.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "c340fcb0ed537b729aa3c3990e7e9e89d3a58d0ec45367251817261e89dccdf52459875801a2d9400d9290f6e0d10fbcfe8125eafcb0532d2d4168f25cff9f43"
                 }
             },
             {
