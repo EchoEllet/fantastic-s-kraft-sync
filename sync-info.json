@@ -1479,17 +1479,17 @@
                 }
             },
             {
+                "filePath": "mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "5b09a6b7ea9622d91c480af047dec4ca0157676844d4623300d403eb64028a0d65d80536b163b93c8dd2e729cb953666718b9d2d455719340b125748c72997b5"
+                }
+            },
+            {
                 "filePath": "mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/cataclysm_spellbooks-1.2.0-1.20.1-2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "77fe104947f08b854d1a307aad5a7faafd9a51076777cc8c16f195e388117b5fb04bf69754623c9b6b52db448b3749b8197ff8430472c31129a283b1c2a35fd5"
-                }
-            },
-            {
-                "filePath": "mods/epicfight_mods_compatibility-0.0.5-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.5-alpha.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "9407d69c6181ecb6879b68b3fe6b9dd92fe41a70c6fdb4b2179a7d56b34b0d04be7bb6e5bd8b48df0d3a5d28cc696969b33d6174dea96b68d07f383ed9b5b312"
                 }
             },
             {
