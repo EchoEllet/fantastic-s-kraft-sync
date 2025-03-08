@@ -266,9 +266,9 @@
                 "name": "Terralith"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/2qznQtPr/PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/L2iYITL0/PuzzlesLib-v8.1.28-1.20.1-Forge.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "42660cdb51c088a29cbdfb2006d1662b30a2792b626d7f9b0018515e0bfbaa0b333b745d6998fcd1dd462ce71e47e5a3eb88779dc2b9987382ca212246469b41"
+                    "sha512": "c7c52670f7084d309876cd0b0a150c386e4636ea3e0f964bb00c35e78bfb6a380d593fb7b89f6b8410084929705421a024f34a3c80888115acdceacfe9029998"
                 },
                 "name": "Puzzles Lib"
             },
@@ -721,13 +721,6 @@
                     "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
                 },
                 "name": "Chunky"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/dOGM7ccu/versions/p98mV3Xm/nyfsspiders-forge-1.20.1-2.1.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "37dad4c2fcd67a99300a90fe36b725d7276516411539824fde34766a331faa255e6ab2281264df437766a08a570e36fd11d5e2c904744a9aced3cd3ac36b9fc5"
-                },
-                "name": "Nyf's Spiders"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/JS0ehUbr/ExplorersCompass-1.20.1-1.3.3-forge.jar",
