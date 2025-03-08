@@ -527,6 +527,14 @@
                 "name": "Kotlin for Forge"
             },
             {
+                "downloadUrl": "https://edge.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867"
+                },
+                "name": "Cupboard",
+                "clientSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/P2rffivS/versions/5elJ9ZTS/tenshilib-1.20.1-1.7.6-forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "492f11b0a999af306f07b363d8edfad9849ce7294e2609755eee906d1502b00feebd4304c6cd9bfe1a85ffbda0de5b6224a37693c4eb4b42ae664d61a23d8666"
