@@ -71,16 +71,16 @@
                 "name": "CoroUtil"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/440DKADS/L_Enders_Cataclysm-2.56- 1.20.1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/3xjv4tRm/L_Enders_Cataclysm-2.58- 1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "96f5f0c8a7efb53b8a334f7800bdf2999d0d5fa925a570919c9b4b1c5acc17bea796def13b7e26a1a966908ce427180f0703ef4c53aba7adb6183cdc79058be3"
+                    "sha512": "e3718d962819304e995d96d7cc9e8198178a32a902fd72367a1b17a544f988cf1eddcd75e992dd5efc83645c51b76537cdc29efcde4f1fd73877747678d6bd92"
                 },
-                "name": "L_Ender's Cataclysm"
+                "name": "Cataclysm Mod"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/8irGDdJK/waystones-forge-1.20.1-14.1.10.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/WKyfSzs9/waystones-forge-1.20.1-14.1.11.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "9df0c3d27fcad0e69cf7c6a95b8d5d0b302014fea31d6254fdc84afb9b99943bc9191f73315da54ede4f772d4be42d7e6ab90f1d7199cf24d8830157cfc3a4ba"
+                    "sha512": "aa67546933253a1e72159fa45e7ccbe84fac548080aee303c4f11199754d878164ee74a113302e2bd2be3503b69262ed49419bfbfc88685833b2bb071689dd0e"
                 },
                 "name": "Waystones"
             },
@@ -199,9 +199,9 @@
                 "name": "Epic Fight - Sword Soaring"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/k2Ch7TrO/collective-1.20.1-7.93.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/35WC69l2/collective-1.20.1-7.94.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "304d2f7c505e10d1708a7b3a960057a658a7b4a50f5f25198de1b716d7778e2d66fb2dce617f41b4f929bf27d043bdcbe250f82f6bc11a55e320b6fe4b8d132d"
+                    "sha512": "99b2b6d6c4141fe8d1da6a5180cc3fe803a34e806c964080972c47f15b14450716c8e45be67920d6699d81b78a4766d9fd868ae9959f92f80631658913fb6a91"
                 },
                 "name": "Collective"
             },
@@ -362,9 +362,9 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/a7dHSEcj/sophisticatedcore-1.20.1-1.2.20.894.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/MqGbm8NG/sophisticatedcore-1.20.1-1.2.22.901.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "deb6965e216b6ea6aa44536c884a7b11f0146b2a2d1e448093c0be0d4feb6bf3c282e7cc8a9f2c6700dc2ca71143bc6b04e6b4c32c81c53f46106cd74ac82fd1"
+                    "sha512": "a3e5b37f98c42e8f75f26c5cd4c9ea33b150584a5cd9e4d10d1141686c9876a48c570d1b1582f869be1dbb4e660ceb419ac85ccdc2ae52104126e4b63a7b4a06"
                 },
                 "name": "Sophisticated Core"
             },
@@ -611,11 +611,11 @@
                 "name": "spark"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/SOuuRR07/Jade-1.20.1-Forge-11.12.3.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/9gf6jOO0/Jade-1.20.1-Forge-11.13.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "7871ec035b146c852dcc1eb0b9c2bdeee192777ecde78b4d3a06a0111f94194bc12eabdb5b15804f61b365fa43bcad0b58bde80d01a5cc3a996fa4039339a3d2"
+                    "sha512": "3b8c4e273b70c30781accb27b3c307e9a8f676c2f3e6987fb9864588c4c0b93cbfd20bbcbe697dada6474b4d652ce686f98d3f72346d4946e573c0435674d8cf"
                 },
-                "name": "Jade 🔍"
+                "name": "Jade"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/lzOsKpew/Xaeros_Minimap_25.1.0_Forge_1.20.jar",
@@ -774,9 +774,9 @@
                 "name": "Iron Chests"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/wfM9r9nN/ShoulderSurfing-Forge-1.20.1-4.10.0.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/QOTXHQs8/ShoulderSurfing-Forge-1.20.1-4.10.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "8d4177cf2bfa153cede9efd32d8468e02d2cff9f5132964c89f1157e4c4b07a172420baf5e0238e9b95a78cc08ae4ce40e8e70a8d0fa81ef6da72d1e4bc3bde7"
+                    "sha512": "b2334065ec253b973ae6a64d7417db4f4eb8bed4fc3445b5f1abb72d1feff5dcfae9e0797953988871a7e39922f789d0ddae603cff1a04a7a521174d6ea98895"
                 },
                 "name": "Shoulder Surfing Reloaded"
             },
@@ -881,9 +881,16 @@
                 "name": "Cataclysm Artifacts"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/lKNn08fI/curiouslanterns-1.20.1-1.3.3.jar",
+                "downloadUrl": "https://edge.forgecdn.net/files/6186/225/brutalbosses-1.20.1-8.0.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "a854c7e1cc15fed5ca8c903430a63748f0703280879b8ab62bdef6773e42dd961baeaebe81e981069c07e9ca318c806bcc1f6af8715c11b17dd470114df66c57"
+                    "sha1": "890e26bc57ca49133ba55a420bbad609d3585155"
+                },
+                "name": "Brutal Bosses - Custom Bosses[Forge/Fabric]"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/q3pQ4N0L/curiouslanterns-1.20.1-1.3.6.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "d19533f0a0b43a3e7b39ed54a1307b168942a1312fe38ff9f61815419139b033e0ea9bead91bcdb73434b9294b2191d9c3f5518e9a810ac10a57ba7c17f5c563"
                 },
                 "name": "Curious Lanterns"
             },
