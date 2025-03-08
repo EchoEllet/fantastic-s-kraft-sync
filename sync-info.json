@@ -1480,13 +1480,6 @@
                 }
             },
             {
-                "filePath": "global_packs/required_data/BetterVillage_IceAndFire_1.18.2.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/BetterVillage_IceAndFire_1.18.2.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "1da698d5cac4ed295e8798e339ec6913a7f1134034cc9dc57e624d7297471a5b62bbeb780f9e9aa9f2d2aebf30e483eb2881515929c70da17303ffd8309a5aa3"
-                }
-            },
-            {
                 "filePath": "mods/curios-corpse-forge-1.20.1-1.0.20.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/curios-corpse-forge-1.20.1-1.0.20.jar",
                 "fileIntegrityInfo": {
