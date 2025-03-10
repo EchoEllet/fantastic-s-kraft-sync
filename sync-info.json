@@ -266,9 +266,9 @@
                 "name": "Terralith"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/L2iYITL0/PuzzlesLib-v8.1.28-1.20.1-Forge.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/pbMkjqgd/PuzzlesLib-v8.1.29-1.20.1-Forge.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "c7c52670f7084d309876cd0b0a150c386e4636ea3e0f964bb00c35e78bfb6a380d593fb7b89f6b8410084929705421a024f34a3c80888115acdceacfe9029998"
+                    "sha512": "75f2d77e61027b0ea2bd60ca2d5f1b6f7d3e860baad1d8f3955c4d33da7715ece5d028d086e9e34f1faa7c402f1159b9c9285a14e43a29565dea916cda983c53"
                 },
                 "name": "Puzzles Lib"
             },
@@ -832,11 +832,11 @@
                 "name": "Easy Magic"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/MCigDu8k/watut-forge-1.20.1-1.2.0.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "43ea1e4472f0963f768f0ddb1d8be523dc7e0fdc265029d3cc2b8df4a3d7a88ab7dcf1e053ee7813c40f97dd5dfe5afc6ad48276fb390b07a66b959b20488c25"
+                    "sha512": "bd5cf90ae0590c13a185d40b861935d8953b6c25f2b1dc5f098d115e311a0cadd21937ac220afc0d07328088cab7a14a44d1015ae2264188c7f05b07c5e88f5b"
                 },
-                "name": "What Are They Up To (Watut)"
+                "name": "What Are They Up To"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/aw5e7yPa/versions/yGm7ayHS/ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
