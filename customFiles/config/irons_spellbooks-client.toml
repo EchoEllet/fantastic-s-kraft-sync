@@ -33,12 +33,12 @@
 	[UI.SpellBar]
 		#By default (Always), the spell bar always shows the spells in your equipped spellbook. Contextual will hide them when not in use.
 		#Allowed Values: Never, Always, Contextual
-		spellBarDisplay = "Always"
+		spellBarDisplay = "Never"
 		#Used to adjust spell bar's position.
-		spellBarXOffset = 0
-		spellBarYOffset = 0
+		spellBarXOffset = 235
+		spellBarYOffset = 40
 		#Allowed Values: Hotbar, TopLeft, TopRight, BottomLeft, BottomRight
-		spellBarAnchor = "Hotbar"
+		spellBarAnchor = "TopLeft"
 
 	[UI.RecastOverlay]
 		#Allowed Values: Center, TopCenter, TopLeft, TopRight, BottomLeft, BottomRight
