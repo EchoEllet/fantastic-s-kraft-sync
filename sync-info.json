@@ -1160,16 +1160,13 @@
         "applyResourcePacks": true,
         "resourcePacks": [
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/6vhHOIKw/versions/PXnG3qIS/enchant%20icons%201.20%20v1.3.zip"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/dspVZXKP/versions/NjQ6roD9/Fast%20Better%20Grass.zip"
             },
             {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/GodOfWarCombatMusic.zip"
-            },
-            {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/L_Enders_Cataclysm_Boss_Music_Tweaks.zip"
-            },
-            {
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/ConquestSky.zip"
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/EFM_IronsV2.0.zip"
@@ -1196,10 +1193,19 @@
                 "downloadUrl": "https://mediafilez.forgecdn.net/files/4750/306/TZP_1.20.1_2.7.zip"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/hJAzl1Bs/versions/yVpdNmnj/Excalibur_V1.20.zip"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/asD9taD4/versions/LNq9EHat/Clarent_%2826%29_1.20.1.zip"
+            },
+            {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/FreshAnimations_v1.9.2_modified.zip"
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/FA_All_Extensions_v1.4_modified.zip"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/yiTthr0O/versions/QqXmhaey/Excalibur_v1.20.6_Fresh_Animations_v1.9_Build_7.zip"
             },
             {
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/resource-packs/Icon_Xaero_X_FA_v2.4_1.20.2.zip"
