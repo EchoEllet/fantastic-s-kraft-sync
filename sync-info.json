@@ -1688,13 +1688,6 @@
                 "fileIntegrityInfo": {
                     "sha512": "0bf5cb9b282bf3816b890c6c24b953e98b7eb51d1f4e66dd6be23692750ae30101fa37efc4c7775070d90b1aa90bb07a5ec895f31c4af97348b72552c23716f1"
                 }
-            },
-            {
-                "filePath": "defaultconfigs/DistantHorizons.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/defaultconfigs/DistantHorizons.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "c3bbb405d58a06264c3cb50abbffa23f38ced32697728abac1efa636b9142ca532e44ad6c49321beedf85ec1344787c7e977a1670ffcd6b4fd06621b2e1b7577"
-                }
             }
         ]
     },
