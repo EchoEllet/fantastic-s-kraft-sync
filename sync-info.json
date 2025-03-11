@@ -1096,6 +1096,14 @@
                 "serverSupport": "unsupported"
             },
             {
+                "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tYR1mIjv/dynamic-fps-3.9.0%2Bminecraft-1.20.0-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "063edf1982b41c8d1bc02802b7ac70b27fe88e09d8ea772f1998775a341029381a45cec71a3bea3611bb774dc99e87e1617b1bd1459b4d1dba4dd27ac1451f88"
+                },
+                "name": "Dynamic FPS",
+                "serverSupport": "unsupported"
+            },
+            {
                 "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/s6BQ9MWw/epicfight-forge-20.9.7-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "9cc56587c828a02468bd74a4dd2ef2b4a628c45a86443300359a7ae4d912a51c2b338329f8cd4095de9273570fefc4aff96247c6e7a29dd28a4b66e278da88b2"
