@@ -134,7 +134,7 @@
                     "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
                 },
                 "name": "Distant Horizons",
-                "serverSupport": "optional"
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/er56DwLJ/Kambrik-6.1.1%2B1.20.1-forge.jar",
