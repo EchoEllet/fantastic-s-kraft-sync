@@ -22,11 +22,11 @@
 		#Allowed Values: Never, Always, Contextual
 		manaBarDisplay = "Contextual"
 		#Used to adjust mana bar's position (11 is one full hunger bar up).
-		manaBarXOffset = 0
-		manaBarYOffset = 0
+		manaBarXOffset = 35
+		manaBarYOffset = -30
 		manaBarTextVisible = true
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
-		manaBarAnchor = "Hunger"
+		manaBarAnchor = "TopLeft"
 		manaTextXOffset = 0
 		manaTextYOffset = 0
 
