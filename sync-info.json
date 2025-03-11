@@ -1695,6 +1695,13 @@
                 }
             },
             {
+                "filePath": "mods/suppressopengllog-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/suppressopengllog-0.0.1-alpha.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "02789fc18eb43b049f893c8ffc5cb62768baf383eca5408550bef40fc58f5655ccce1b72ede0c4a9085a62b165cdfdc41362186317598aa56acdfda6934d3e36"
+                }
+            },
+            {
                 "filePath": "mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epicfight_mods_compatibility-0.0.1-alpha.jar",
                 "fileIntegrityInfo": {
