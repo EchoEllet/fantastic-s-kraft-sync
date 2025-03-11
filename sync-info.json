@@ -1246,7 +1246,8 @@
                 "fileIntegrityInfo": {
                     "sha512": "e7b7cc43912baed579dc56b933db5cc50dff52728003f6d171eb2c51a66af5d445ea72e0f08eff4c4968b761ad7313b9803c00241dfb8e396c4fadc3d597c1c6"
                 },
-                "name": "Essential Mod"
+                "name": "Essential Mod",
+                "serverSupport": "unsupported"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/uaLW6JVR/versions/71TQMuce/PassableFoliage-1.20.1-forge-8.2.1.jar",
