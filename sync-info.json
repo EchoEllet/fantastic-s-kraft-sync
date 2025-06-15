@@ -1389,6 +1389,13 @@
         "verifyFilesIntegrity": true,
         "files": [
             {
+                "filePath": "defaultconfigs/shouldersurfing-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/defaultconfigs/shouldersurfing-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "0bf5cb9b282bf3816b890c6c24b953e98b7eb51d1f4e66dd6be23692750ae30101fa37efc4c7775070d90b1aa90bb07a5ec895f31c4af97348b72552c23716f1"
+                }
+            },
+            {
                 "filePath": "essential/config.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/essential/config.toml",
                 "fileIntegrityInfo": {
@@ -1396,276 +1403,10 @@
                 }
             },
             {
-                "filePath": "config/playerrevive.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive.json",
+                "filePath": "mods/suppressopengllog-0.0.1-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/suppressopengllog-0.0.1-alpha.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "950caac664ab95aaa64bd95358c67869f791946b0cb869b77ebf07f073427d7a7ba94486c98e5f1375fa60f3904a67f50d8de16ef8b3791fc3176ba80f6c99ee"
-                }
-            },
-            {
-                "filePath": "config/betterthirdperson-common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/betterthirdperson-common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "71f3411a46b0290f7cdd8e68e8e5f149794fc536e917628393461da7bf5292185726e0fb639dc72c42f97b9da0ac931a0eff17067e694943a2704f3ea26bb794"
-                }
-            },
-            {
-                "filePath": "config/wom.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/wom.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "0c71ef9cea7df92dd6712958a43ce32573cec0e4987e0b3d696753c8774560e2778c6f0141e29d650acf5a2023e6061853519e7d058ee2e2731981644b5a3bd4"
-                }
-            },
-            {
-                "filePath": "config/improvedmobs/equipment.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/equipment.json",
-                "fileIntegrityInfo": {
-                    "sha512": "49451c7abcb25fc0af7f0e192a33bc66d3b0d408f957e8546869e0b04f577e04df1fb1442290e972e6b8d9fdae9dbbd823f259e0fa21b6c58467c7b1a0ffd4c1"
-                }
-            },
-            {
-                "filePath": "config/improvedmobs/client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "fb5c3cbd021cbb2e133f9c15cf5b99f2eb752626a0d1edebf7ba73bfef01f3da6b8de399845d92c23d42fbf41a0980da528e27e29a481e0780b08c64eb1a2d2a"
-                }
-            },
-            {
-                "filePath": "config/improvedmobs/common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "77af991ab229f0f58f12aaa55dbc4c24406f0920ead7f386fc9e2374bdafbf71df69a798b79240ff5bfa67d33a877aaa33c848ac634a168cd74cc822cd78f637"
-                }
-            },
-            {
-                "filePath": "config/pickupnotifier/pickupnotifier-server.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/pickupnotifier/pickupnotifier-server.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "6c2f167e2b25e7ff07bef9fed106699fdb1a6833908454873f5449a8e5057d82407b96a4010ab91c1fb8fa4817d857dafce12f4e4cf588f96f1fd3806abb5135"
-                }
-            },
-            {
-                "filePath": "config/pickupnotifier/pickupnotifier-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/pickupnotifier/pickupnotifier-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "66b695baf1525ed92a6fd06cb8073653012d937cb8c92cbaa86e1071199a1a5936bcd5dfee5742803e66b5b16cc2f22798c949a16376399ebdfeee6eb15b5ca0"
-                }
-            },
-            {
-                "filePath": "config/easymagic-server.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/easymagic-server.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "6c3727e85d9dc6b969699f7a5f8575256a3acf8373c17d24d55009596ac7363023a41fd2d46f51061cdfcd029acad6a1f738eb54aae2222399ab5733d3cd6090"
-                }
-            },
-            {
-                "filePath": "config/easymagic-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/easymagic-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "811c174d92aa46d6c2a34b4f629095dbbff3bbc37b293f7b916ae193510f97358c835dddea75a7e9f34db0fc00e74e4b5668bd7f917a5972f74111efa8d4a973"
-                }
-            },
-            {
-                "filePath": "config/recruits-server.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-server.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "4ac8b3e0b8405ae3bf88325fd1ac4c0c82d28f794a606e419a10fd8c9d92f87d81f4467942b4c0816e1546ad117822e9328446c6b48f6bacfedacfaae4ef2258"
-                }
-            },
-            {
-                "filePath": "config/irons_spellbooks-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/irons_spellbooks-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "f519b542a301775054cffed809afdd85f721c91bd71952288a76b6535b87c3d654bee822257ad987bc4063719e351e7a361f4360d0b7f8778792a4405eb2ec66"
-                }
-            },
-            {
-                "filePath": "config/epicfight.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/epicfight.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "34303ed9b1b593ff29b042e74b547566081af048ec5f34c0bbb22f449e4206ef476feaac379816247067ec616b4c2638dc4f83b5272c6851a41e374f2c5281c0"
-                }
-            },
-            {
-                "filePath": "config/travelersbackpack-common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/travelersbackpack-common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "90749cdebdc5ca9c3c105acffdc69ead4c7b237faeb1b6c7c6a58e7aec2b9de177e9f99f6aba6dad25826c8fdd0c75189f779a48c4dd48d235b5f383726dd6f9"
-                }
-            },
-            {
-                "filePath": "config/epicfight-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/epicfight-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "e9ea225e2ada098e949774a8de065edf11d0965a263bf4ba8b96f209106cb89170d425b02752f3550c90d173d7169734096a82b26c3a2aa220b98cf631f3c65b"
-                }
-            },
-            {
-                "filePath": "config/recruits-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "540781e18d1031517d183313f6545327f88af3176564f6e49438387a9fd312ccff7cad718d0abfab024b98870b3a61ca61ffa7e36369294be5768a2460f36a3c"
-                }
-            },
-            {
-                "filePath": "config/xaerominimap.txt",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/xaerominimap.txt",
-                "fileIntegrityInfo": {
-                    "sha512": "3b2738fe87899e7355539cedc2d003f336b18d66e21a8fd43459f4ff82b839f741bd02128a9a4cb1a1e8566e28f1108b0f37850e8bf3280614098099df05f79e"
-                }
-            },
-            {
-                "filePath": "config/dragonmounts-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dragonmounts-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "c7c090f9a0da795108f8af3fa8cec0b170a792e4ba604610c9a9ca45398b6b7e3ae162842d401ae040f3ffd3fb2eeaebc33472e3b8e14d2af880c90a5dc87551"
-                }
-            },
-            {
-                "filePath": "config/toolbelt-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/toolbelt-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "313c91e34d66f318033ce0201e644c67936f475b9893a6d21f5d32f392684d37a9a2948f1dd45179856269d8ffc4bb47bd07174ea8d5ad51013ef8caf1406d5c"
-                }
-            },
-            {
-                "filePath": "config/xaerominimap-common.txt",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/xaerominimap-common.txt",
-                "fileIntegrityInfo": {
-                    "sha512": "a2c48148bc53c23b3faccaa7365e067ae6620a54aaab96a6a76f1a582dacefba7b6ef9a1ae1c9cd858603a0191f504806f8c821b79bd254066cc5293356c88cf"
-                }
-            },
-            {
-                "filePath": "config/waystones-common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/waystones-common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "d41977b7e66f2507f00acbd4335fc39c041544ab3526b0cac4a01d4885eb6dade209849df5ee0d727d8c6d48ef65a001e821707a13408950a5f66bf2ad235eee"
-                }
-            },
-            {
-                "filePath": "config/mca.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mca.json",
-                "fileIntegrityInfo": {
-                    "sha512": "e335422a5d8e8df1a565a5acbe0c9b62281f454a0f295aa5d0bf6f084e798345beb486490d945008c1972573f5601b30dac6d05d89dd1d6bae7004dca994fc6e"
-                }
-            },
-            {
-                "filePath": "config/iceandfire-common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "a4d7eba331eda3e5aeab64c3b25a0d260f6fc4495427f454a3ba3d730c704bcc38e79cb1796e804a970245c77a1668f545f06f304b78e7525948b95d2599eda0"
-                }
-            },
-            {
-                "filePath": "config/playerrevive-client.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive-client.json",
-                "fileIntegrityInfo": {
-                    "sha512": "1b893d5bd3641ce3a4bbc4b891da13640253e2cb7932fa2f203d07edf254242217b39715034339e3cd1dd741a8336673f2f9fabfdaf348dcaa96c43ba7fa2cbf"
-                }
-            },
-            {
-                "filePath": "config/iceandfire-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "40ef36c15ca9283efe7c28dfacffc061cb915680d4a883e3789ec946ff275a26bde3551fc19fac139727febe52a56aa49f7710b7eb7ba58253965f0301b3492d"
-                }
-            },
-            {
-                "filePath": "config/toadlib_config.txt",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/toadlib_config.txt",
-                "fileIntegrityInfo": {
-                    "sha512": "942af2088ccdd213a4c90d59a86a78dbe3e5aaccd6c5715ba480a933aac8b11542adf61f93b93d690e2251baa34897a41e4f8cc5094582d4562f50c27617c3e7"
-                }
-            },
-            {
-                "filePath": "config/dynamictrees-server.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dynamictrees-server.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "abfa1805e5526a4fc383a87e6008d33ece33296c52b18ff898c9cd89995b7893539369d880f2d856f19143e37962aacf08ae78f59b162864f613b1833c10b207"
-                }
-            },
-            {
-                "filePath": "config/RPG-HUD",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/RPG-HUD",
-                "fileIntegrityInfo": {
-                    "sha512": "96a201d91489091b101fa706bbffa1eb339bb547d78538ad6caee922659a5930a61f84c83c63c4e3c74056daa2aa4ac7514adf6f35252512e3a84d86009fc1b2"
-                }
-            },
-            {
-                "filePath": "config/mobbattlemusic-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mobbattlemusic-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "d69d2b215cbdb4d55d9927783a5f7fc0aab104fd4a779ff0acead11c864c133826b41e2ea885bda37bfe0f4920451a15b56ee45c063488eec1da42bf5b6af329"
-                }
-            },
-            {
-                "filePath": "config/dragonmounts-common.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dragonmounts-common.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "a483f8e58632acbe01e9bd1126ecc33f436fa27c9c6f1eef7b4462b4b80f37ec889b328b676635c7a1b7981d1f2bc3c4d971a6b64777cb4905b64d4c4444edba"
-                }
-            },
-            {
-                "filePath": "config/defaultoptions/keybindings.txt",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/keybindings.txt",
-                "fileIntegrityInfo": {
-                    "sha512": "7de32a17ce3fb4b663eeeb91b465f3df890faffc6bacca75dc102c4b89d31f194ed664a9f7682ba4d52cd1aecbcc065ab0f2690efa11d12f982670d484aa64a6"
-                }
-            },
-            {
-                "filePath": "config/defaultoptions/options.txt",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/options.txt",
-                "fileIntegrityInfo": {
-                    "sha512": "355c09062a8900d7a673e3678c2822e046c75f53b5438f756015e5cb8445aa1c10178e3c849fa38d6bd745f26287ad95df6a5759f8cfb123b4672ea2e7808aac"
-                }
-            },
-            {
-                "filePath": "config/cataclysm.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/cataclysm.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "359497bc7f5825252d366d0b7e70f53f7115aec58903f92265db512261d43e7d61b27908d7ed5f93f2a8b1ca298687c9128a7c6c798d1806ac4875461acebbc5"
-                }
-            },
-            {
-                "filePath": "config/travelersbackpack-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/travelersbackpack-client.toml",
-                "fileIntegrityInfo": {
-                    "sha512": "28a1f00a6a103ecfc8420eb0ad3720704aa0ad0c37e75415a0f4884759aa8f4ae3e12e6989fa931664badfd03584775bc1c73378e09004b7dc6ebf6e0b496a66"
-                }
-            },
-            {
-                "filePath": "config/invmove/vanilla.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/vanilla.json",
-                "fileIntegrityInfo": {
-                    "sha512": "dba3eeb4d4f3f8429e0686ca46e80b09cff36a5f723369b0ec142a86d98564abae4a4d438163581d4b844eaf7f5ac0939f4cc619b3ddbc55fe0d5d6a941b022b"
-                }
-            },
-            {
-                "filePath": "config/invmove/unrecognized.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/unrecognized.json",
-                "fileIntegrityInfo": {
-                    "sha512": "a7e57e1adc3c3be440ecf7c801105bb820341ada83e6841631efda2a0bd9b7a0787f93621e001bedc65cd933b411770c45e91222982a856ef538a76c64ec5ed9"
-                }
-            },
-            {
-                "filePath": "global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "e68c59ff8cc1cf056f21fcc4534194e8e20f86d69e39cfa3d4de486511ff0549631f03b1f75883a861bce69e95cb925494fa1dfe2435058da0eb203e4018263e"
-                }
-            },
-            {
-                "filePath": "global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "db6e4398332849c5c739230cfbd308ca0a904eac7b26a92e089c2bd61fbc777ed5e64ff697fdd38ebd3234889ff787d1a9351b304a0cb99bdb98a66d845d5751"
-                }
-            },
-            {
-                "filePath": "mods/curios-corpse-forge-1.20.1-1.0.20.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/curios-corpse-forge-1.20.1-1.0.20.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c340fcb0ed537b729aa3c3990e7e9e89d3a58d0ec45367251817261e89dccdf52459875801a2d9400d9290f6e0d10fbcfe8125eafcb0532d2d4168f25cff9f43"
+                    "sha512": "02789fc18eb43b049f893c8ffc5cb62768baf383eca5408550bef40fc58f5655ccce1b72ede0c4a9085a62b165cdfdc41362186317598aa56acdfda6934d3e36"
                 }
             },
             {
@@ -1676,10 +1417,17 @@
                 }
             },
             {
-                "filePath": "mods/suppressopengllog-0.0.1-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/suppressopengllog-0.0.1-alpha.jar",
+                "filePath": "mods/bladeofolympus-0.0.2-alpha.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.2-alpha.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "02789fc18eb43b049f893c8ffc5cb62768baf383eca5408550bef40fc58f5655ccce1b72ede0c4a9085a62b165cdfdc41362186317598aa56acdfda6934d3e36"
+                    "sha512": "f0d5d225d71caa5bda6dca670c9a52beb66a262b439b36f22d035d6581aa9c00968868c49a40cb25f948ce4695d9d76ada899451d98ed10e93962a3fa282f3f2"
+                }
+            },
+            {
+                "filePath": "mods/curios-corpse-forge-1.20.1-1.0.20.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/curios-corpse-forge-1.20.1-1.0.20.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "c340fcb0ed537b729aa3c3990e7e9e89d3a58d0ec45367251817261e89dccdf52459875801a2d9400d9290f6e0d10fbcfe8125eafcb0532d2d4168f25cff9f43"
                 }
             },
             {
@@ -1697,17 +1445,269 @@
                 }
             },
             {
-                "filePath": "mods/bladeofolympus-0.0.2-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/bladeofolympus-0.0.2-alpha.jar",
+                "filePath": "config/invmove/unrecognized.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/unrecognized.json",
                 "fileIntegrityInfo": {
-                    "sha512": "f0d5d225d71caa5bda6dca670c9a52beb66a262b439b36f22d035d6581aa9c00968868c49a40cb25f948ce4695d9d76ada899451d98ed10e93962a3fa282f3f2"
+                    "sha512": "a7e57e1adc3c3be440ecf7c801105bb820341ada83e6841631efda2a0bd9b7a0787f93621e001bedc65cd933b411770c45e91222982a856ef538a76c64ec5ed9"
                 }
             },
             {
-                "filePath": "defaultconfigs/shouldersurfing-client.toml",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/defaultconfigs/shouldersurfing-client.toml",
+                "filePath": "config/invmove/vanilla.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/vanilla.json",
                 "fileIntegrityInfo": {
-                    "sha512": "0bf5cb9b282bf3816b890c6c24b953e98b7eb51d1f4e66dd6be23692750ae30101fa37efc4c7775070d90b1aa90bb07a5ec895f31c4af97348b72552c23716f1"
+                    "sha512": "dba3eeb4d4f3f8429e0686ca46e80b09cff36a5f723369b0ec142a86d98564abae4a4d438163581d4b844eaf7f5ac0939f4cc619b3ddbc55fe0d5d6a941b022b"
+                }
+            },
+            {
+                "filePath": "config/improvedmobs/client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "fb5c3cbd021cbb2e133f9c15cf5b99f2eb752626a0d1edebf7ba73bfef01f3da6b8de399845d92c23d42fbf41a0980da528e27e29a481e0780b08c64eb1a2d2a"
+                }
+            },
+            {
+                "filePath": "config/improvedmobs/equipment.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/equipment.json",
+                "fileIntegrityInfo": {
+                    "sha512": "49451c7abcb25fc0af7f0e192a33bc66d3b0d408f957e8546869e0b04f577e04df1fb1442290e972e6b8d9fdae9dbbd823f259e0fa21b6c58467c7b1a0ffd4c1"
+                }
+            },
+            {
+                "filePath": "config/improvedmobs/common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/improvedmobs/common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "77af991ab229f0f58f12aaa55dbc4c24406f0920ead7f386fc9e2374bdafbf71df69a798b79240ff5bfa67d33a877aaa33c848ac634a168cd74cc822cd78f637"
+                }
+            },
+            {
+                "filePath": "config/defaultoptions/options.txt",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/options.txt",
+                "fileIntegrityInfo": {
+                    "sha512": "355c09062a8900d7a673e3678c2822e046c75f53b5438f756015e5cb8445aa1c10178e3c849fa38d6bd745f26287ad95df6a5759f8cfb123b4672ea2e7808aac"
+                }
+            },
+            {
+                "filePath": "config/defaultoptions/keybindings.txt",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/keybindings.txt",
+                "fileIntegrityInfo": {
+                    "sha512": "7de32a17ce3fb4b663eeeb91b465f3df890faffc6bacca75dc102c4b89d31f194ed664a9f7682ba4d52cd1aecbcc065ab0f2690efa11d12f982670d484aa64a6"
+                }
+            },
+            {
+                "filePath": "config/pickupnotifier/pickupnotifier-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/pickupnotifier/pickupnotifier-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "6c2f167e2b25e7ff07bef9fed106699fdb1a6833908454873f5449a8e5057d82407b96a4010ab91c1fb8fa4817d857dafce12f4e4cf588f96f1fd3806abb5135"
+                }
+            },
+            {
+                "filePath": "config/pickupnotifier/pickupnotifier-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/pickupnotifier/pickupnotifier-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "66b695baf1525ed92a6fd06cb8073653012d937cb8c92cbaa86e1071199a1a5936bcd5dfee5742803e66b5b16cc2f22798c949a16376399ebdfeee6eb15b5ca0"
+                }
+            },
+            {
+                "filePath": "config/mobbattlemusic-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mobbattlemusic-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "d69d2b215cbdb4d55d9927783a5f7fc0aab104fd4a779ff0acead11c864c133826b41e2ea885bda37bfe0f4920451a15b56ee45c063488eec1da42bf5b6af329"
+                }
+            },
+            {
+                "filePath": "config/betterthirdperson-common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/betterthirdperson-common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "71f3411a46b0290f7cdd8e68e8e5f149794fc536e917628393461da7bf5292185726e0fb639dc72c42f97b9da0ac931a0eff17067e694943a2704f3ea26bb794"
+                }
+            },
+            {
+                "filePath": "config/xaerominimap-common.txt",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/xaerominimap-common.txt",
+                "fileIntegrityInfo": {
+                    "sha512": "a2c48148bc53c23b3faccaa7365e067ae6620a54aaab96a6a76f1a582dacefba7b6ef9a1ae1c9cd858603a0191f504806f8c821b79bd254066cc5293356c88cf"
+                }
+            },
+            {
+                "filePath": "config/dragonmounts-common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dragonmounts-common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "a483f8e58632acbe01e9bd1126ecc33f436fa27c9c6f1eef7b4462b4b80f37ec889b328b676635c7a1b7981d1f2bc3c4d971a6b64777cb4905b64d4c4444edba"
+                }
+            },
+            {
+                "filePath": "config/irons_spellbooks-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/irons_spellbooks-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "f519b542a301775054cffed809afdd85f721c91bd71952288a76b6535b87c3d654bee822257ad987bc4063719e351e7a361f4360d0b7f8778792a4405eb2ec66"
+                }
+            },
+            {
+                "filePath": "config/toadlib_config.txt",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/toadlib_config.txt",
+                "fileIntegrityInfo": {
+                    "sha512": "942af2088ccdd213a4c90d59a86a78dbe3e5aaccd6c5715ba480a933aac8b11542adf61f93b93d690e2251baa34897a41e4f8cc5094582d4562f50c27617c3e7"
+                }
+            },
+            {
+                "filePath": "config/wom.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/wom.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "0c71ef9cea7df92dd6712958a43ce32573cec0e4987e0b3d696753c8774560e2778c6f0141e29d650acf5a2023e6061853519e7d058ee2e2731981644b5a3bd4"
+                }
+            },
+            {
+                "filePath": "config/toolbelt-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/toolbelt-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "313c91e34d66f318033ce0201e644c67936f475b9893a6d21f5d32f392684d37a9a2948f1dd45179856269d8ffc4bb47bd07174ea8d5ad51013ef8caf1406d5c"
+                }
+            },
+            {
+                "filePath": "config/cataclysm.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/cataclysm.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "359497bc7f5825252d366d0b7e70f53f7115aec58903f92265db512261d43e7d61b27908d7ed5f93f2a8b1ca298687c9128a7c6c798d1806ac4875461acebbc5"
+                }
+            },
+            {
+                "filePath": "config/easymagic-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/easymagic-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "811c174d92aa46d6c2a34b4f629095dbbff3bbc37b293f7b916ae193510f97358c835dddea75a7e9f34db0fc00e74e4b5668bd7f917a5972f74111efa8d4a973"
+                }
+            },
+            {
+                "filePath": "config/epicfight.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/epicfight.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "34303ed9b1b593ff29b042e74b547566081af048ec5f34c0bbb22f449e4206ef476feaac379816247067ec616b4c2638dc4f83b5272c6851a41e374f2c5281c0"
+                }
+            },
+            {
+                "filePath": "config/waystones-common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/waystones-common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "d41977b7e66f2507f00acbd4335fc39c041544ab3526b0cac4a01d4885eb6dade209849df5ee0d727d8c6d48ef65a001e821707a13408950a5f66bf2ad235eee"
+                }
+            },
+            {
+                "filePath": "config/recruits-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "4ac8b3e0b8405ae3bf88325fd1ac4c0c82d28f794a606e419a10fd8c9d92f87d81f4467942b4c0816e1546ad117822e9328446c6b48f6bacfedacfaae4ef2258"
+                }
+            },
+            {
+                "filePath": "config/playerrevive.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive.json",
+                "fileIntegrityInfo": {
+                    "sha512": "950caac664ab95aaa64bd95358c67869f791946b0cb869b77ebf07f073427d7a7ba94486c98e5f1375fa60f3904a67f50d8de16ef8b3791fc3176ba80f6c99ee"
+                }
+            },
+            {
+                "filePath": "config/dynamictrees-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dynamictrees-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "abfa1805e5526a4fc383a87e6008d33ece33296c52b18ff898c9cd89995b7893539369d880f2d856f19143e37962aacf08ae78f59b162864f613b1833c10b207"
+                }
+            },
+            {
+                "filePath": "config/travelersbackpack-common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/travelersbackpack-common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "90749cdebdc5ca9c3c105acffdc69ead4c7b237faeb1b6c7c6a58e7aec2b9de177e9f99f6aba6dad25826c8fdd0c75189f779a48c4dd48d235b5f383726dd6f9"
+                }
+            },
+            {
+                "filePath": "config/recruits-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/recruits-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "540781e18d1031517d183313f6545327f88af3176564f6e49438387a9fd312ccff7cad718d0abfab024b98870b3a61ca61ffa7e36369294be5768a2460f36a3c"
+                }
+            },
+            {
+                "filePath": "config/iceandfire-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "40ef36c15ca9283efe7c28dfacffc061cb915680d4a883e3789ec946ff275a26bde3551fc19fac139727febe52a56aa49f7710b7eb7ba58253965f0301b3492d"
+                }
+            },
+            {
+                "filePath": "config/easymagic-server.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/easymagic-server.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "6c3727e85d9dc6b969699f7a5f8575256a3acf8373c17d24d55009596ac7363023a41fd2d46f51061cdfcd029acad6a1f738eb54aae2222399ab5733d3cd6090"
+                }
+            },
+            {
+                "filePath": "config/mca.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mca.json",
+                "fileIntegrityInfo": {
+                    "sha512": "e335422a5d8e8df1a565a5acbe0c9b62281f454a0f295aa5d0bf6f084e798345beb486490d945008c1972573f5601b30dac6d05d89dd1d6bae7004dca994fc6e"
+                }
+            },
+            {
+                "filePath": "config/iceandfire-common.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-common.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "a4d7eba331eda3e5aeab64c3b25a0d260f6fc4495427f454a3ba3d730c704bcc38e79cb1796e804a970245c77a1668f545f06f304b78e7525948b95d2599eda0"
+                }
+            },
+            {
+                "filePath": "config/RPG-HUD",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/RPG-HUD",
+                "fileIntegrityInfo": {
+                    "sha512": "96a201d91489091b101fa706bbffa1eb339bb547d78538ad6caee922659a5930a61f84c83c63c4e3c74056daa2aa4ac7514adf6f35252512e3a84d86009fc1b2"
+                }
+            },
+            {
+                "filePath": "config/travelersbackpack-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/travelersbackpack-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "28a1f00a6a103ecfc8420eb0ad3720704aa0ad0c37e75415a0f4884759aa8f4ae3e12e6989fa931664badfd03584775bc1c73378e09004b7dc6ebf6e0b496a66"
+                }
+            },
+            {
+                "filePath": "config/epicfight-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/epicfight-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "e9ea225e2ada098e949774a8de065edf11d0965a263bf4ba8b96f209106cb89170d425b02752f3550c90d173d7169734096a82b26c3a2aa220b98cf631f3c65b"
+                }
+            },
+            {
+                "filePath": "config/dragonmounts-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/dragonmounts-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "c7c090f9a0da795108f8af3fa8cec0b170a792e4ba604610c9a9ca45398b6b7e3ae162842d401ae040f3ffd3fb2eeaebc33472e3b8e14d2af880c90a5dc87551"
+                }
+            },
+            {
+                "filePath": "config/xaerominimap.txt",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/xaerominimap.txt",
+                "fileIntegrityInfo": {
+                    "sha512": "3b2738fe87899e7355539cedc2d003f336b18d66e21a8fd43459f4ff82b839f741bd02128a9a4cb1a1e8566e28f1108b0f37850e8bf3280614098099df05f79e"
+                }
+            },
+            {
+                "filePath": "config/playerrevive-client.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive-client.json",
+                "fileIntegrityInfo": {
+                    "sha512": "1b893d5bd3641ce3a4bbc4b891da13640253e2cb7932fa2f203d07edf254242217b39715034339e3cd1dd741a8336673f2f9fabfdaf348dcaa96c43ba7fa2cbf"
+                }
+            },
+            {
+                "filePath": "global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
+                "fileIntegrityInfo": {
+                    "sha512": "db6e4398332849c5c739230cfbd308ca0a904eac7b26a92e089c2bd61fbc777ed5e64ff697fdd38ebd3234889ff787d1a9351b304a0cb99bdb98a66d845d5751"
+                }
+            },
+            {
+                "filePath": "global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
+                "fileIntegrityInfo": {
+                    "sha512": "e68c59ff8cc1cf056f21fcc4534194e8e20f86d69e39cfa3d4de486511ff0549631f03b1f75883a861bce69e95cb925494fa1dfe2435058da0eb203e4018263e"
                 }
             }
         ]
