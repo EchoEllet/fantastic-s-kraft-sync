@@ -326,13 +326,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/q3pQ4N0L/curiouslanterns-1.20.1-1.3.6.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "d19533f0a0b43a3e7b39ed54a1307b168942a1312fe38ff9f61815419139b033e0ea9bead91bcdb73434b9294b2191d9c3f5518e9a810ac10a57ba7c17f5c563"
-                },
-                "name": "Curious Lanterns"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
                 "fileIntegrityInfo": {
                     "sha512": "8612097a014fcd6343a092cfeddb0e9d57c5a665b9ac61603a7760d156abd048ac548db55e750b369700b0475661e554f4b92b44677edf07574d4f9ffa42558c"
@@ -607,13 +600,6 @@
                 },
                 "name": "Eating Animation [Neo/Forge]",
                 "serverSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/kMC7OLoZ/entityculling-forge-1.7.4-mc1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "b9d36a1320dbe41deec4b19b292b6936c3b9f699621beb148330e7dd8b4d63e9107967a6bcd658d89db69e953d8690c33ce686dc17f37862be7e53f200f987c0"
-                },
-                "name": "EntityCulling"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar",
@@ -1096,20 +1082,6 @@
                 "name": "Terramity"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/a4mPtmjF/L_Enders_Cataclysm 1.20.1-2.66.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "f82f71620a96a5aeee89684271f05045c39a7b6ad391103f469b6c3724f9b3d0ef4bab48dde29c3515c35a9a57adcb99af00726ab3ee9cd5679dbf2abf659650"
-                },
-                "name": "cataclysm"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/QuGwcm10/dynamic-fps-3.9.4%2Bminecraft-1.20.0-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "1f191098ac121b1c6da507aa2e78dadfeee709b2dbea466ecbdf9d891cf48508411ce66f34615e85aa6610cb66c9ca724f2759b69c4a3e80c84aa8b58e9cd55c"
-                },
-                "name": "Dynamic FPS"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/6488/484/irons_spellbooks-1.20.1-3.4.0.9.jar",
                 "fileIntegrityInfo": {
                     "sha1": "161d71d83a5e5962062ef1fe83c36e398a5668df"
@@ -1165,13 +1137,6 @@
                     "sha512": "39994a3453615cb96c9634cf450dea463322576deee4817e708b37c0b65ee1a54f0e4468b83bd1024b3b458ed9617db15e2f423c5728ff9bd6444423a8c0c095"
                 },
                 "name": "Epic Knights Mod"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/fbC1e2ja/ShoulderSurfing-Forge-1.20.1-4.12.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "5b8b083b92004a9fa0fb05d7ec8aeac893a452d88632c5359990f6d238947991ceff840abc7d9cdd2a79121c0ebe47cddbd05245a60c333a6dae2546c6d97dba"
-                },
-                "name": "Shoulder Surfing Reloaded"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/yCVWJ9aK/XaerosWorldMap_1.39.9_Forge_1.20.jar",
@@ -1266,13 +1231,6 @@
                 "name": "Just Enough Items"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/jqOOgDNV/globalpacks-forge-1.20.1-19.3.4.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "4d57d62767bf8a5261b640ce2e37c72b75e0a7bd45fd9597799a2cc1806154f73ab5c308822d81333bb9aa4335044757369848400344e4f276ef6921485ebb83"
-                },
-                "name": "Global Packs"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/6622/620/brutalbosses-1.20.1-8.2.jar",
                 "fileIntegrityInfo": {
                     "sha1": "0e59c3f66dc43654638acc136161c0bc83c918d2"
@@ -1280,26 +1238,68 @@
                 "name": "brutalbosses mod"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/D8kw09in/Essential_1-3-8-1_forge_1-20-1.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/JsDP4XZK/dynamic-fps-3.9.5%2Bminecraft-1.20.0-forge.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "1c0c70d1053ae65064dc90fcdbbb00da8c6be9538e36a77dd1e565c89b70f75eadfcdedc1b3506a57876e17b29baed409ac50dff2720e7773494211e9b981663"
+                    "sha512": "8c7e44d51941e839e569fa98339d3a7cdf2f41f29cb8f498421a88a799db2ae27963d0ca8be7a9670142e0c6165b633370731565187c710337da709d5fc72963"
+                },
+                "name": "Dynamic FPS"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/r8QFkaek/Essential_1-3-8-2_forge_1-20-1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "99b5713b7f8e945e1a7adcec4c562017b1c03cbde747309ca08bcf14e636202d690ffbda90eb9335fb2c295285aed8f2f77823f51cd1cf844562729809c2aa4c"
                 },
                 "name": "Essential Mod",
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/g4k8xf2k/geckolib-forge-1.20.1-4.7.1.3.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AiVKLYep/geckolib-forge-1.20.1-4.7.2.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "7860fd7b931a363e0443f8a16b4ec7f41db8286be88938e71b0a7409899d6387fd443373732c8a68e0d67e695f7c6bea0f9c24d91610d56a2ccd3fc8318b11b9"
+                    "sha512": "40aefbb89e4a65c1955bd05c13cb656c0902e545741770d9395037f6a87684e91676935e0d5b7be0419abd1599272fa3aa245dc3976208b82f568d994813e314"
                 },
                 "name": "GeckoLib 4"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/1W98a849/versions/e5oJigDc/minecraft-comes-alive-7.6.9%2B1.20.1-universal.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/Kgn0YIHG/globalpacks-forge-1.20.1-19.3.5.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "11f7f49e976c6519eaf1fe4c8e8a7c3264ddb675bf3ceb5a611ee73611bda9c848c284b98740ce36b2a57ccd5e678ecfc317d51b291d066dffcc5e9b90fefcce"
+                    "sha512": "03f81e348ef380f202b3c86700a8498016154f2a8ac95532aa877cb1e28e92a4b413ff69bff43f478540a865a08cf38221f30e44ec6680a6a84121d10d030f1f"
+                },
+                "name": "Global Packs"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/1W98a849/versions/BL31bvsl/minecraft-comes-alive-7.6.10%2B1.20.1-universal.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "5394659ceb1edb816a3fdafb3f63f1c1ef87981b386d604bbf64a2a713f747505bd51fea910e71be8c7f993cf22ea248c443352c084174cd9675487ef225600a"
                 },
                 "name": "Minecraft Comes Alive"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/Ryoqx7y7/L_Enders_Cataclysm-3.01.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "2b22f0d40255908fb4d830ba797d52a127145a891a84be8acaf38db7a8140cf95e10d425c14eda0e391b1c9a9f8cc6e06e7649abe337dde891af157a57af32bf"
+                },
+                "name": "cataclysm"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/XHC2wH2e/curiouslanterns-1.20.1-1.3.7.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "cd781f828539e28c2f5afa748b4ba21368fd542f968f51c823ca94c08fffe16a7506e70d0d99ef5bc6ce041c499679092052197170f673c4fb517767cff475c8"
+                },
+                "name": "Curious Lanterns"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DQD98FEX/entityculling-forge-1.8.0-mc1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "af9ba81d12b1f3f425203cabecbd0409686cedc7b4491e751e09b32732a971adfaeca0f8e81671d2055621cdcd6160481f2c7268a38280fd80626a4ffa61fb68"
+                },
+                "name": "EntityCulling"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/8Ytbhnhu/ShoulderSurfing-Forge-1.20.1-4.13.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4ea4135b298cbfcac01d4be56b00803d832586be3acd020007b248adcc7af6ead8e74ae2a98b134edc8b2f24884194ed518bad960cb5088b9c57abf46413f827"
+                },
+                "name": "Shoulder Surfing Reloaded"
             }
         ]
     },
