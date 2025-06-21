@@ -1196,20 +1196,6 @@
                 "name": "Resourcify"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Uoqd7he1/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "2df5b400dc1ebb3c55ae7bed07c6a833adc4839e08ae2cd1d941bae0a4304fed029b08a11efa392a369dcd1d8396e2b7732c0dd427fcd7a533ff7df705edb17a"
-                },
-                "name": "Sophisticated Backpacks"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/t0hJiAMy/sophisticatedcore-1.20.1-1.2.69.1005.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "98fb3362085a1984b92ad98592d8e5f4d0dc80c9c1362f3cfccfe2703f2b1ca18924630fd2933286096472d54b51a51307e67638e4453423f3291da2d8cb26ab"
-                },
-                "name": "Sophisticated Core"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/6566/387/swem-1.20.1-1.6.1.jar",
                 "fileIntegrityInfo": {
                     "sha1": "397cc2a9a51d4070840bd91bdc94e607dade4285"
@@ -1274,13 +1260,6 @@
                 "name": "Minecraft Comes Alive"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/Ryoqx7y7/L_Enders_Cataclysm-3.01.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "2b22f0d40255908fb4d830ba797d52a127145a891a84be8acaf38db7a8140cf95e10d425c14eda0e391b1c9a9f8cc6e06e7649abe337dde891af157a57af32bf"
-                },
-                "name": "cataclysm"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/cE5SLYbv/versions/XHC2wH2e/curiouslanterns-1.20.1-1.3.7.jar",
                 "fileIntegrityInfo": {
                     "sha512": "cd781f828539e28c2f5afa748b4ba21368fd542f968f51c823ca94c08fffe16a7506e70d0d99ef5bc6ce041c499679092052197170f673c4fb517767cff475c8"
@@ -1300,6 +1279,27 @@
                     "sha512": "4ea4135b298cbfcac01d4be56b00803d832586be3acd020007b248adcc7af6ead8e74ae2a98b134edc8b2f24884194ed518bad960cb5088b9c57abf46413f827"
                 },
                 "name": "Shoulder Surfing Reloaded"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/DuvuOzmm/L_Enders_Cataclysm-3.02.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "216cea56899520f977671c921a64bdf25ef62716f624684554ab1bbdf21ed37b380dc86788cdf5eacaf743e5dfe44a92e5a172c8f87cb2426d0f8335399b2d52"
+                },
+                "name": "cataclysm"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/rMyyVcww/sophisticatedbackpacks-1.20.1-3.23.19.1263.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "3b07204c40a039ca20b1af1ae549f4df22bb0573f975b71413f1d5069cfb72eed3b4ee4b3ec3eea351fffb0f18c9650b6fef5c5eada4cbb714f7cf0e05167b5d"
+                },
+                "name": "Sophisticated Backpacks"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/Do3wZRZh/sophisticatedcore-1.20.1-1.2.70.1018.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "39983112420188f91948d34e994602ed981d2e1690221158e07f1f65498db04e044a6047adcf32ab416bbf32d15cf8b014a0b591bbd2daad85fae468aa474130"
+                },
+                "name": "Sophisticated Core"
             }
         ]
     },
