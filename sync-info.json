@@ -982,13 +982,6 @@
                 "name": "CERBON's API"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/uaLW6JVR/versions/71TQMuce/PassableFoliage-1.20.1-forge-8.2.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "2b6e284c29a8f75979d436be8748276d5e06e9be159b8337d9288df01c59439678e9a77ac44c6a220f5b34a620490e2a22f668c68189f72786c75146b797b4e9"
-                },
-                "name": "Passable Foliage 🌳"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
                 "fileIntegrityInfo": {
                     "sha512": "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257"
@@ -1031,13 +1024,6 @@
                 },
                 "name": "Oculus",
                 "serverSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/uEXYxtEF/versions/n1xJuC2Z/solid_mobs_forge.1.19.4%2B1.20-1.7.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "7bdb25b5551a9576a8a578ccbbc6d0cd1511908f9916b059aec995c26e08f8683d8a25bf071ffaf16fac773bbe0fe81c6fa2aede1044d5d89e5b54998537f255"
-                },
-                "name": "Solid Mobs"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/pcqEicMM/versions/S7d0D4TK/BEB-Forge-1.20.1-4.0.0.jar",
@@ -1130,13 +1116,6 @@
                     "sha1": "9184d9e681b33b911e229db9cc1f43e3d58269f1"
                 },
                 "name": "Epic Fight: Combat Forms | [Major Re-write & More Fixes]"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/L6jvzao4/versions/qtV2x3BQ/%5B1.20.1-forge%5D-Epic-Knights-9.24.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "39994a3453615cb96c9634cf450dea463322576deee4817e708b37c0b65ee1a54f0e4468b83bd1024b3b458ed9617db15e2f423c5728ff9bd6444423a8c0c095"
-                },
-                "name": "Epic Knights Mod"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/yCVWJ9aK/XaerosWorldMap_1.39.9_Forge_1.20.jar",
@@ -1281,13 +1260,6 @@
                 "name": "Shoulder Surfing Reloaded"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/DuvuOzmm/L_Enders_Cataclysm-3.02.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "216cea56899520f977671c921a64bdf25ef62716f624684554ab1bbdf21ed37b380dc86788cdf5eacaf743e5dfe44a92e5a172c8f87cb2426d0f8335399b2d52"
-                },
-                "name": "cataclysm"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/rMyyVcww/sophisticatedbackpacks-1.20.1-3.23.19.1263.jar",
                 "fileIntegrityInfo": {
                     "sha512": "3b07204c40a039ca20b1af1ae549f4df22bb0573f975b71413f1d5069cfb72eed3b4ee4b3ec3eea351fffb0f18c9650b6fef5c5eada4cbb714f7cf0e05167b5d"
@@ -1295,9 +1267,16 @@
                 "name": "Sophisticated Backpacks"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/Do3wZRZh/sophisticatedcore-1.20.1-1.2.70.1018.jar",
+                "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/Jkrodejk/L_Enders_Cataclysm-3.03.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "39983112420188f91948d34e994602ed981d2e1690221158e07f1f65498db04e044a6047adcf32ab416bbf32d15cf8b014a0b591bbd2daad85fae468aa474130"
+                    "sha512": "3f153a51e82c57ee8593730e668f7436c8262a87054e86f36764aa6b071b04dcb3cd31b8c2baeb15fa2b0590025143cb00271e07d667fa93452eb558873de965"
+                },
+                "name": "cataclysm"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/or1UXX0O/sophisticatedcore-1.20.1-1.2.71.1022.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "7b402318903aa27a86c49cf045ecba17c5e20f2111aedb9c924570eefa593ac82075e8c7bace6e60d64b6347395633b402479e87a4bbef8e04d2b1e0ae13317f"
                 },
                 "name": "Sophisticated Core"
             }
