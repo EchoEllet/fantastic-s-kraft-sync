@@ -1326,20 +1326,6 @@
                 }
             },
             {
-                "filePath": "mods/epic_fight_avalon-20.12.2.5.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epic_fight_avalon-20.12.2.5.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "085598478d3a6b76ff4d58df120b1b81116a69eb901675b5e3f5ed1ce7cf51fcec59a97899f3e14af5625638ba3ee04a873e49beb2c797a85ce7337b98f419d4"
-                }
-            },
-            {
-                "filePath": "mods/EpicFight Nightfall-2.0-all.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight Nightfall-2.0-all.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c568172abc6d8968de096b3291042bcf92226414dddb740e88e8d738c3b61de4df5e317dc3ba7e667153dd4ffa7eaf7fe826cc26f953525b29ed8a1e9a699a05"
-                }
-            },
-            {
                 "filePath": "config/invmove/unrecognized.json",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/unrecognized.json",
                 "fileIntegrityInfo": {
