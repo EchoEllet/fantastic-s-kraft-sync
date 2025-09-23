@@ -1392,7 +1392,7 @@
                 "filePath": "config/defaultoptions/keybindings.txt",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/keybindings.txt",
                 "fileIntegrityInfo": {
-                    "sha512": "e03708379d8cfa750a336040531e84613c3b505ff474b4a28a3b51520252a415613a0e844c4df761f8a1d38eee357298425eb249e24b15c8005c0be8d471ddf2"
+                    "sha512": "dd923040db3d9bd56bb4b73c7386a6ae918fa2eec258f30c65f05f6b3a51f82089870b9b4e4c3a1a6c9806cd3a2f1521f388da4a9e820a4e04fbf49acdfb139d"
                 }
             },
             {
@@ -1596,6 +1596,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/playerrevive.json",
                 "fileIntegrityInfo": {
                     "sha512": "3fe3cf78e28b59c2508bf96826666678b09c9016a4dc2394dbcfe8bc644febacd5b46570d806f7046b8626364adc4e37ee70d47eee88658e2bc7f34b365d181f"
+                }
+            },
+            {
+                "filePath": "config/smartkeyprompts-client.toml",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/smartkeyprompts-client.toml",
+                "fileIntegrityInfo": {
+                    "sha512": "fe6072ae67c473721553ce4c39d046f74c5094d32370894e107cbd434d5ea799e5d4776ed881a2f509c69154207787a10a4b71946f6d2964b9cfe53aeccb8a4f"
                 }
             },
             {
