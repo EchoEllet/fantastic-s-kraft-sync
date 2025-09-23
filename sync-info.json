@@ -683,14 +683,6 @@
                 "name": "Collective"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/pN5KK2w4/versions/Tcaw5lTX/keepxp-1.0.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "b98e50ec87b9416b685b87efdf931bd262b4acbb84581fece7a007dec174b0b01bba050cf3011a0c7af3d7ecd6ae0a5c669edb4ad7881cb320b0537744f48c35"
-                },
-                "name": "Keep Xp",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "a3bb0272c0a1a3be9250dfee030bb8f86217fa6a32bd534be8c940fdd8c466c800c2df85874877983ced36ecfc28c8ced6c0d42107c1ab621385b4be9a7c65eb"
