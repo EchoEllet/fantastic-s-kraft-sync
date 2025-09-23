@@ -21,7 +21,7 @@
     "disableMobDamage": true,
     "disablePlayerDamage": false,
     "disableOtherDamage": false,
-    "hasShaderEffect": true,
+    "hasShaderEffect": false,
     "changePermissionLevel": false,
     "permissionLevel": 0,
     "canBePushed": true,
