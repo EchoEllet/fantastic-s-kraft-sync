@@ -971,13 +971,6 @@
                 "name": "Spawn Animations"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/OspJXxxz/tectonic-3.0.12-forge-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "e041b7127efcf9142ffb5aa31ceebcacf1483288fb4f36e29dcc276b832169c1a6faf1015be138baed79e664963a1e0fa94d18d0b5f0942514a67c0f5dac949c"
-                },
-                "name": "Tectonic"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/WozH13dr/waystones-forge-1.20.1-14.1.17.jar",
                 "fileIntegrityInfo": {
                     "sha512": "707b12ad4e483d57149179f5cca35258f05a89f22b6c46b2841f581ea8804c4c4984eb6db7c7f0ab59d48916cfaec56e305b988dfdee8dc31047a3f6df4eb164"
@@ -1093,13 +1086,6 @@
                 "name": "Balm"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/6988/61/sword_soaring-forge1.20.1-20.12.0.5.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "02e9e7ddc661ee3e800cc958b28ed57712d707d8"
-                },
-                "name": "Epic Fight - Sword Soaring"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/J38UPdFA/ShoulderSurfing-Forge-1.20.1-4.14.3.jar",
                 "fileIntegrityInfo": {
                     "sha512": "a1eb9f397b459acdf8216f46c1b3605d501ad43923b8a48a0db4eb5ed992fa55fd582d199b2fe570299c29548fbb6ff0a90a4d0a74a45f6a0013ecc29d97bfe3"
@@ -1157,13 +1143,6 @@
                 "name": "Just Enough Items"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/txh7rBxm/sophisticatedcore-1.20.1-1.2.92.1159.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "f5286c1632c6df14872d6f3a9c995bcf1908a8664e6234078c844dd6a056845a4f2b17dcf88fb49886c3519534a4d1aa8253b36707f5cc4b357f63cd776bf48e"
-                },
-                "name": "Sophisticated Core"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/rWb4mB4Z/sound-physics-remastered-forge-1.20.1-1.5.0.jar",
                 "fileIntegrityInfo": {
                     "sha512": "29302974576220f27db4dee69b17cf3ff279567e46bbd8580f06df1113830ef5a7ce921acfea645b425198cfad5ecb9909bbc0c33d89214f643c004c8d64b572"
@@ -1198,6 +1177,35 @@
                     "sha512": "0f86b9b03672e67e5eac23146bfc56a536f8985daecaec3bf089ee489240b5afec1571c733fc058c335fdd9e8ace94796c257e4c59a33be7cf1dcba32009c2a1"
                 },
                 "name": "Packet Fixer"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/YCcTxyDM/versions/ol37llym/playerladder-0.6.1-forge-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4fa59f8d3c4c5a28a5124023f99918b15a8fc9588f544b356920ba8291f1a6bf91aee67a63a1db29b6f2ef462c78817331e0d5e642bbb3c51d7f1e2367952622"
+                },
+                "name": "Player Ladder",
+                "clientSupport": "unsupported"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/VrcKp1OV/sophisticatedcore-1.20.1-1.2.93.1164.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "fb5519fb4f2b1c13a028cea4f304c4a9b65472cf08118c1d438f3c7f0229bb1ba2d902b76e65738ebdc7f70be7d700f170a13d77adbba0efa671791843421662"
+                },
+                "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7028/343/sword_soaring-forge1.20.1-20.12.0.6.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "eeff3b535e449fbe9c50be50c2e022201307c94a"
+                },
+                "name": "Epic Fight - Sword Soaring"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/fkhhKCrl/tectonic-3.0.13-forge-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "db6c5b3ac31e1b459fab9089e15e1ff92ba319845658505f100460f5f212d8c2ad54816190da240f832f914a4ec53d8fd510d15deee27943a93b6166b89d4b78"
+                },
+                "name": "Tectonic"
             }
         ]
     },
@@ -1339,10 +1347,10 @@
                 }
             },
             {
-                "filePath": "mods/dragonfist_legacy-1.0-SNAPSHOT.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-1.0-SNAPSHOT.jar",
+                "filePath": "mods/dragonfist_legacy-test-1.20.1.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-test-1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "3d6e9ebf5207fed9d4b9020ad1e4254ba147ccc945681f4bb5d4062f354a4a402ce73d3b92ef2eb70a81dbe5f6ec625a77035b3286e04198204bde682b5008b6"
+                    "sha512": "366fde9b3099dc68d1920bcb1c40d87229157448675c911c12d353e5e441c7665a877ac1272046823e178af7c7f01afe58877aedd218903271d010c02a8cba77"
                 }
             },
             {
