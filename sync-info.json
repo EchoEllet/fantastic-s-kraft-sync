@@ -1196,13 +1196,6 @@
                 }
             },
             {
-                "filePath": "mods/autochunky-0.0.3-alpha.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/autochunky-0.0.3-alpha.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "3d21a86bc0823cfab8a305aeda9c9840116b7014c426a304b257eaba5d8083ab241dd01baaccbdb70b0a4b123ba6c8bd00f5463f35eaf6ca4c6229b8d88b5c0c"
-                }
-            },
-            {
                 "filePath": "mods/curios-corpse-forge-1.20.1-1.0.20.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/curios-corpse-forge-1.20.1-1.0.20.jar",
                 "fileIntegrityInfo": {
