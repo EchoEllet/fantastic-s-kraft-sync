@@ -1339,6 +1339,13 @@
                 }
             },
             {
+                "filePath": "mods/dragonfist_legacy-1.0-SNAPSHOT.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-1.0-SNAPSHOT.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "3d6e9ebf5207fed9d4b9020ad1e4254ba147ccc945681f4bb5d4062f354a4a402ce73d3b92ef2eb70a81dbe5f6ec625a77035b3286e04198204bde682b5008b6"
+                }
+            },
+            {
                 "filePath": "config/invmove/unrecognized.json",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/invmove/unrecognized.json",
                 "fileIntegrityInfo": {
