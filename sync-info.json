@@ -526,13 +526,6 @@
                 "name": "AppleSkin"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/er56DwLJ/Kambrik-6.1.1%2B1.20.1-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "6f19e23f0ec7f542e71d95239a322f5453cb50e6890f95c9152472cc7629b28fdcf3e4eab5a00bc768f893238fd65cd91230b5ecb8debc14b30d6721b5b0923d"
-                },
-                "name": "Kambrik"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/reCfnRvJ/versions/c2Th4NIB/RyoamicLights-forge-0.2.3%2Bmc1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "6e605b6362f12290408b12b791cf6c0b67eb82120d1bf9e290b8f50fb27fd3235df0cec44d1c88db7638e237c770d53c077454578c91d6b99d16b0eed2dd1fb1"
@@ -615,13 +608,6 @@
                 },
                 "name": "Equipment Compare",
                 "serverSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/BpwWFOVM/versions/EM7Su3PD/Bountiful-6.0.4%2B1.20.1-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "63e460c967d4c38bad82e20eb35955f1bb22b505239fafb02aed60a43840f7417306cc99ea8da25bf7ea36d0a1c65347b3b20d0f597311dc7c4473908bd63705"
-                },
-                "name": "Bountiful"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/P0uRrvF9/collective-1.20.1-8.3.jar",
@@ -1536,13 +1522,6 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
                 "fileIntegrityInfo": {
                     "sha512": "db6e4398332849c5c739230cfbd308ca0a904eac7b26a92e089c2bd61fbc777ed5e64ff697fdd38ebd3234889ff787d1a9351b304a0cb99bdb98a66d845d5751"
-                }
-            },
-            {
-                "filePath": "global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/BetterVillages_Bountiful_1.19.4.zip",
-                "fileIntegrityInfo": {
-                    "sha512": "e68c59ff8cc1cf056f21fcc4534194e8e20f86d69e39cfa3d4de486511ff0549631f03b1f75883a861bce69e95cb925494fa1dfe2435058da0eb203e4018263e"
                 }
             }
         ]
