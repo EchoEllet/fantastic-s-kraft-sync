@@ -1535,13 +1535,6 @@
                 }
             },
             {
-                "filePath": "config/mca.json",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mca.json",
-                "fileIntegrityInfo": {
-                    "sha512": "e335422a5d8e8df1a565a5acbe0c9b62281f454a0f295aa5d0bf6f084e798345beb486490d945008c1972573f5601b30dac6d05d89dd1d6bae7004dca994fc6e"
-                }
-            },
-            {
                 "filePath": "config/iceandfire-common.toml",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/iceandfire-common.toml",
                 "fileIntegrityInfo": {
@@ -1602,6 +1595,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/smartkeyprompts-client.toml",
                 "fileIntegrityInfo": {
                     "sha512": "fe6072ae67c473721553ce4c39d046f74c5094d32370894e107cbd434d5ea799e5d4776ed881a2f509c69154207787a10a4b71946f6d2964b9cfe53aeccb8a4f"
+                }
+            },
+            {
+                "filePath": "config/mca.json",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/mca.json",
+                "fileIntegrityInfo": {
+                    "sha512": "f9d2958b16a1a98bd7c8e09b47026d52bde4d17e8c68e224b882f8081e7f455b573b0dc684be81bc2c440a0f8e092985a5e71947ff4cef4d493358a53676ec2b"
                 }
             },
             {
