@@ -1034,13 +1034,6 @@
                 "name": "Just Enough Items"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/rWb4mB4Z/sound-physics-remastered-forge-1.20.1-1.5.0.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "29302974576220f27db4dee69b17cf3ff279567e46bbd8580f06df1113830ef5a7ce921acfea645b425198cfad5ecb9909bbc0c33d89214f643c004c8d64b572"
-                },
-                "name": "Sound Physics Remastered"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/q5PbB8Cn/epicfight-forge-20.12.7-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "2aa56daa4ba47107cade25f87b463095a8c2a7a2c20b13b387aea336377327733b9f23d21e2470c7659845ccb758d6c7974f7cbde33d9f5155b1bc46956cc845"
@@ -1104,6 +1097,13 @@
                     "sha512": "bb3ffd7cfb6b8c8d99ef3a3d0a4c85f05e7db21882987a78903bf287fdf8a72d69d867daf1e1b7bf00aa3d3ad26d721f78def81e7eca2adb0fb3b05bc7c63e95"
                 },
                 "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "5509a7b51ec1d57aae2af0a0200bda474539fcfe28303f3ff0158ba95b8e7a88ae023d8a9bd97d4626a6a8ce809506e19cdcb05b76e8be5bf8a0450c5d6a46b1"
+                },
+                "name": "Sound Physics Remastered"
             }
         ]
     },
