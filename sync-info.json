@@ -1283,14 +1283,14 @@
                 "filePath": "config/defaultoptions/options.txt",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/options.txt",
                 "fileIntegrityInfo": {
-                    "sha512": "355c09062a8900d7a673e3678c2822e046c75f53b5438f756015e5cb8445aa1c10178e3c849fa38d6bd745f26287ad95df6a5759f8cfb123b4672ea2e7808aac"
+                    "sha512": "2712a547a67e948ca38e8a44ea0c47bbe8d1f09be493ae2e0ca9b3a922f26eed4fea5a5e1178ef370c73540d48174a07634b3515d63cdfa43ba28f694a804f0a"
                 }
             },
             {
                 "filePath": "config/defaultoptions/keybindings.txt",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/config/defaultoptions/keybindings.txt",
                 "fileIntegrityInfo": {
-                    "sha512": "dd923040db3d9bd56bb4b73c7386a6ae918fa2eec258f30c65f05f6b3a51f82089870b9b4e4c3a1a6c9806cd3a2f1521f388da4a9e820a4e04fbf49acdfb139d"
+                    "sha512": "60b21bf4e66d249616d6a5f702b361a2bacb2e8a3079eb58ee78e259ba042582dcaa1608a2cefbdc9925be05ee8a21548327f70216bf845479d7627d62581d78"
                 }
             },
             {

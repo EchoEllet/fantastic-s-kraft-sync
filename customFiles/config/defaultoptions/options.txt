@@ -4,7 +4,7 @@ fullscreen:false
 darkMojangStudiosBackground:true
 renderClouds:"false"
 soundCategory_master:1.0
-soundCategory_music:0.1056338028169014
+soundCategory_music:0.08139304577464797
 soundCategory_record:0.10211267605633803
 soundCategory_weather:0.20774647887323944
 soundCategory_block:1.0
@@ -13,10 +13,10 @@ soundCategory_neutral:0.4084507042253521
 soundCategory_player:0.4014084507042254
 soundCategory_ambient:0.1056338028169014
 modelPart_cape:false
-guiScale:2
+guiScale:3
 narrator:0
 joinedFirstServer:true
 skipMultiplayerWarning:true
 lang:en_us
 maxFps:260
-renderDistance:8
+renderDistance:12
