@@ -1238,10 +1238,10 @@
                 }
             },
             {
-                "filePath": "mods/dragonfist_legacy-test2_1.20.1.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-test2_1.20.1.jar",
+                "filePath": "mods/dragonfist_legacy_test3_1.20.1.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test3_1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "3a1ebc98ee9758f4e9527dfb0183b8bb22a7f172847e8b34a9a3ba67724d1ab018e8ac22a7ff932c4c6bd806e5a66e9bb4cda5d05acdd2f1b9aa583035c66812"
+                    "sha512": "636041c1d1dd5d5a4238b5ce51187fbb9ec12d2ed1a59c8727c0dbd1b71e299864d383509d25e36ec485eb5f2e06fc7350dc8ed32055e26541b028972972f3c7"
                 }
             },
             {
