@@ -999,13 +999,6 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/rqp9Htat/sophisticatedbackpacks-1.20.1-3.24.6.1366.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "d70e49e87c7839eff5f9edc6c6752e89ae478bea3278dcfc82f65ce6f758a16154e46d0414ac09473cd1051788e8988e37e76e11d24cdb3025176d10b7c5eb3f"
-                },
-                "name": "Sophisticated Backpacks"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/7022/168/azurelib-neo-1.20.1-3.0.17.jar",
                 "fileIntegrityInfo": {
                     "sha1": "9bd9ea936caa2b20acccff8bad3219c97287ffec"
@@ -1085,13 +1078,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/VrcKp1OV/sophisticatedcore-1.20.1-1.2.93.1164.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "fb5519fb4f2b1c13a028cea4f304c4a9b65472cf08118c1d438f3c7f0229bb1ba2d902b76e65738ebdc7f70be7d700f170a13d77adbba0efa671791843421662"
-                },
-                "name": "Sophisticated Core"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/7028/343/sword_soaring-forge1.20.1-20.12.0.6.jar",
                 "fileIntegrityInfo": {
                     "sha1": "eeff3b535e449fbe9c50be50c2e022201307c94a"
@@ -1104,6 +1090,20 @@
                     "sha512": "db6c5b3ac31e1b459fab9089e15e1ff92ba319845658505f100460f5f212d8c2ad54816190da240f832f914a4ec53d8fd510d15deee27943a93b6166b89d4b78"
                 },
                 "name": "Tectonic"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/SvjpkxcC/sophisticatedbackpacks-1.20.1-3.24.7.1376.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "b534f32c2df4aadf7fa9262f38bb5fb7480683539911be986232ae36e58fe574ebfb513563241242471bf205e39414a46964803967fae261f2188ea5ed032e50"
+                },
+                "name": "Sophisticated Backpacks"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/Bk53KLmJ/sophisticatedcore-1.20.1-1.2.94.1169.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "bb3ffd7cfb6b8c8d99ef3a3d0a4c85f05e7db21882987a78903bf287fdf8a72d69d867daf1e1b7bf00aa3d3ad26d721f78def81e7eca2adb0fb3b05bc7c63e95"
+                },
+                "name": "Sophisticated Core"
             }
         ]
     },
@@ -1238,10 +1238,10 @@
                 }
             },
             {
-                "filePath": "mods/dragonfist_legacy-test-1.20.1.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-test-1.20.1.jar",
+                "filePath": "mods/dragonfist_legacy-test2_1.20.1.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy-test2_1.20.1.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "8bfd8e3f129314d5bd4da41d4892ceae289716f2f92d9409fc6d80024326c262b2eee371568626dfc62bffaa139b0aaef6f412ffad74167704818c129404d0cc"
+                    "sha512": "3a1ebc98ee9758f4e9527dfb0183b8bb22a7f172847e8b34a9a3ba67724d1ab018e8ac22a7ff932c4c6bd806e5a66e9bb4cda5d05acdd2f1b9aa583035c66812"
                 }
             },
             {
