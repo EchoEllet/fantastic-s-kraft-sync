@@ -12,14 +12,6 @@
                 "name": "Tidal Towns"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/6047/153/Dungeon%20Crawl-1.20.1-2.3.15.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866"
-                },
-                "name": "Dungeon Crawl",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/KgO1gfM2/YungsBridges-1.20-Forge-4.0.3.jar",
                 "fileIntegrityInfo": {
                     "sha512": "2705fbaeb62115c5604719d68756f723a974ea9a62a4194771ebbea877ee715de72cefe3b01ec0d318d4d6fe2e9de87e6a7122ef21ee54d48153e84cb7bae0c6"
@@ -200,13 +192,6 @@
                 },
                 "name": "Farsighted Mobs",
                 "clientSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/pe7FN3d6/versions/unxodajn/takesapillage-1.0.3-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c644af7b5d73b34a2a0a4b97dec06ae83c4ffd97f3aed66c260b9af609d00005324bc70d8f7005e85803c27d5f4ffd51d3c76f78c379aedea4467c07472f1539"
-                },
-                "name": "It Takes a Pillage"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/rWSwwjTs/versions/ToOCUycU/mobsunscreen-forge-1.20.1-3.1.1.jar",
