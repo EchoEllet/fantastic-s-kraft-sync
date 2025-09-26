@@ -467,13 +467,6 @@
                 "name": "Memory Leak Fix"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/5277/434/EF_Knuckles_extended_20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "fe9623ca0dafe3bcc8133ba415a97a9991280928"
-                },
-                "name": "Epic Fight Knuckles Extended"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar",
                 "fileIntegrityInfo": {
                     "sha512": "a8b9e114281c1390ecded38a6114516dc0b3ae0e4cb0f041162d54b6cabfacf077c7394075c43c1565a01362cdbf37e45c3bdeac2aa5b8dede93970bafd44c65"
@@ -1075,6 +1068,14 @@
                     "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
                 },
                 "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/MhxUKxWI/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "85bb5245abb723cee7c10ae471e811266a66e5f78bd4a09a35bf45e64d463d244989c6e4d301c2b97b896e7513d75fc8000460148554a245f6e630bdf9a68c45"
+                },
+                "name": "Distant Horizons",
+                "serverSupport": "unsupported"
             }
         ]
     },
