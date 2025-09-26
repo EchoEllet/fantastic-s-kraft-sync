@@ -1068,14 +1068,6 @@
                     "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
                 },
                 "name": "Sophisticated Core"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/MhxUKxWI/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "85bb5245abb723cee7c10ae471e811266a66e5f78bd4a09a35bf45e64d463d244989c6e4d301c2b97b896e7513d75fc8000460148554a245f6e630bdf9a68c45"
-                },
-                "name": "Distant Horizons",
-                "serverSupport": "unsupported"
             }
         ]
     },
