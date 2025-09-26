@@ -913,20 +913,6 @@
                 "name": "impactful"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/PezbUFun/versions/672dPOFR/epicfight-skilltree-forge-20.1.1-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "fe6d99c082582dc29776773c7e2ea82104bdd9666e766d4a053834361efe4a7da951054178a29b00bebf48e06128f2a3bdd6a89ea26d776e384f81e7e1e7f480"
-                },
-                "name": "Epic Fight: Skill Tree"
-            },
-            {
-                "downloadUrl": "https://edge.forgecdn.net/files/6855/180/dodge_parry_reward-1.20.1forge-20.12.0.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "a3922b1855073dff06fbb330c7605cf2cb452dba"
-                },
-                "name": "Epic Fight : Dodge Parry Reward"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/6970/299/irons_spellbooks-1.20.1-3.4.0.11.jar",
                 "fileIntegrityInfo": {
                     "sha1": "84e0678cdad2c007ee56fa3fef1403a612d07feb"
@@ -998,20 +984,6 @@
                 "name": "GeckoLib 4"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lsAlz2ME/jei-1.20.1-forge-15.20.0.113.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "ae1026bd0d1d13b15407caa3d17dcb1d00f6d4a83ed304af50b3379032430294a4c363894cb272e41600e729f1b7fc7bf57c5d1b4fc0ffb64def6b6cbde6305f"
-                },
-                "name": "Just Enough Items"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/q5PbB8Cn/epicfight-forge-20.12.7-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "2aa56daa4ba47107cade25f87b463095a8c2a7a2c20b13b387aea336377327733b9f23d21e2470c7659845ccb758d6c7974f7cbde33d9f5155b1bc46956cc845"
-                },
-                "name": "Epic Fight"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4e0a6243f70a7f99bb631940bfeca49f31b13ec34f338d994fe129f0445e738ffd925e5c440f4e6bf822f9013bb8c2156de6dfcd62741d85c3ca3e8221d86a19"
@@ -1042,13 +1014,6 @@
                 "clientSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/7028/343/sword_soaring-forge1.20.1-20.12.0.6.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "eeff3b535e449fbe9c50be50c2e022201307c94a"
-                },
-                "name": "Epic Fight - Sword Soaring"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/fkhhKCrl/tectonic-3.0.13-forge-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "db6c5b3ac31e1b459fab9089e15e1ff92ba319845658505f100460f5f212d8c2ad54816190da240f832f914a4ec53d8fd510d15deee27943a93b6166b89d4b78"
@@ -1063,18 +1028,53 @@
                 "name": "Sophisticated Backpacks"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/Bk53KLmJ/sophisticatedcore-1.20.1-1.2.94.1169.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "bb3ffd7cfb6b8c8d99ef3a3d0a4c85f05e7db21882987a78903bf287fdf8a72d69d867daf1e1b7bf00aa3d3ad26d721f78def81e7eca2adb0fb3b05bc7c63e95"
-                },
-                "name": "Sophisticated Core"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "5509a7b51ec1d57aae2af0a0200bda474539fcfe28303f3ff0158ba95b8e7a88ae023d8a9bd97d4626a6a8ce809506e19cdcb05b76e8be5bf8a0450c5d6a46b1"
                 },
                 "name": "Sound Physics Remastered"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7035/506/dodge_parry_reward-1.20.1forge-20.12.1.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "d5eeac639ddd430b58858c20693ab11395cd1571"
+                },
+                "name": "Dodge Parry Reward"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/XKycRvwR/epicfight-forge-20.12.8-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "03e94a0bf4f6b5932b4e8a111ff7af5ef83a2f538d2699e7a28936ce7bc6297696e82e4e0d2fa431d5b5bcc3d4396695c424e8944397b43445494f756e3bef64"
+                },
+                "name": "Epic Fight"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7035/767/sword_soaring-forge1.20.1-20.12.0.7-all.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "5c8f27868e53318106d74b32929d6d5879f9145a"
+                },
+                "name": "Epic Fight - Sword Soaring"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/PezbUFun/versions/s3iFPQ1R/epicfight-skilltree-forge-20.1.3-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "8432ee3e8c2d5c08ac9e5e00918392d10c559580bc8f67ac6562987bf9e11e9b328cf109beb396750aba49dc6884ec678d870a3f213f40d9abd2fbc1da0dc709"
+                },
+                "name": "Epic Fight: Skill Tree"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/OFMEWXJM/jei-1.20.1-forge-15.20.0.115.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "7842db2dc9ae77a60fdba290a9b9a58f95504d11976ea6b943786c499bd3f9349c27361e50089f4e69a7ebd4f5f4c59ac4845e18fb99a6fda360a8bf73e6a29f"
+                },
+                "name": "Just Enough Items"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/n0rkxKaA/sophisticatedcore-1.20.1-1.2.95.1174.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
+                },
+                "name": "Sophisticated Core"
             }
         ]
     },
