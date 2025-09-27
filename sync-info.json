@@ -186,14 +186,6 @@
                 "serverSupport": "unsupported"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/eEpWUjwq/versions/cBbVgZbj/farsighted-mobs-forge-1.1-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "4e6a6cced4bc51f03703b63e11d51335fccd48cce0093cc8fa420f4b9a39e18fa1798a40fd1638e2d9e478515966c58dbd08abb9b79a29353e3c02d18d165da3"
-                },
-                "name": "Farsighted Mobs",
-                "clientSupport": "unsupported"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/rWSwwjTs/versions/ToOCUycU/mobsunscreen-forge-1.20.1-3.1.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4a7633abb6394c765968cbfba84440df098e23895e7bde2d56ea52d6987e3a05b5e4b97923ad2c9536e79221a9ca7ed8f0b4c5e0fcd33aef904848e5543309f4"
@@ -1465,6 +1457,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip",
                 "fileIntegrityInfo": {
                     "sha512": "db6e4398332849c5c739230cfbd308ca0a904eac7b26a92e089c2bd61fbc777ed5e64ff697fdd38ebd3234889ff787d1a9351b304a0cb99bdb98a66d845d5751"
+                }
+            },
+            {
+                "filePath": "global_packs/required_data/WeaponsOfMiraclesBalanceDatapack.zip",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/global_packs/required_data/WeaponsOfMiraclesBalanceDatapack.zip",
+                "fileIntegrityInfo": {
+                    "sha512": "da88807ede8702bddc4208d70039be4140df879b79fa24a397a9452b4b4da34838bbed95563819edbcbcad765a4cd47814f625d4177b0e510e4c94ae2bcfc1f7"
                 }
             }
         ]
