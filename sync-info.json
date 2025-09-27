@@ -1049,13 +1049,6 @@
                 "name": "Dodge Parry Reward"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/7038/114/sword_soaring-forge1.20.1-20.12.1.0.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "320ba640416dde5aec85a404221e9f44f68a658d"
-                },
-                "name": "Epic Fight - Sword Soaring"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zzpNSbJZ/jei-1.20.1-forge-15.20.0.116.jar",
                 "fileIntegrityInfo": {
                     "sha512": "4a5337e8f8234e7053c8ad9c9f4f4aaf08ee03f66fea8146e9b5b2e357a8b892540b3b1dfefc73b618b9fa485c7c025481f9d17fb9f522a76839e499f8816741"
@@ -1068,6 +1061,13 @@
                     "sha512": "34b67a534dce86f29a292b45bba13fd0da6183c4eab2743cfd3dfc45fa8aa96e4dbcc833f37b94fa7bf2a644ef46741c18eb0fe169a60d092d53c67201bc8bcd"
                 },
                 "name": "Sophisticated Backpacks"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7035/671/epic_fight_avalon-20.12.3.1.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "128968499b26e2a2543292e204f62f58b6c67351"
+                },
+                "name": "Epic fight - Avalon"
             }
         ]
     },
@@ -1192,13 +1192,6 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test4_1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "5fcacacc3e81ce52c75e031037b7635963fdc5ac0b7ba295f058dfa91d14d4dbcafedcf9057440c43e48afebb58de436ec43472e7f39cb1abe981aabd802e2ab"
-                }
-            },
-            {
-                "filePath": "mods/epic_fight_avalon-20.12.3.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epic_fight_avalon-20.12.3.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "b817b37259e58dd3af237ad796171e883fbea8b9d00cfcc60f15a3a8881fcdab066fada0afdb23ff35e64450bcdac5d795b7a3e3715a89addc94b2f2c1ba7ed9"
                 }
             },
             {
