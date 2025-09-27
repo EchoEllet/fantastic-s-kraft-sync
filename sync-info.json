@@ -1014,25 +1014,11 @@
                 "name": "Tectonic"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/SvjpkxcC/sophisticatedbackpacks-1.20.1-3.24.7.1376.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "b534f32c2df4aadf7fa9262f38bb5fb7480683539911be986232ae36e58fe574ebfb513563241242471bf205e39414a46964803967fae261f2188ea5ed032e50"
-                },
-                "name": "Sophisticated Backpacks"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "5509a7b51ec1d57aae2af0a0200bda474539fcfe28303f3ff0158ba95b8e7a88ae023d8a9bd97d4626a6a8ce809506e19cdcb05b76e8be5bf8a0450c5d6a46b1"
                 },
                 "name": "Sound Physics Remastered"
-            },
-            {
-                "downloadUrl": "https://edge.forgecdn.net/files/7035/506/dodge_parry_reward-1.20.1forge-20.12.1.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "d5eeac639ddd430b58858c20693ab11395cd1571"
-                },
-                "name": "Dodge Parry Reward"
             },
             {
                 "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/XKycRvwR/epicfight-forge-20.12.8-1.20.1.jar",
@@ -1042,13 +1028,6 @@
                 "name": "Epic Fight"
             },
             {
-                "downloadUrl": "https://edge.forgecdn.net/files/7035/767/sword_soaring-forge1.20.1-20.12.0.7-all.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "5c8f27868e53318106d74b32929d6d5879f9145a"
-                },
-                "name": "Epic Fight - Sword Soaring"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/PezbUFun/versions/s3iFPQ1R/epicfight-skilltree-forge-20.1.3-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "8432ee3e8c2d5c08ac9e5e00918392d10c559580bc8f67ac6562987bf9e11e9b328cf109beb396750aba49dc6884ec678d870a3f213f40d9abd2fbc1da0dc709"
@@ -1056,18 +1035,39 @@
                 "name": "Epic Fight: Skill Tree"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/OFMEWXJM/jei-1.20.1-forge-15.20.0.115.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "7842db2dc9ae77a60fdba290a9b9a58f95504d11976ea6b943786c499bd3f9349c27361e50089f4e69a7ebd4f5f4c59ac4845e18fb99a6fda360a8bf73e6a29f"
-                },
-                "name": "Just Enough Items"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/n0rkxKaA/sophisticatedcore-1.20.1-1.2.95.1174.jar",
                 "fileIntegrityInfo": {
                     "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
                 },
                 "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7037/790/dodge_parry_reward-1.20.1forge-20.12.2.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "7e1217e810a78a3e3935a4cfdd6e6010e3f69ae2"
+                },
+                "name": "Dodge Parry Reward"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7038/114/sword_soaring-forge1.20.1-20.12.1.0.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "320ba640416dde5aec85a404221e9f44f68a658d"
+                },
+                "name": "Epic Fight - Sword Soaring"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zzpNSbJZ/jei-1.20.1-forge-15.20.0.116.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "4a5337e8f8234e7053c8ad9c9f4f4aaf08ee03f66fea8146e9b5b2e357a8b892540b3b1dfefc73b618b9fa485c7c025481f9d17fb9f522a76839e499f8816741"
+                },
+                "name": "Just Enough Items"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/LYJRLti0/sophisticatedbackpacks-1.20.1-3.24.8.1381.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "34b67a534dce86f29a292b45bba13fd0da6183c4eab2743cfd3dfc45fa8aa96e4dbcc833f37b94fa7bf2a644ef46741c18eb0fe169a60d092d53c67201bc8bcd"
+                },
+                "name": "Sophisticated Backpacks"
             }
         ]
     },
@@ -1188,24 +1188,24 @@
                 }
             },
             {
-                "filePath": "mods/epic_fight_avalon-20.12.2.5.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epic_fight_avalon-20.12.2.5.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "085598478d3a6b76ff4d58df120b1b81116a69eb901675b5e3f5ed1ce7cf51fcec59a97899f3e14af5625638ba3ee04a873e49beb2c797a85ce7337b98f419d4"
-                }
-            },
-            {
-                "filePath": "mods/EpicFight Nightfall-2.0-all.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight Nightfall-2.0-all.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "c568172abc6d8968de096b3291042bcf92226414dddb740e88e8d738c3b61de4df5e317dc3ba7e667153dd4ffa7eaf7fe826cc26f953525b29ed8a1e9a699a05"
-                }
-            },
-            {
                 "filePath": "mods/dragonfist_legacy_test4_1.20.1.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test4_1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "5fcacacc3e81ce52c75e031037b7635963fdc5ac0b7ba295f058dfa91d14d4dbcafedcf9057440c43e48afebb58de436ec43472e7f39cb1abe981aabd802e2ab"
+                }
+            },
+            {
+                "filePath": "mods/epic_fight_avalon-20.12.3.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/epic_fight_avalon-20.12.3.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "b817b37259e58dd3af237ad796171e883fbea8b9d00cfcc60f15a3a8881fcdab066fada0afdb23ff35e64450bcdac5d795b7a3e3715a89addc94b2f2c1ba7ed9"
+                }
+            },
+            {
+                "filePath": "mods/EpicFight_Nightfall-2.0-9.27-fix.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight_Nightfall-2.0-9.27-fix.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "f88d5d414f75a0721c05c07b8667d1867ac4e026f08996eb2a68f0cb66aaadbcc630cb8e85d4b923f5e3c26053dfd6c2ea6efed8d1d7e9c0aa5f5b7436b9066c"
                 }
             },
             {
