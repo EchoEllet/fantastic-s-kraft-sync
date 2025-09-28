@@ -775,13 +775,6 @@
                 "name": "EntityCulling"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/23MovWyi/versions/URG9RSTR/improvedmobs-1.20.1-1.13.6-forge.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "7b46804330ae81d6277b52d2f841e35745be55e30c9cc4350e0502125f987838da4715fb426bd3e15ca92413b6319b0b957e6fca22df9243adbaf5ad85620e7a"
-                },
-                "name": "Improved Mobs Mod"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar",
                 "fileIntegrityInfo": {
                     "sha512": "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128060cefc4ae4147cce528a8e8c09688a36d8f9e11dbf77e93d89b743560"
@@ -874,13 +867,6 @@
                     "sha512": "2e351c53cd6484bec16e728ce5cfd5374c59d639ec747a34adcb638fdcaeaa9ec5be28378aaa8b983e4fb36cf9990f1bc2e605c3d31dc9e6a0fc846c81ace85c"
                 },
                 "name": "Entity Texture Features"
-            },
-            {
-                "downloadUrl": "https://cdn.modrinth.com/data/QQXAdCzh/versions/usgkP0fO/Ping-Wheel-1.11.0-forge-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "da0c23223a1ef05efd70fd8874c0251f2e5b33f16a27faf3cea075f56aa9df90b58eaa296f682dc83e34ba4439c2dfaaaec851cf66812bcbe4ffc1d6d2cee82d"
-                },
-                "name": "Ping Wheel"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/6855/87/impactful-20.13.1.jar",
@@ -1059,6 +1045,27 @@
                     "sha1": "56f89f8c6e61ee6c05d546c14eb62fd37521690c"
                 },
                 "name": "Dungeons Mobs Port"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/QQXAdCzh/versions/ECMhrBsg/Ping-Wheel-1.11.1-forge-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "96902ec0356ac684d50093703e44983495dfab2472ad6d76fd0d49b36d8778dc1d3ccec13fd56c6760ca98e74c22bb6cbb29b9500b37536124a3be7570fac74f"
+                },
+                "name": "Ping Wheel"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/qa2H4BS9/versions/lauzXB0n/canary-mc1.20.1-0.3.3.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "38f0bec7967f9d354e46dacdbe7d284ef823270dc737a7388adde157c45a025e53d77e04a00a582900666b85402c461bee4b80345fc7f03edb5c2b96708442bd"
+                },
+                "name": "Canary"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/4606/534/KryptonReforged-0.2.3.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "92690482dad46a8c9cf28e4b6b26e49f4dc67095"
+                },
+                "name": "Krypton Reforged"
             }
         ]
     },
