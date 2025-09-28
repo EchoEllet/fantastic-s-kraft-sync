@@ -1052,6 +1052,13 @@
                     "sha1": "128968499b26e2a2543292e204f62f58b6c67351"
                 },
                 "name": "Epic fight - Avalon"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/6785/377/dungeonsmobs-1.9.2.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "56f89f8c6e61ee6c05d546c14eb62fd37521690c"
+                },
+                "name": "Dungeons Mobs Port"
             }
         ]
     },
