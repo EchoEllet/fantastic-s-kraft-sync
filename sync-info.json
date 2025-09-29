@@ -669,13 +669,6 @@
                 "name": "GroovyModLoader (GML)"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/RHN9OPTT/versions/cjrb1wmA/terramity-0.9.8-forge-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "aed5dda694afc7181c703972a0e0a94996499d3f26d93b401284eae3a1aecd16c014cf63253b29f8d4077a825a12f0e7046b2601185fcc16420d79bc50332d9e"
-                },
-                "name": "Terramity"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
                 "fileIntegrityInfo": {
                     "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729"
