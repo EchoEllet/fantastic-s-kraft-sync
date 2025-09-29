@@ -1200,13 +1200,6 @@
                 }
             },
             {
-                "filePath": "mods/EpicFight Nightfall-2.0-test-end.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight Nightfall-2.0-test-end.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "0d8aedab66b61fffec6008834f82d970a379d53ca20e2bc2a4c16614cfadcc062416a740115b5ab8060b29ff9610f5e35ac73914b8e784db374deeb763f5676b"
-                }
-            },
-            {
                 "filePath": "mods/dragonfist_legacy_test5_1.20.1.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test5_1.20.1.jar",
                 "fileIntegrityInfo": {
@@ -1218,6 +1211,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/no_frontview_1.0.jar",
                 "fileIntegrityInfo": {
                     "sha512": "bd4e673381a8da0d31a50984d636d943eec2c8625c04924918f1095bcd354531626685497f0003646a59bb8073c7b0a8914aeee473276c48d2945e22a7df2e34"
+                }
+            },
+            {
+                "filePath": "mods/EpicFight_Nightfall-2.0-test-end.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight_Nightfall-2.0-test-end.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "0d8aedab66b61fffec6008834f82d970a379d53ca20e2bc2a4c16614cfadcc062416a740115b5ab8060b29ff9610f5e35ac73914b8e784db374deeb763f5676b"
                 }
             },
             {
