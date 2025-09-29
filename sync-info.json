@@ -904,26 +904,12 @@
                 "name": "Balm"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/J38UPdFA/ShoulderSurfing-Forge-1.20.1-4.14.3.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "a1eb9f397b459acdf8216f46c1b3605d501ad43923b8a48a0db4eb5ed992fa55fd582d199b2fe570299c29548fbb6ff0a90a4d0a74a45f6a0013ecc29d97bfe3"
-                },
-                "name": "Shoulder Surfing Reloaded"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/FaEiYJHL/Essential_1-3-9-1_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "ff82306fbff9e5058b175f44d9b809ab3277301be54739da3de26ffd50a1545bdf8f8f70ce44684b77802eb16ade7e6a3f6fc029a24a373235cefcd05c78c194"
                 },
                 "name": "Essential Mod",
                 "serverSupport": "unsupported"
-            },
-            {
-                "downloadUrl": "https://edge.forgecdn.net/files/7022/168/azurelib-neo-1.20.1-3.0.17.jar",
-                "fileIntegrityInfo": {
-                    "sha1": "9bd9ea936caa2b20acccff8bad3219c97287ffec"
-                },
-                "name": "AzureLib"
             },
             {
                 "downloadUrl": "https://edge.forgecdn.net/files/7010/10/brutalbosses-1.20.1-8.4.jar",
@@ -1087,6 +1073,13 @@
                     "sha512": "d9c374c11f214e0b8747f05c3929f3f7d7f18a14149d5427425bc6cad14807093ab281ac131babf6acaedb1a6a84bb5e8ba5d63108689c6885d77b65873a8e96"
                 },
                 "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://edge.forgecdn.net/files/7045/350/azurelib-neo-1.20.1-3.0.19.jar",
+                "fileIntegrityInfo": {
+                    "sha1": "facec2073a5fc870561b97a679575a4ea094771c"
+                },
+                "name": "AzureLib"
             }
         ]
     },
@@ -1218,6 +1211,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test5_1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "40b9b0f242dfbe58a1861914f85c6c107db6f09440699873b7b4204149e018570384fde9d52dd8b7d5f896d32de2e8b561242747a8a35286576d601bb5e24477"
+                }
+            },
+            {
+                "filePath": "mods/no_frontview_1.0.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/no_frontview_1.0.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "bd4e673381a8da0d31a50984d636d943eec2c8625c04924918f1095bcd354531626685497f0003646a59bb8073c7b0a8914aeee473276c48d2945e22a7df2e34"
                 }
             },
             {
