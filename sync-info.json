@@ -977,13 +977,6 @@
                 "name": "Sound Physics Remastered"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/XKycRvwR/epicfight-forge-20.12.8-1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "03e94a0bf4f6b5932b4e8a111ff7af5ef83a2f538d2699e7a28936ce7bc6297696e82e4e0d2fa431d5b5bcc3d4396695c424e8944397b43445494f756e3bef64"
-                },
-                "name": "Epic Fight"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/PezbUFun/versions/s3iFPQ1R/epicfight-skilltree-forge-20.1.3-1.20.1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "8432ee3e8c2d5c08ac9e5e00918392d10c559580bc8f67ac6562987bf9e11e9b328cf109beb396750aba49dc6884ec678d870a3f213f40d9abd2fbc1da0dc709"
@@ -1080,6 +1073,13 @@
                     "sha1": "facec2073a5fc870561b97a679575a4ea094771c"
                 },
                 "name": "AzureLib"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/oIlhG6te/epicfight-forge-20.12.9-1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "f9e99aed902fc9b73787a7a65db72f50456747a2bfd7381ee10504be54f01b9b187ed04ef7a907604ceb1591776411d774fc47fbcee8ed76efcb6232aaea8262"
+                },
+                "name": "Epic Fight"
             }
         ]
     },
@@ -1214,10 +1214,10 @@
                 }
             },
             {
-                "filePath": "mods/EpicFight_Nightfall-2.0-test-end.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight_Nightfall-2.0-test-end.jar",
+                "filePath": "mods/EpicFight-Nightfall-2.0-test-end-fix.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight-Nightfall-2.0-test-end-fix.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "0d8aedab66b61fffec6008834f82d970a379d53ca20e2bc2a4c16614cfadcc062416a740115b5ab8060b29ff9610f5e35ac73914b8e784db374deeb763f5676b"
+                    "sha512": "e9ee257a21f208012dfabf30c6a2d1626d04b27621992f7b4e8345b570042b9f83b4dfa40fe4e820cc2a094a3ef97df99eac6cf1da2684e9d499c0a8764d9c71"
                 }
             },
             {
