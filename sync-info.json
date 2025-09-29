@@ -1005,13 +1005,6 @@
                 "name": "Epic Fight: Skill Tree"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/n0rkxKaA/sophisticatedcore-1.20.1-1.2.95.1174.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
-                },
-                "name": "Sophisticated Core"
-            },
-            {
                 "downloadUrl": "https://edge.forgecdn.net/files/7037/790/dodge_parry_reward-1.20.1forge-20.12.2.jar",
                 "fileIntegrityInfo": {
                     "sha1": "7e1217e810a78a3e3935a4cfdd6e6010e3f69ae2"
@@ -1066,6 +1059,34 @@
                     "sha1": "92690482dad46a8c9cf28e4b6b26e49f4dc67095"
                 },
                 "name": "Krypton Reforged"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/9FvZteC3/sophisticatedcore-1.20.1-1.2.96.1182.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "7f7904f60d78dab42626c518fa17734fa50b634ca8edbc6df27484c6319840c1dbba8613be659b3331ec67c8a2ff5b20583f37d4979c62d185e2af561daf0a42"
+                },
+                "name": "Sophisticated Core"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/NEtfVCxm/artifacts-forge-9.5.16.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "17890934dd62a8a3434208b534c6eca10df62d65a8f6c47a51eff9c7b821ebdd4d7b8519235072a357bbbedf78725d9ab438e6a388e29c899b1b8584cf6149ec"
+                },
+                "name": "Artifacts"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/OCJRPujW/versions/XuIK02kC/relics-1.20.1-0.8.0.11.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "277b60daf86fafadf90938b71db03b67501f00f4105ab38d29de169792cad84b9a8b167146969ebf0f50a0c49561c22961c356b58e892cdd4519d18450f47bb2"
+                },
+                "name": "Relics"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/HZ7KmyXp/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "e0bbe3a999f3a8c32b7dc0fd5bae61f62915dc5be40ac97a777f0784cdfaaed74b74f48cd407b9a8abb081ff331fbd272c9d4e08125f48f091435c926468d5c6"
+                },
+                "name": "OctoLib"
             }
         ]
     },
@@ -1193,10 +1214,10 @@
                 }
             },
             {
-                "filePath": "mods/EpicFight_Nightfall-2.0-9.27-fix.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight_Nightfall-2.0-9.27-fix.jar",
+                "filePath": "mods/EpicFight Nightfall-2.0-test-end.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight Nightfall-2.0-test-end.jar",
                 "fileIntegrityInfo": {
-                    "sha512": "f88d5d414f75a0721c05c07b8667d1867ac4e026f08996eb2a68f0cb66aaadbcc630cb8e85d4b923f5e3c26053dfd6c2ea6efed8d1d7e9c0aa5f5b7436b9066c"
+                    "sha512": "0d8aedab66b61fffec6008834f82d970a379d53ca20e2bc2a4c16614cfadcc062416a740115b5ab8060b29ff9610f5e35ac73914b8e784db374deeb763f5676b"
                 }
             },
             {
