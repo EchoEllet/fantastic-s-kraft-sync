@@ -883,13 +883,6 @@
                 "name": "Immersive Aircraft"
             },
             {
-                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/1OQBd8YF/balm-forge-1.20.1-7.3.35-all.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "cf5d6b6183cc2c9dfa77c4666f7f75ea5b9417e23c9a8df091ae1f49e65b6f92e5d41e90a2e6d1b3207555de2239b163a6309a8b51d31c57725137f81375840d"
-                },
-                "name": "Balm"
-            },
-            {
                 "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/FaEiYJHL/Essential_1-3-9-1_forge_1-20-1.jar",
                 "fileIntegrityInfo": {
                     "sha512": "ff82306fbff9e5058b175f44d9b809ab3277301be54739da3de26ffd50a1545bdf8f8f70ce44684b77802eb16ade7e6a3f6fc029a24a373235cefcd05c78c194"
@@ -1066,6 +1059,13 @@
                     "sha512": "f9e99aed902fc9b73787a7a65db72f50456747a2bfd7381ee10504be54f01b9b187ed04ef7a907604ceb1591776411d774fc47fbcee8ed76efcb6232aaea8262"
                 },
                 "name": "Epic Fight"
+            },
+            {
+                "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/tX9xZml9/balm-forge-1.20.1-7.3.36-all.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "36c5050358fa408549fd0476e26ee3230119e05c6958b06bb8934fa52ae412888487447f39581a37ad4e4eebd5b7108f13fb80d20635e4c3f8be9acc456dd252"
+                },
+                "name": "Balm"
             }
         ]
     },
@@ -1186,13 +1186,6 @@
                 }
             },
             {
-                "filePath": "mods/dragonfist_legacy_test5_1.20.1.jar",
-                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test5_1.20.1.jar",
-                "fileIntegrityInfo": {
-                    "sha512": "40b9b0f242dfbe58a1861914f85c6c107db6f09440699873b7b4204149e018570384fde9d52dd8b7d5f896d32de2e8b561242747a8a35286576d601bb5e24477"
-                }
-            },
-            {
                 "filePath": "mods/no_frontview_1.0.jar",
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/no_frontview_1.0.jar",
                 "fileIntegrityInfo": {
@@ -1204,6 +1197,13 @@
                 "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/EpicFight-Nightfall-2.0-test-end-fix.jar",
                 "fileIntegrityInfo": {
                     "sha512": "e9ee257a21f208012dfabf30c6a2d1626d04b27621992f7b4e8345b570042b9f83b4dfa40fe4e820cc2a094a3ef97df99eac6cf1da2684e9d499c0a8764d9c71"
+                }
+            },
+            {
+                "filePath": "mods/dragonfist_legacy_test6_1.20.1.jar",
+                "downloadUrl": "https://raw.githubusercontent.com/EchoEllet/fantastic-s-kraft-sync/refs/heads/main/customFiles/mods/dragonfist_legacy_test6_1.20.1.jar",
+                "fileIntegrityInfo": {
+                    "sha512": "c87acac825894d50a7503a2f2b5ae4a5135ef5ca409454a5e88ff57a801f0214af8393710517a5b9cd90ba70f9a82dd9bc0e1d5ff0f810aec95fb3db9c8fd30c"
                 }
             },
             {
